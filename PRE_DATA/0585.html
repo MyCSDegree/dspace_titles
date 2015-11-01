@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Browsing by Date</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow-highlight.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h2>Browsing by Date</h2>
+    
+    <form action="browse-date" method="get">
+
+        <table align="center" border="0" bgcolor="#CCCCCC" cellpadding="0" summary="Browse the respository by date">
+            <tr>
+                <td>
+                    <table border="0" bgcolor="#EEEEEE" cellpadding="2">
+                        <tr>
+                            <td class="browseBar">
+                                
+								<span class="browseBarLabel">Jump to a point in the index: </span>
+                                <select name="month">
+								    
+                                    <option selected="selected" value="-1">(Choose month)</option>
+
+                                    <option value="1">January</option>
+
+                                    <option value="2">February</option>
+
+                                    <option value="3">March</option>
+
+                                    <option value="4">April</option>
+
+                                    <option value="5">May</option>
+
+                                    <option value="6">June</option>
+
+                                    <option value="7">July</option>
+
+                                    <option value="8">August</option>
+
+                                    <option value="9">September</option>
+
+                                    <option value="10">October</option>
+
+                                    <option value="11">November</option>
+
+                                    <option value="12">December</option>
+
+                                </select>
+                                <select name="year">
+								    
+                                    <option selected="selected" value="-1">(Choose year)</option>
+
+                                    <option>2015</option>
+
+                                    <option>2014</option>
+
+                                    <option>2013</option>
+
+                                    <option>2012</option>
+
+                                    <option>2011</option>
+
+                                    <option>2010</option>
+
+                                    <option>2009</option>
+
+                                    <option>2008</option>
+
+                                    <option>2007</option>
+
+                                    <option>2006</option>
+
+                                    <option>2005</option>
+
+                                    <option>2004</option>
+
+                                    <option>2003</option>
+
+                                    <option>2002</option>
+
+                                    <option>2001</option>
+
+                                    <option>2000</option>
+
+                                    <option>1999</option>
+
+                                    <option>1998</option>
+
+                                    <option>1997</option>
+
+                                    <option>1996</option>
+
+                                    <option>1995</option>
+
+                                    <option>1994</option>
+
+                                    <option>1993</option>
+
+                                    <option>1992</option>
+
+                                    <option>1991</option>
+
+                                    <option>1990</option>
+
+                                    <option>1985</option>
+                                    <option>1980</option>
+                                    <option>1975</option>
+                                    <option>1970</option>
+                                    <option>1960</option>
+                                    <option>1950</option>
+                                </select>
+                            </td>
+                            <td class="browseBar" rowspan="2">
+							    
+                                <input type="submit" value="Go!" />
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="browseBar" align="center">
+							    
+                                <span class="browseBarLabel">Or type in a year:</span>
+                                <input type="text" name="starts_with" size="4" maxlength="4"/>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+        
+
+        <table border="0" width="70%" align="center">
+            <tr>
+                <td align="left" class="standard">
+
+                    
+                    <strong>Ordering With Most Recent First</strong>
+
+                </td>
+                <td align="right" class="standard">
+
+                    
+                    <a href="browse-date?bottom=123456789%2F1894&amp;order=oldestfirst">Show Oldest First</a>
+
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <br/>
+
+    
+	<p align="center">Showing items 11681-11701 of 13400.</p>
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+                <a href="browse-date?bottom=123456789%2F1894">Previous page</a>
+
+
+            </td>
+            <td class="standard" align="right">
+
+                
+				<a href="browse-date?top=123456789%2F1588">Next page</a>
+
+
+            </td>
+        </tr>
+    </table>
+
+
+
+    <table align="center" class="miscTable" summary="This table browse all dspace content">
+<tr>
+<th id="t1" class="oddRowEvenCol"><strong>Issue Date</strong></th><th id="t2" class="oddRowOddCol">Title</th><th id="t3" class="oddRowEvenCol">Author(s)</th></tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1894">Inhibition of Proliferation by hr3 on A431 Cell line using Sulphorhodmine b Assay</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Latha, Preethi</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1893">Spices identification in Amaranthus by PCR-RFLP using trns-psbc Gene Region and Hae III,Hha I,Taq I</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Poovitha S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1892">Trehalose Degradation by Bradyrhizobium Japonicum Isolated from the Root Nodules of Arachis Hypogea</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Parandhaman A</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1891">Screening for A7445 and T7511C Mitochondrial Deafness Mutation among hearing Impaired</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Mari, Nathia</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1889">Lead Identification of Renin Using Pharmacophore Studies</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Vinda, Mithra J</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1887">PCR-RFLP Pattern Analysis of ten Spices of the Genus Cassia</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Alexander, Zoe Jeniat</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1886">Impact of four Major Carbon and Nitrogen sources on Production of Amino Acids by Bacillus Megaterium</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Bindu, Hima G</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1885">Callus Culture Studies and Micropropagation of Phyllanthu Niruris</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Bernisha V</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1884">Molecular Diagnosis of Duchenne and Becker's Muscular Dystrophy</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Advaitha M</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1883">Micropropagation of Aloe Vera</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Narayana, Dhivya K S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1882">Screening for A7445G and T7511C Mitochondrial Deafness Mutation Among Hearing Impaired from nagercoil, Tamilnadu</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Rani, Sudha</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1881">Species Identification in Amaranthus by PCR-RFLP using trnS-PsbC Gene Region and Alul, Mspi and Sau 3AI</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Swathi R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1880">PCR-RFLP Pattern Analysis of ten Spices of the Genus Cassia</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Thressa, Tina</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1879">Prevalence and distribution Lux Genes in Marine Fishes</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Stella P; Vijay, Shirin</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1878">Lead identification of Reverse Transcriptase using qsar Studies</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Dwivedi, Vidweta</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1877">Lead identification of Casepase-8 using Pharmacophore Studies</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Vemula, Venukumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1721">Detection Isolation of Routing Misbhavour In Manet</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Manish, Jain</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1692">Designing &lt;PI,IP&gt; Filters For DDOS Attack</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Nitesh, P; Sandeep Jain, G</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1627">Detection and Prevention of Phishing Attacks Using Linkguard Algorithm</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Suresh Kumar, T; Venkatesh Kumar, S; Ashok Kumar, S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/1608">Digital Signature Based Marksheet Generation System for Universities</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Animesh, Kumar; Anurag, Kumar Jain</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/1588">Active Filtering Technology Applications for Industrial Power System with Non Linear Load</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Karthikeyan.A; Kirubakaran.S; Paramaguru.E</em></td>
+</tr>
+</table>
+
+
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+				<a href="browse-date?bottom=123456789%2F1894">Previous page</a>
+
+            </td>
+            <td class="standard" align="right">
+
+
+                
+				<a href="browse-date?top=123456789%2F1588">Next page</a>
+
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

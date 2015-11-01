@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Browsing by Date</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow-highlight.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h2>Browsing by Date</h2>
+    
+    <form action="browse-date" method="get">
+
+        <table align="center" border="0" bgcolor="#CCCCCC" cellpadding="0" summary="Browse the respository by date">
+            <tr>
+                <td>
+                    <table border="0" bgcolor="#EEEEEE" cellpadding="2">
+                        <tr>
+                            <td class="browseBar">
+                                
+								<span class="browseBarLabel">Jump to a point in the index: </span>
+                                <select name="month">
+								    
+                                    <option selected="selected" value="-1">(Choose month)</option>
+
+                                    <option value="1">January</option>
+
+                                    <option value="2">February</option>
+
+                                    <option value="3">March</option>
+
+                                    <option value="4">April</option>
+
+                                    <option value="5">May</option>
+
+                                    <option value="6">June</option>
+
+                                    <option value="7">July</option>
+
+                                    <option value="8">August</option>
+
+                                    <option value="9">September</option>
+
+                                    <option value="10">October</option>
+
+                                    <option value="11">November</option>
+
+                                    <option value="12">December</option>
+
+                                </select>
+                                <select name="year">
+								    
+                                    <option selected="selected" value="-1">(Choose year)</option>
+
+                                    <option>2015</option>
+
+                                    <option>2014</option>
+
+                                    <option>2013</option>
+
+                                    <option>2012</option>
+
+                                    <option>2011</option>
+
+                                    <option>2010</option>
+
+                                    <option>2009</option>
+
+                                    <option>2008</option>
+
+                                    <option>2007</option>
+
+                                    <option>2006</option>
+
+                                    <option>2005</option>
+
+                                    <option>2004</option>
+
+                                    <option>2003</option>
+
+                                    <option>2002</option>
+
+                                    <option>2001</option>
+
+                                    <option>2000</option>
+
+                                    <option>1999</option>
+
+                                    <option>1998</option>
+
+                                    <option>1997</option>
+
+                                    <option>1996</option>
+
+                                    <option>1995</option>
+
+                                    <option>1994</option>
+
+                                    <option>1993</option>
+
+                                    <option>1992</option>
+
+                                    <option>1991</option>
+
+                                    <option>1990</option>
+
+                                    <option>1985</option>
+                                    <option>1980</option>
+                                    <option>1975</option>
+                                    <option>1970</option>
+                                    <option>1960</option>
+                                    <option>1950</option>
+                                </select>
+                            </td>
+                            <td class="browseBar" rowspan="2">
+							    
+                                <input type="submit" value="Go!" />
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="browseBar" align="center">
+							    
+                                <span class="browseBarLabel">Or type in a year:</span>
+                                <input type="text" name="starts_with" size="4" maxlength="4"/>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+        
+
+        <table border="0" width="70%" align="center">
+            <tr>
+                <td align="left" class="standard">
+
+                    
+                    <strong>Ordering With Most Recent First</strong>
+
+                </td>
+                <td align="right" class="standard">
+
+                    
+                    <a href="browse-date?bottom=123456789%2F17461&amp;order=oldestfirst">Show Oldest First</a>
+
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <br/>
+
+    
+	<p align="center">Showing items 4161-4181 of 13400.</p>
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+                <a href="browse-date?bottom=123456789%2F17461">Previous page</a>
+
+
+            </td>
+            <td class="standard" align="right">
+
+                
+				<a href="browse-date?top=123456789%2F17439">Next page</a>
+
+
+            </td>
+        </tr>
+    </table>
+
+
+
+    <table align="center" class="miscTable" summary="This table browse all dspace content">
+<tr>
+<th id="t1" class="oddRowEvenCol"><strong>Issue Date</strong></th><th id="t2" class="oddRowOddCol">Title</th><th id="t3" class="oddRowEvenCol">Author(s)</th></tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17461">Energy efficient heat exchanger using nano enhanced phase change material for cooling applications</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Raghu bhooshan, A.s; Arun, S; Balaji, P</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17459">Electrical power generation using speed breaker</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Kalaibharath, S; Sundaresan, M; Vivekananthan, S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17458">Effect of concentration ratio on the performance of solar parabolic dish concentrator system</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>gangopadhyay, Dipyaman; De, Ishan; Baid, Mohit kumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17457">Effect of bunching of cilia and their interplay on muco-ciliary transport</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Roy, yagnaseni</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17456">Dual Acting Solar Panel Using Worm Gear System</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>goutthamraj, K.v; Dheeraj nag, A; Sachin sriram, A.</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17455">Development of aluminum nana composites and analyzing their sliding wear behavior under dry conditions</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>sundeep, B; jagadeesh, B; chandra harsha, T</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17454">Determination of optimum injection pressure of vegetable oils for ci engine applications</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>venkitachalam, Narayan; lal, Nitin; Penmetsa aditya varma</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17453">A Project Report on Detailed Investigation of Vegetable Oil as Bio Fuel</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Singh, Rohan; Kaushik, Rohan; A jain, Nimish</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17452">Design of unfolding and locking mechansim for under water fin deployment</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>D, Keerthi vasan</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17451">A Project Report on Design of Airconditioning Plant</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Joe Raju, Kevin</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17450">A Project Report on Design and Optimization of a Pull Rod Suspension Setup and Its Wheel Assembly</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Makineni, Aditya; Jhaldiyal, Varun</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17449">A Project Report on Design and Fabrication of Windmill Miniature</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Roy, Apurba; A, Balaji; S.P, Mahendra varman</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17448">A Project Report on Design and Fabrication of Sensor Based Inspection Conveyor</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>N, Cibi chakravarthy; D.S, Mithun; S, Vasanthakumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17447">Design and fabrication of Mr Fluid assisted worktable for milling</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>sri krishna charan, CH; ismail, shaik asif; jayanth kumar, Suresh</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17446">A Project Report on Design and Fabrication of Mobile Cycle Pump</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>singh, Vijay pal; kumar, Vishal; malpani, Rohit</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17445">A project reporton design and fabrication of inertial disc brake test rig</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Handa, Shivendra rai; Vadhariya, Shrikant B; dey, Subhajit</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17444">A project report on design and fabrication of air engine</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>S, Vigneshwar; C.S, Vishnu varthan; Raghavan, Vyas</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17443">A Project Report on Design and Fabricate a Savonius Wind Turbine</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Karthikeyan; Kishore Kumar, R; Ganesh, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17442">Design and analysis of tata truck 497Engine oil sump gasket</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Hari krishna reddy, p; K.D, Poojith raj</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/17441">A project report on design and analysis of a thin airfoil wind blade</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>K, janathanan; Suresh, Krishwan; N, Lakshmanan</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2013 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/17439">A Project Report on Defect Detection Using Intensity Integration Technique</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Arpita, soni; Palak tiwari</em></td>
+</tr>
+</table>
+
+
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+				<a href="browse-date?bottom=123456789%2F17461">Previous page</a>
+
+            </td>
+            <td class="standard" align="right">
+
+
+                
+				<a href="browse-date?top=123456789%2F17439">Next page</a>
+
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

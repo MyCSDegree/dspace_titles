@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Browsing by Date</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow-highlight.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h2>Browsing by Date</h2>
+    
+    <form action="browse-date" method="get">
+
+        <table align="center" border="0" bgcolor="#CCCCCC" cellpadding="0" summary="Browse the respository by date">
+            <tr>
+                <td>
+                    <table border="0" bgcolor="#EEEEEE" cellpadding="2">
+                        <tr>
+                            <td class="browseBar">
+                                
+								<span class="browseBarLabel">Jump to a point in the index: </span>
+                                <select name="month">
+								    
+                                    <option selected="selected" value="-1">(Choose month)</option>
+
+                                    <option value="1">January</option>
+
+                                    <option value="2">February</option>
+
+                                    <option value="3">March</option>
+
+                                    <option value="4">April</option>
+
+                                    <option value="5">May</option>
+
+                                    <option value="6">June</option>
+
+                                    <option value="7">July</option>
+
+                                    <option value="8">August</option>
+
+                                    <option value="9">September</option>
+
+                                    <option value="10">October</option>
+
+                                    <option value="11">November</option>
+
+                                    <option value="12">December</option>
+
+                                </select>
+                                <select name="year">
+								    
+                                    <option selected="selected" value="-1">(Choose year)</option>
+
+                                    <option>2015</option>
+
+                                    <option>2014</option>
+
+                                    <option>2013</option>
+
+                                    <option>2012</option>
+
+                                    <option>2011</option>
+
+                                    <option>2010</option>
+
+                                    <option>2009</option>
+
+                                    <option>2008</option>
+
+                                    <option>2007</option>
+
+                                    <option>2006</option>
+
+                                    <option>2005</option>
+
+                                    <option>2004</option>
+
+                                    <option>2003</option>
+
+                                    <option>2002</option>
+
+                                    <option>2001</option>
+
+                                    <option>2000</option>
+
+                                    <option>1999</option>
+
+                                    <option>1998</option>
+
+                                    <option>1997</option>
+
+                                    <option>1996</option>
+
+                                    <option>1995</option>
+
+                                    <option>1994</option>
+
+                                    <option>1993</option>
+
+                                    <option>1992</option>
+
+                                    <option>1991</option>
+
+                                    <option>1990</option>
+
+                                    <option>1985</option>
+                                    <option>1980</option>
+                                    <option>1975</option>
+                                    <option>1970</option>
+                                    <option>1960</option>
+                                    <option>1950</option>
+                                </select>
+                            </td>
+                            <td class="browseBar" rowspan="2">
+							    
+                                <input type="submit" value="Go!" />
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="browseBar" align="center">
+							    
+                                <span class="browseBarLabel">Or type in a year:</span>
+                                <input type="text" name="starts_with" size="4" maxlength="4"/>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+        
+
+        <table border="0" width="70%" align="center">
+            <tr>
+                <td align="left" class="standard">
+
+                    
+                    <strong>Ordering With Most Recent First</strong>
+
+                </td>
+                <td align="right" class="standard">
+
+                    
+                    <a href="browse-date?bottom=123456789%2F3288&amp;order=oldestfirst">Show Oldest First</a>
+
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <br/>
+
+    
+	<p align="center">Showing items 11781-11801 of 13400.</p>
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+                <a href="browse-date?bottom=123456789%2F3288">Previous page</a>
+
+
+            </td>
+            <td class="standard" align="right">
+
+                
+				<a href="browse-date?top=123456789%2F3266">Next page</a>
+
+
+            </td>
+        </tr>
+    </table>
+
+
+
+    <table align="center" class="miscTable" summary="This table browse all dspace content">
+<tr>
+<th id="t1" class="oddRowEvenCol"><strong>Issue Date</strong></th><th id="t2" class="oddRowOddCol">Title</th><th id="t3" class="oddRowEvenCol">Author(s)</th></tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3288">STUDIES ON IN-VITRO GENOTOXICITY TESTING OF SODIUM ORTHO VANADATE COMPOUND IN HUMAN LYMPHOCYTES</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>AROON SHESHADRI, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3287">Synthesis and characterization of Carboxy Methyl Cellulose -polylactic acid copolymer as drug carriers</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>VISHWANATHAN, A</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3286">INTRACRANIAL ANEURYSM: MICROSATELLITE AND HAPLOTYPE ASSOCIATION STUDIES IN CHROMOSOME 7Q11 IN SOUTH INDIAN PATIENTS</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>AISHWARYA, PREMNATH</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3285">QSAR STUDIES ON BIS (ARYLCARBOXAMIDES) DESIGNED AS TOPOISOMERASE III- INHIBITORS</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>MEHER MOHINI, CH</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3284">QUANTITATIVE STRUCTURE ACTIVITY RELATIONSHIP (QSAR) OF A SERIES OF INHIBITORS OF CEREBRAL ISCHEMIA</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>CYRIL MARIAN, S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3283">HOMOLOGY MODELING AND ACTIVE SITE PREDICTION OF VITAL PROTEINS RESPOSIBLE FOR ASTHMA</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>PRIYANKA, M.S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3282">GENE ONTOLOGY AND GSEA ANALYSIS OF BREAST CANCER MICROARRAY DATASETS</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Anna Ida Christy, V.J</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3281">QSAR STUDIES ON TOPOISOME TYPE-IV INHIBITORS AGAINST FLUOROQUINOLONES</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>AHAMED MUNEER BHASHA, SK</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3280">INSILICO DESIGNING OF POTENTIAL DRUG CANDIDATES FOR BACILLUS ANTHRACIS THROUGH GENOMICS APPROACH</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>KITSON, D</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3279">INHIBITORS FOR CYCLOOXYGENASE-2 –A MOLECULAR MODELING APPROACH</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Ashi Rathna, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3278">IDENTIFICATION OF NOVEL DRUG TARGETS IN SILICO For Chlamydophila abortus USING HIGHLY EXPRESSED GENES</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>ARUN SUBRAMANIAN</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3277">IN SILICO EXPRESSION STUDIES OF GENES ASSOCIATED WITH COLORECTAL CANCER</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>PRUTHVI KUMAR, A</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3276">FUNCTIONAL GENOMICS STUDIES ON HYPOTHETICAL PROTEIN OF SACCHAROMYCES CEREVISIAE</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>LOGESHWARAN, V</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3274">INSILCO GENE EXPRESSION PROFILING STUDIES ON BRAIN TUMOUR</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>SAGALA ASHWIN KUMAR</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3273">PROTEIN STRUCTURE PREDICTION OF THE PROTEINS RESPONSIBLE FOR MULTIPLE SCLEROSIS</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>BARATHKUMAR, S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3272">Characterisation of Hypothetical Proteins from Clostridium Botulinum</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Prem Kumar.P</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3271">QSAR STUDIES AND DOCKING OF TOPOISOMERASE TYPE-1 PROTEIN INHIBITORS WITH BENZOPHENAZINES</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>HARISH SINGAMSETTY</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3270">FUNCTIONAL GENOMICS STUDIES ON HYPOTHETICAL PROTEIN OF SACCHAROMYCES CEREVISIAE</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>LOGESHWARAN, V</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3268">INSILICO EXPRESSION AND IDENTIFICATION OF DRUG TARGET IN Aeromonas hydrophila</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>GANESH, A</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/3267">Comparative Analysis Ofmetabolic Pathways to Find out Novel Drug Targets in Serratia Proteamaculans</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Indhumathi.C T</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>11-Apr-2008 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/3266">QUANTITATIVE STRUCTURE ACTIVITY RELATIONSHIP OF HUMAN CYTOCHROME P-450</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Isaac Prashanth, L</em></td>
+</tr>
+</table>
+
+
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+				<a href="browse-date?bottom=123456789%2F3288">Previous page</a>
+
+            </td>
+            <td class="standard" align="right">
+
+
+                
+				<a href="browse-date?top=123456789%2F3266">Next page</a>
+
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

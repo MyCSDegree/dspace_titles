@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Browsing by Date</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow-highlight.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h2>Browsing by Date</h2>
+    
+    <form action="browse-date" method="get">
+
+        <table align="center" border="0" bgcolor="#CCCCCC" cellpadding="0" summary="Browse the respository by date">
+            <tr>
+                <td>
+                    <table border="0" bgcolor="#EEEEEE" cellpadding="2">
+                        <tr>
+                            <td class="browseBar">
+                                
+								<span class="browseBarLabel">Jump to a point in the index: </span>
+                                <select name="month">
+								    
+                                    <option selected="selected" value="-1">(Choose month)</option>
+
+                                    <option value="1">January</option>
+
+                                    <option value="2">February</option>
+
+                                    <option value="3">March</option>
+
+                                    <option value="4">April</option>
+
+                                    <option value="5">May</option>
+
+                                    <option value="6">June</option>
+
+                                    <option value="7">July</option>
+
+                                    <option value="8">August</option>
+
+                                    <option value="9">September</option>
+
+                                    <option value="10">October</option>
+
+                                    <option value="11">November</option>
+
+                                    <option value="12">December</option>
+
+                                </select>
+                                <select name="year">
+								    
+                                    <option selected="selected" value="-1">(Choose year)</option>
+
+                                    <option>2015</option>
+
+                                    <option>2014</option>
+
+                                    <option>2013</option>
+
+                                    <option>2012</option>
+
+                                    <option>2011</option>
+
+                                    <option>2010</option>
+
+                                    <option>2009</option>
+
+                                    <option>2008</option>
+
+                                    <option>2007</option>
+
+                                    <option>2006</option>
+
+                                    <option>2005</option>
+
+                                    <option>2004</option>
+
+                                    <option>2003</option>
+
+                                    <option>2002</option>
+
+                                    <option>2001</option>
+
+                                    <option>2000</option>
+
+                                    <option>1999</option>
+
+                                    <option>1998</option>
+
+                                    <option>1997</option>
+
+                                    <option>1996</option>
+
+                                    <option>1995</option>
+
+                                    <option>1994</option>
+
+                                    <option>1993</option>
+
+                                    <option>1992</option>
+
+                                    <option>1991</option>
+
+                                    <option>1990</option>
+
+                                    <option>1985</option>
+                                    <option>1980</option>
+                                    <option>1975</option>
+                                    <option>1970</option>
+                                    <option>1960</option>
+                                    <option>1950</option>
+                                </select>
+                            </td>
+                            <td class="browseBar" rowspan="2">
+							    
+                                <input type="submit" value="Go!" />
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="browseBar" align="center">
+							    
+                                <span class="browseBarLabel">Or type in a year:</span>
+                                <input type="text" name="starts_with" size="4" maxlength="4"/>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+        
+
+        <table border="0" width="70%" align="center">
+            <tr>
+                <td align="left" class="standard">
+
+                    
+                    <strong>Ordering With Most Recent First</strong>
+
+                </td>
+                <td align="right" class="standard">
+
+                    
+                    <a href="browse-date?bottom=123456789%2F8076&amp;order=oldestfirst">Show Oldest First</a>
+
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <br/>
+
+    
+	<p align="center">Showing items 9521-9541 of 13400.</p>
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+                <a href="browse-date?bottom=123456789%2F8076">Previous page</a>
+
+
+            </td>
+            <td class="standard" align="right">
+
+                
+				<a href="browse-date?top=123456789%2F8048">Next page</a>
+
+
+            </td>
+        </tr>
+    </table>
+
+
+
+    <table align="center" class="miscTable" summary="This table browse all dspace content">
+<tr>
+<th id="t1" class="oddRowEvenCol"><strong>Issue Date</strong></th><th id="t2" class="oddRowOddCol">Title</th><th id="t3" class="oddRowEvenCol">Author(s)</th></tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8076">Market Penetration of IDBI Fortis Life Insurance Co Ltd</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Rishi Kant Singh</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8075">HDFC Standard Life Insurance Company Ltd in Customer-Buying Behavior in Life Insurance Industry</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Anand. N</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8074">A Project Report On Customer Preference For Dsc Hyundai Motor Pvt Ltd. Chennai</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>M.H.Aboobakar Siddique</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8073">A Project Report On Customer Preference For Dsc Hyundai Motor Pvt Ltd. Chennai</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>S.Arvindhraj</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8072">Competency Mapping for Quality Assurance Department at Sundaram Clayton Limited, Padi, Chennai.</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>M. Anja Naga Haritha</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8071">A Project Report on Brand Awareness of Gmr Aviation Pvt Ltd</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>M.Chaitanya</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8070">A Proactive Response to Non Performing Assets in the Indian Banking System – Indian Overseas Bank, Adyar, Chennai</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Sreejith Nair</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8069">A Market Study of Radio Frequency Identification Device in Chennai</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Mukthar Ibrahim P.S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8068">A Market Research Project on Readymade Garment in Chennai City for John Hill</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Gagan Bihari Singh</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8065">Competitive Analysis of Brand Apparels</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Bipin Kumar Pathak</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8063">Product/Services and Marketing Strategies</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>N.Ajeeth Newlight</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8062">Growth the Potential and Credit Analysis of  Punjab National Bank</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Mayank Kumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8061">Customer Perception on Wealthsurance Plan  of Idbi Fortis Co. Ltd</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>S.Ovuraj</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8060">A Descriptive Analysis of Non Performing Assets in Psb’s – with Special Reference to Canara Bank</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>G. Rajesh Kumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8059">A Consumer perception about life insurance with special reference to MetLife</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>S.Selvakumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8058">A Consumer Behaviour Study about Retail Showrooms of Branded Cloths with Special Reference to John Hill</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Abhishek Sharma</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8057">A Commpetitor  Analysis  of Threadss Market  with Referrence to Madura Coats</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Ramessh Kumarr Singh</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8056">A Brief Study on the Effectiveness of Direct Marketing Techniques Adopted by the Relationship Managers of icici Direct for online Trading in Delhi</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Ashish Kumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8055">A Competitor Analysis of Threads Market with Reference of Madura Coats</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Vikas Kumar</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/8049">A Comparative Study of Madura Coats Threads with Vardhman</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Abhay Kumar Singh</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>1-May-2010 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/8048">A Comparative Study of Kotak Mahindra Life Insurance with other Private Life Insurance Companies in Chennai</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Rahul Prabhat</em></td>
+</tr>
+</table>
+
+
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+				<a href="browse-date?bottom=123456789%2F8076">Previous page</a>
+
+            </td>
+            <td class="standard" align="right">
+
+
+                
+				<a href="browse-date?top=123456789%2F8048">Next page</a>
+
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

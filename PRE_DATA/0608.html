@@ -1,0 +1,637 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Browsing by Date</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow-highlight.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <h2>Browsing by Date</h2>
+    
+    <form action="browse-date" method="get">
+
+        <table align="center" border="0" bgcolor="#CCCCCC" cellpadding="0" summary="Browse the respository by date">
+            <tr>
+                <td>
+                    <table border="0" bgcolor="#EEEEEE" cellpadding="2">
+                        <tr>
+                            <td class="browseBar">
+                                
+								<span class="browseBarLabel">Jump to a point in the index: </span>
+                                <select name="month">
+								    
+                                    <option selected="selected" value="-1">(Choose month)</option>
+
+                                    <option value="1">January</option>
+
+                                    <option value="2">February</option>
+
+                                    <option value="3">March</option>
+
+                                    <option value="4">April</option>
+
+                                    <option value="5">May</option>
+
+                                    <option value="6">June</option>
+
+                                    <option value="7">July</option>
+
+                                    <option value="8">August</option>
+
+                                    <option value="9">September</option>
+
+                                    <option value="10">October</option>
+
+                                    <option value="11">November</option>
+
+                                    <option value="12">December</option>
+
+                                </select>
+                                <select name="year">
+								    
+                                    <option selected="selected" value="-1">(Choose year)</option>
+
+                                    <option>2015</option>
+
+                                    <option>2014</option>
+
+                                    <option>2013</option>
+
+                                    <option>2012</option>
+
+                                    <option>2011</option>
+
+                                    <option>2010</option>
+
+                                    <option>2009</option>
+
+                                    <option>2008</option>
+
+                                    <option>2007</option>
+
+                                    <option>2006</option>
+
+                                    <option>2005</option>
+
+                                    <option>2004</option>
+
+                                    <option>2003</option>
+
+                                    <option>2002</option>
+
+                                    <option>2001</option>
+
+                                    <option>2000</option>
+
+                                    <option>1999</option>
+
+                                    <option>1998</option>
+
+                                    <option>1997</option>
+
+                                    <option>1996</option>
+
+                                    <option>1995</option>
+
+                                    <option>1994</option>
+
+                                    <option>1993</option>
+
+                                    <option>1992</option>
+
+                                    <option>1991</option>
+
+                                    <option>1990</option>
+
+                                    <option>1985</option>
+                                    <option>1980</option>
+                                    <option>1975</option>
+                                    <option>1970</option>
+                                    <option>1960</option>
+                                    <option>1950</option>
+                                </select>
+                            </td>
+                            <td class="browseBar" rowspan="2">
+							    
+                                <input type="submit" value="Go!" />
+                            </td>
+                        </tr>
+                        <tr>
+                            
+                            <td class="browseBar" align="center">
+							    
+                                <span class="browseBarLabel">Or type in a year:</span>
+                                <input type="text" name="starts_with" size="4" maxlength="4"/>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+
+
+        
+
+        <table border="0" width="70%" align="center">
+            <tr>
+                <td align="left" class="standard">
+
+                    
+                    <strong>Ordering With Most Recent First</strong>
+
+                </td>
+                <td align="right" class="standard">
+
+                    
+                    <a href="browse-date?bottom=123456789%2F589&amp;order=oldestfirst">Show Oldest First</a>
+
+                </td>
+            </tr>
+        </table>
+    </form>
+
+    <br/>
+
+    
+	<p align="center">Showing items 12141-12161 of 13400.</p>
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+                <a href="browse-date?bottom=123456789%2F589">Previous page</a>
+
+
+            </td>
+            <td class="standard" align="right">
+
+                
+				<a href="browse-date?top=123456789%2F569">Next page</a>
+
+
+            </td>
+        </tr>
+    </table>
+
+
+
+    <table align="center" class="miscTable" summary="This table browse all dspace content">
+<tr>
+<th id="t1" class="oddRowEvenCol"><strong>Issue Date</strong></th><th id="t2" class="oddRowOddCol">Title</th><th id="t3" class="oddRowEvenCol">Author(s)</th></tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/589">IMPLEMENTATION OF REAL TIME DSP GMSK MODEM ON TMS320C6713  WITH SYMBOL SYNCHRONIZATION</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>KEERTHANA PRIYA, V</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/588">FAULT MANAGEMENT IN WDM MESH NETWORKS</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>KARTHIKA, P; LOKINI, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/587">IMMOBILIZATION OF AUTOMOBILE USING IMMOBILIZATION OF AUTOMOBILE USING</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>KARTHIK, V.O; MANOJ SHANKAR, M; MAYILVAHANAN, J; PRAVEEN, K.S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/586">Attendance Authentication and Record System</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>Kalaiarasan.V; Madhankumar.M; Manikandan.S; Prakash.P</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/585">MODIFIED AODV IN HETEROGENEOUSLY POWERED AD HOC NETWORKS</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>HARINI, V; JANANI, RADHAKRISHNAN; NANDINI, M.K</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/584">WLAN SECURITY USING SYMMETRIC KEY CRYPTOGRAPHY (AES)</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>CHANDRAVEL MURUGAN, SK; GOKUL, K; HITESH KUMAR, K; MADHAN, S</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/583">IMPLEMENTATION OF HYBRID COORDINATION FUNCTION IN  NETWORK SIMULATOR-2</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>CHANDRASHEKAR, R; GEORGE MATHEW THARAKAN; JOSEPH THALIATH</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/582">VHDL  BASED DESIGN OF CPU USING MODELSIM</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>ARJUN, G.M; ARUN PRASAD, G; GANDHI DASAN PRABHU, R.M; KRISHNA BALAJI, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/581">SMART CARD READER USING MIFARE TECHNOLOGY</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>ANTHONY SHOHAN ROCHE; ARVIND, K. BISHNOI; ASHWIN, SELVANAYAGAM; MANIVANNAN, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/580">MOBILE LOCATION TRACKING IN CELLULAR  NETWORKS USING TIME DIFFERENCE OF ARRIVAL METHOD</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>TAMMINENI VIJAY KUMAR</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/579">SYSTEM CONTROL USING VOICE</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>AKSHAY SURI; ARUN KUMAR, RB; MUTHU KUMAR, AN; DIVYA, GOVINDRAJAN</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/578">EMBEDDED RS485 NETWORK MONITOR</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>AISHA MUMTAJ, H; ANUBHAV SHARMA; JANANI, P.B; JAPISHAR SINGH</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>30-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/577">GSM Based Device control</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>Aby, Babu Rajan; Anoop, Jacob</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>26-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/576">IMPLEMENTATION OF IMPEDANCE SOURCE INVERTER FOR AC DRIVES</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>VIDYA, A</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>26-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/572">THREE PHASE TO SINGLE PHASE CONVERTER  (WITH LOW HARMONIC DISTORTION) FOR HIGH FREQUENCY APPLICATIONS</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>JAGANATHAN, B</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>13-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/575">MOTOR SPEED CONTROL USING RF TECHNOLOGY</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>KARTHI KEYAN, V</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>13-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/574">IMPLEMENTATION OF V/F CONTROL OF THREE PHASE INDUCTION MOTOR USING  MICROCONTROLLER</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>BRINDHA, R</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>13-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/573">OPTIMIZATION OF ELECTRICAL ENERGY GENERATION IN A  DEREGULATED MARKET USING TCSC</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>SIVA DURGA PRASAD, M</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>13-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/571">PIC MICROCONTROLLER BASED SPEED CONTROL  OF SEPARATELY EXCITED DC MOTOR</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>BHARANEEDHARAN, B</em></td>
+</tr>
+<tr>
+<td headers="t1" class="oddRowEvenCol" nowrap="nowrap" align="right"><strong>13-Jun-2006 </strong></td>
+<td headers="t2" class="oddRowOddCol" ><a href="/dspace/handle/123456789/570">INFLUENCE OF STATOR AND ROTOR PROFILES ON TORQUE RIPPLE  MINIMIZATION IN SWITCHED RELUCTANCE MOTOR</a></td>
+<td headers="t3" class="oddRowEvenCol" ><em>PRABHAKAR, V</em></td>
+</tr>
+<tr>
+<td headers="t1" class="evenRowEvenCol" nowrap="nowrap" align="right"><strong>13-Jun-2006 </strong></td>
+<td headers="t2" class="evenRowOddCol" ><a href="/dspace/handle/123456789/569">DSP BASED IMPLEMENTATION FOR FEEDBACK SIGNALS IN VECTOR  CONTROL OF AC INDUCTION MOTOR</a></td>
+<td headers="t3" class="evenRowEvenCol" ><em>HARINI ALLURI</em></td>
+</tr>
+</table>
+
+
+
+    
+    <table align="center" border="0" width="70%">
+        <tr>
+            <td class="standard" align="left">
+
+                
+				<a href="browse-date?bottom=123456789%2F589">Previous page</a>
+
+            </td>
+            <td class="standard" align="right">
+
+
+                
+				<a href="browse-date?top=123456789%2F569">Next page</a>
+
+            </td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
