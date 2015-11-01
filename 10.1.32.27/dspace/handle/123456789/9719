@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Implications of Ageing and High Cholesterol Diet on Energy Metabolism and Antioxidant System in Rat Liver</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1">Students Project</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1571">Genetic Engineering</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1573">Genetics</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/9682">2011</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/9719</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Implications of Ageing and High Cholesterol Diet on Energy Metabolism and Antioxidant System in Rat Liver</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Gaurav Agarwal</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Cholesterol Diet<br />Metabolism and Antioxidant</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">May-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">P5151</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Aging is a multifactorial process that leads to the gradual loss of capability of an individual to maintain homeostasis, which is characterized by progressive decline in function at tissue and cell levels. It causes a decrease in the individual’s ability to respond to a wide range of challenges or stress and increases the susceptibility of the subject to age associated diseases and death. A number of metabolic changes occur with normal aging in both humans and animals. Among these, phenomena such as reduced physical activity, decreased oxygen consumption, redistribution of body tissues with a relative increase in adipose over muscle mass, decreased insulin sensitivity, and increased blood pressure may all contribute to the acceleration of atherosclerosis known to occur with age. Hypercholesterolemia is a major risk for atherogenesis. Recent evidence suggests that oxidative modification of the major cholesterol-carrying lipoprotein, low-density lipoprotein (LDL), renders it more atherogenic.
+This project aims at studying ageing related degenerative changes in the liver of male Wister strain albino rats were fed with high cholesterol diet to induce hypercholesterolemia. Twenty four rats; twelve young and twelve aged were chosen for the work to be carried out on. The young rats were chosen between the age group of three to four months and aged rats between twenty to twenty four months. The rats were fed with a normal feed combined with cholesterol, cholic acid and Vitamin D2. Cholic acid improves the absorption of cholesterol in the intestine and Vitamin D2 promotes calcification of the cholesterol. After a forty five day induction period the work plan was executed.
+The results of the experiments conducted showed that the levels of liver marker enzymes (SGOT, SGPT, ALP, LDH, Gamma-GT) were elevated in Aged Control Rats and Aged HCD rats as compared to the Young Control Rats. Further Aged Control Rats had lower anti oxidant level when compared to Young Control Rats, and the Aged HCD Rats had the lowest anti oxidant levels. It was observed that there was a decrease in TCA cycle enzymes (ICDH, SDH, MDH, CST, ACO) activity in Aged Control Rats and Aged HCD Rats. The activity of Mitochondrial Complexes (I, II, III, IV) were higher in Aged Control Rats and Aged HCD Rats. Thus it is concluded that due to hypercholesterolemia, antioxidants level is decreased further causing oxidative stress and finally leading to “Ageing”.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/9719">http://hdl.handle.net/123456789/9719</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/9682">2011</a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9719/1/P5151.pdf">P5151.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.57 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9719/1/P5151.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/9719">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,441 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Optimization of Sustained Release</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/6871</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Optimization of Sustained Release</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Mothilal.M</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">OPTIMIZATION OF SUSTAINED RELEASE<br />OPTIMIZATION OF SUSTAINED RELEASE</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jan-2012 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0055</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">ABSTRACT
+Diltiazem hydrochloride is a calcium channel blocker, used widely
+for the treatment of hypertension, atrial fibrillation and angina pectoris. The
+drug is water soluble and has elimination half life of 3.0 to 4.5 h. It is reported
+to be well absorbed in the proximal region of small intestine and so it is an
+ideal candidate for gastro-retentive systems, which supplies a constant amount
+of drug for absorption continuously from the dosage form to the proximal
+region of small intestine, where it is well absorbed, leading to more uniform
+plasma levels of the drug for prolonged period and thereby paves way for an
+efficient drug therapy in treatment of angina pectoris. The present study is an
+endeavour to develop a perfect sustained release formulation for Diltiazem
+hydrochloride. The study was aimed to identify a bilayer floating tablet
+formulation of Diltiazem hydrochloride with one immediate release layer and
+another sustained release floating layer, which release the drug for 12 h. Two
+viscosity grades of hydroxypropyl methyl cellulose (HPMC K4M and K15M)
+and crosspovidone were used to prepare Diltiazem hydrochloride bilayer
+floating tablets (BFT).
+A numerical optimization technique was adapted, which are designed
+based on 23 full factorial design containing three factors evaluated at two
+levels and the experimental trials were performed at all possible
+combinations. Eight runs were carried out for formulations with HPMC K4M
+and another eight for HPMC K15M formulations totally sixteen runs were
+done and evaluated for the in vitro drug release and in vitro buoyancy
+characteristics.
+viii
+Independent variables studied were, the drug : total polymer ratio
+(X1), Sodium carboxy methyl cellulose (SCMC) : Hydroxy propyl methyl
+cellulose (HPMC) ratio (X2) and gas generating agent, Sodium bicarbonate
+content (X3). In case of HPMC K4M the dependent variables studied were,
+cumulative percentage release of drug after 12 hours (Y1), time to release 50%
+of drug (Y2), burst release of the tablets (Y3) and floating lag time (Y4). In
+case of HPMC K15M the dependant variables studied were burst release (Y1),
+drug release at 12 h (Y2), drug release at 3 h (Y3). The optimized BFT
+formulations HFAO1 containing HPMC K4M and HFBO1 containing HPMC
+K15M were identified with the help of DesignExpert software ver.7.1.0 they
+were prepared and evaluated for the responses. The actual response values
+were in accordance with the predicted values.
+Drug release best fit both the Higuchi model and the Korsmeyer and
+Peppas model. The diffusion coefficient (n) for HFAO1 and HFBO1 were
+0.729 and 0.876 respectively. The mechanism of drug release followed a non
+fickian anamolous transport, the release was controlled both by diffusion and
+swelling. The drug release profile of optimized formulations when compared
+to markedly available conventional sustained release tablets, release of
+Diltiazem hydrochloride from these BFT systems was showing an burst
+release followed with a sustained release. The 23 full factorial design had
+facilitated the study to identify optimum formulation and to understand the
+influence of different factors and interactions between them on the key
+characteristics of the sustained release floating dosage form</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/6871">http://hdl.handle.net/123456789/6871</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6871/1/T0055.pdf">T0055.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">5.27 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6871/1/T0055.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/6871">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

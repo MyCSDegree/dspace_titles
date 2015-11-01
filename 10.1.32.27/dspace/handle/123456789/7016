@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: A Study on Customer Relationship Management Practices among Consumer Durable White Goods Customers in Chennai City</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7016</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">A Study on Customer Relationship Management Practices among Consumer Durable White Goods Customers in Chennai City</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Krishnan.A.R</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Customer Relationship<br />Consumer Durable</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Mar-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0022</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Today ‘customer’ is the King in companies management with the
+power to change their short/long term polices and strategies. Therefore,
+enough knowledge of environment, expectation of customer and their desires
+are very important to find the best solution for facing un-expected behaviors of
+customer and then behave in such a manner to change the minds of customers
+in the direction of company’s profit.
+Organizations in order to be successful should look into the needs and
+wants of their customer. That is the reason as to why many researchers and
+academicians have continuously emphasized the importance of Customer
+Relationship Management (CRM) in the form of increased customer
+satisfaction and loyalty to improve the customer retention, ultimately
+increasing profitability. This study follows the customer Satisfaction, Loyalty
+and Retention (SLR) model.
+Customer satisfaction is vital, as satisfaction influences repurchase
+intentions, whereas dissatisfaction is seen as a primary reason for customer
+defection or discontinuation of purchase. In line with this, consequences of
+customer satisfaction and dissatisfaction must be considered. Customer
+retention is a concept gaining more and more attention in today’s business
+where a loyal customer is considered as an essential component to
+vii
+organizational success. Corporations strive to identify and manage effective
+methods to retain their customers. Postulated theory also shows a positive
+connection between customer satisfaction, loyalty and retention. Therefore,
+the above mentioned are all very important for an organization to be
+successful. However, not enough studies have been conducted on the subject
+in the consumer durable white goods industry though some research papers
+have been published globally. Hence a study of these relationships will prove
+to be useful for the success of business.
+Consumer durable white goods sector is adopting customer relationship
+management as a strategy aimed at retaining the valuable customer and in
+turn, to increase customer satisfaction and ultimately customer loyalty.
+However, as more studies are being done on the outcome of CRM strategies
+over time, it is becoming evident that the costs often outweigh the expected
+benefits and CRM have consistently over promised or under delivered. Often,
+customer satisfaction is increased slightly but loyalty rates do not increase at
+all. Firms have focused on customer satisfaction rates largely because of the
+suggestions, historically; there is a strong, positive relationship between
+customer service and loyalty. This study is an investigation of the use of CRM
+practices in the consumer durable white goods industry and its effect on
+satisfaction and loyalty levels to the firm. This study is accomplished using
+data from a customer survey conducted in the white goods in Chennai city.
+Hypotheses are tested using chi square test and correlation. The results suggest
+viii
+that satisfaction does drive overall customer satisfaction and that, in turn,
+overall customer satisfaction does drive loyalty. The customer loyalty does
+drive retention. However demographic information does not have a significant
+effect in determining overall customer satisfaction or loyalty rates</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7016">http://hdl.handle.net/123456789/7016</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7016/1/T0022.pdf">T0022.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">1.56 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7016/1/T0022.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7016">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

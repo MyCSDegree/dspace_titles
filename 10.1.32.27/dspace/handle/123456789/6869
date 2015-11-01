@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Development of A New Generation Rubberised Concrete (NGRC)and Evaluation of Its Basic Engineering Properties</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/6869</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Development of A New Generation Rubberised Concrete (NGRC)and Evaluation of Its Basic Engineering Properties</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Senthil Kumaran.G</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Rubberised Concrete<br />Evalution</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jan-2012 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0053</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The disposal of used tyres is becoming a major waste disposal problem throughout the world. The accumulation of used tyres is an environment threat which can cause uncontrolled fires, producing a complex mixture of chemicals harming the environment and contaminating soil and vegetation. Therefore, there is an urgent need to identify alternative outlets for these tyres. One such effective way of disposing the used tyres is by reusing them in construction industry in an environmentally friendly manner.
+Concrete is an excellent construction material, and its mix design has too much emphasis on its compressive strength. But, its other characteristics are weak like low tensile strength, low ductility, low energy absorption, shrinkage and cracking associated with hardening and curing etc. Several studies performed recently have suggested that the weak properties of concrete could be improved by the addition of the recycled tyre rubber to the concrete. The concrete mixed with waste rubber by replacing the coarse aggregate in different volumes or weight proportions is called as Rubberized concrete and is an infant stage of technology.
+Most of the research done so far is in testing the rubberized concrete properties by adding crumb tyres to the concrete. Very few researches have been conducted by adding tyres in chips and fiber form to the rubberized concrete. It has been also proved that fibers outperform chips. But, so far no research has been conducted in fixing up the right dimensions of the tyre fiber and its effect on the properties of the concrete.
+This research focuses on determining, first the correct proportion of the tyre fibers that has to be added to the concrete mix design to get the optimum properties of the concrete and second in fixing up the exact dimensions of the tyre fiber that is most
+vii
+suitable for the concrete mix because the length of the fiber, the diameter of the holes and the number of holes in them play an important role in determining the properties of the concrete like toughness, durability and deformation. Based on the above, a New Generation Rubberized Concrete (NGRC) was proposed.
+The entire experimental investigation is carried out in five phases. In the first phase, a prototype machine was developed to cut the tyre fibers in the prescribed aspect ratio 25mm x7mm x7mm, 50mmx7mmx7mm and 75mmx7mmx7mm and with hole diameters 4mm, 5mm and 6mm on them. Then, the mix design of the rubberized concrete is done by keeping all mix design parameters constant except for the coarse aggregate of the concrete was replaced by 5%, 10%, 15%, 20% and 25% of its weight by tyre fibers designated as L25-D4, D5, D6, L50-D4, D5, D6 and L75-D4, D5, D6.
+In the second phase, tests were conducted on 486 cube specimens and 324 cylindrical specimens including the control specimens to fix the right proportion of the tyre fiber mix and the tyre fiber size which gives the optimum values of Compressive strength and Split tensile strength. There was a noticeable decline in the compressive strength of the concrete, but there was an increase in the toughness of the concrete. It was seen that L50- D5-10% tyre fiber mixed concrete had moderate reduction in strength when compared to others and did not exhibit brittle failure under compression or split tension. A mathematical modeling has been done to represent quantitatively the strength reduction of the rubberized concrete in relation to tyre fiber content.
+In the third phase, further tests have been conducted on the rubberized concrete to explore its absorption characteristics like Water Absorption, Resistance to Acid Absorption because resistance to weathering agents including acidic waters are directly related to durability and the service life of the concrete. Other properties like Resistance to Impact loading, Ultimate load bearing capacity and density-strength relationship were also examined. Tests have been conducted on 405 Numbers of Cube specimens and 135 Cylindrical Specimens and the rubberized concrete with
+viii
+L50-D5 10% tyre fibers have shown minimum absorption when compared to other specimens. Similarly, L50-D5 10% mixed concrete has shown better impact energy absorption and the initial crack development was delayed. And has shown ductile behaviour. The Ultimate Load bearing capacity of L50-D5-10% was 590kN which was higher than all other specimens. In a rubberized concrete a slight reduction in the density has manifested in to a major strength reduction.
+Based on the Phase II and Phase III results, the mix proportion and the dimension of the tyre fibers for the New Generation Rubberized Concrete (NGRC) were proposed. The critical length was 50mm, the critical diameter of holes was 5mm and the weight proportion of coarse aggregate replacement was 10%. The number of holes on a fiber was assumed to be random at this stage.
+In fourth Phase, tests have been conducted on 270 numbers of cylindrical specimens to find out the effect of holes in the tyre fibers on the strength of the rubberized concrete. L50-D5 10% with 5 holes (maximum) has shown minimum reduction in strength which is 10% lower when compared with the control specimen. Based on the results from this phase the number of holes in the tyre fiber specimen for the NGRC was selected as 5. Tyre fiber properties like density, specific gravity, split tensile effect were also explored.
+In the final phase, properties of NGRC were explored. Modulus of Rupture test revealed that NGRC does not crack down abruptly and has high flexural strength.The static modulus of elasticity of NGRC was 14.7 GPa and the dynamic modulus of elasticity was also high. This makes NGRC suitable for places experiencing high vibrating loads.
+Though, NGRC has shown good responses in many aspects, the declining strength was an important concern. So the strength of NGRC is improved by the
+ix
+addition of chemical admixtures which would create a good bonding between the tyre fibers and the matrix and we name it as Enhanced NGRC (E-NGRC).
+In E-NGRC the compressive strength was improved by 24% when compared with NGRC and the split tensile strength was 45% above the Control Specimen (CS). The estimated compressive strength using Rebound test has shown only 35% from the CS. The Pulse velocities of E-NGRC, NGRC were high grading the concrete as EXCELLENT. Strength values estimated from Rebound hammer test and from cyclic loading ultimate crushing are similar, proving that NGRC and E-NGRC have exhibited same behaviour under elastic rebound.
+Thus, the experimental research have proven that NGRC and E-NGRC have significant capabilities in resisting crack propagation, resistivity to environmental abrasions, resistivity to high impact resistance, exhibiting high flexural strength, withstanding high loads and vibrations and exhibiting good elastic nature while providing optimum strength. So they have many potential applications in the construction industry.
+The findings of this research were published in refereed journals</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/6869">http://hdl.handle.net/123456789/6869</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6869/1/T0053.pdf">T0053.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">9.45 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6869/1/T0053.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/6869">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

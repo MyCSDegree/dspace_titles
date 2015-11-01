@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Receivables Management of Msmes: A Study of Msmes in Tamilnadu</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/6866</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Receivables Management of Msmes: A Study of Msmes in Tamilnadu</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Ponniah.V.M</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Receivables Management<br />Msmes in Tamilnadu</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jun-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0050</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">5. ABSTRACT
+The performance of SSI was focused mainly at National level, while issues like size, growth, structure and productivity were left to the States, which paid inadequate attention to these issues. Liberalization has exposed Indian MSMEs to unequal competition with its counterparts in the industrially advanced countries. The history of funding of the MSMEs reveals that the sector has been mostly relying on self finance and debt finance through banking system. Lack of demand and shortage of working capital are the main reasons for acute and incipient sickness in both the registered and unregistered units in SSI sector.
+Task force of Prime Minister on MSMEs in January 2010 reported that shortage of capital, particularly working capital, is the major problem faced by the enterprises in the unorganized sector, which constitutes 94 % of MSMEs in India. According to the Task Force on MSMEs, workable legal options should be developed for the securitization of trade credit receivables and for the promotion of factoring services.
+Considering the need for managing receivables, it is decided to find out how many MSMEs have practised an efficient receivables management practices. Further the type of problems that could be caused by this inefficient
+vii
+management of receivables in MSMEs, need to be investigated so that appropriate corrective and preventive measures could be designed and commissioned in these MSMEs. This research is undertaken to determine the variables of Receivables Management of MSMEs and to find out association of receivables with other variables in managing the business. The present research identified gaps in the literature on the receivables management which leads to the formation of the research instrument (questionnaire). 525 respondents have been covered from 12 districts in Tamilnadu, with questionnaire, containing 50 questions in four parts.
+Trade credit occurs when there is a delay between the delivery of goods or the provisions of services by a supplier and their payment. For the seller this represents an investment in account receivable, while for the buyer it is a source of financing that is classified under current liabilities on the balance sheet.
+Twelve receivables management variables were identified based on literature review, discussions with MSMEs and their inputs and a pre-test was conducted. Based on the outcome of analysis, seven variables have been retained for further research. Retained variables are 1) Receipt of advances before supply of goods, 2) Receipt of advances at the time of supplying the goods, 3) Whether credit period extended or not, if extended the duration of such period, 4) Collection of Receivables within the stipulated credit period or not, if extended the duration of such extension 5) Debts doubtful of recovery
+viii
+6) Business with top one customer and 7) Business with top three customers.
+The predominant problems of MSMEs namely, Marketing issues, Finance issues, Human resources issues, Operations issues and General problems are collected besides personal characteristics, business details and investment in plant and machinery / equipments, through the questionnaire.
+Data collected through primary and secondary data are analysed using the various analytical and statistical tools like Percentage Analysis, Chi-square test, Karl Pearson’s Co-efficient of Correlation and One-Sample t- test by using Statistical Package for Social Science (SPSS). The higher order statistical tools viz Factor analysis, Cluster analysis and Multiple Regression analysis are exploited systematically to establish the association as well as relationship among independent and dependent variables. Discriminant Analysis is used to develop an empirical model to evaluate the Receivables Management Strategy of MSMEs in Tamilnadu.
+There is a deep association between domestic sales of MSMEs with business profile of MSMEs, with top one customer and with top three customers. The advances at the time of supply are essential for venturing into domestic sales. It is found that credit period is an essential component of receivables management.
+ix
+It is found that the advances received before supply and at the time of supply are able to encourage net profit of MSMEs. It is also found that doubtful recovery percentage hampers the net profit generation.
+Receivables Management variables as well as problems mutually acted as independent and dependent variables. The subsequent usage of discriminant analysis followed by linear combination of the variables sharply estimated a mutual relationship between receivables management and problems.
+Personal and entrepreneurial traits of MSMEs owners are vital in determining their capabilities to withstand against the consequences of receivables management. It is found that gender, age, educational level of MSME entrepreneurs etc, influence on credit period decisions, receivables collection, number of customers and advance receipts.
+Investment on MSMEs has their anatomical association with receivables management within the framework of nature of investments.
+The Model presents that personal, business details and investments in productive fixed assets are highly influencing the receivables management, to have an influence in the form of total revenue and net profit. The conglomeration of receivables management and problems of MSMEs have been clearly proved in the model. Every MSME can evaluate itself with reference to the model constituents and determine the direction to strengthen the management of receivables. Rather this model could become a tool for
+x
+raising the alarm, when the management of receivables is not on right directions. This will help MSME entrepreneurs not only to sustain their business without any problems in realisation of trade credit receivables, but also to achieve growth of their business.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/6866">http://hdl.handle.net/123456789/6866</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6866/1/T0050.pdf">T0050.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">4.56 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6866/1/T0050.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/6866">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

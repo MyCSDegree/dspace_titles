@@ -1,0 +1,493 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Role of Flexible Working Methods as a Career Enabler for Increasing Workforce Participation of Women in India</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/13827</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Role of Flexible Working Methods as a Career Enabler for Increasing Workforce Participation of Women in India</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Saundarya Rajesh</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Flexible Working Methods<br />Career Enabler for Increasing Workforce</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jan-2014 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0121</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">It has often been said that the Indian Woman Professional (IWP) has not
+fully utilized her talent at the workplace. This is reiterated by the fact that according
+to the UNDP, at 28% the IWP’s workforce participation rate is among the lowest in
+the world. A few key aspects which complicate career choices for the IWP are the
+Indian joint Family system, Indian society’s collectivist outlook and the fact that the
+average age at which Indian children leave home is among the highest in the world.
+Many studies point to the fact that despite women’s investment in their own
+education, their commitment to their management career, the shortage of
+international executives and equal opportunity legislation, even today women hold
+no more than a small fraction of management posts. Opportunities for women to
+avail of more generous life choices seem to be lacking. And this situation persists
+despite research both Indian and global - pointing to a link between gender balance
+in management and corporate profitability.
+Every organization that is following an aggressive growth agenda is keen on
+understanding the unique career enablers which propel the workforce participation
+of women in the Indian workplace. As such, there are many studies about
+engagement drivers which help employees stay retained in their workplace.
+However, there are no studies which speak about the career inhibitors and enablers
+specific to women professionals and which have a direct impact on women’s
+workforce participation.
+This study, conducted in India among 1064 women professionals keen on
+pursuing a career aims to uncover the linkage between women’s workforce
+participation and the role that career enablers play in it, with specific focus on the
+enabler of flexible working.
+The analysis revealed that a majority of the women employees surveyed
+belonged to the age group of below 26 years and most of them were married. A
+majority of them also lived in nuclear families, corresponding to the trend of family
+systems these days and a majority of them have children. The annual personal
+income category that most of the women surveyed fell into was less than three lakhs.
+The study also inferred that the educational qualifications of the women
+professionals studied and their perception regarding flexible working were
+moderately and positively associated with each other, as were the incidence of career
+breaks and the perception towards work-life balance. It was found that the incidence
+of career breaks and the perception of employee engagement were highly and
+positively correlated with each other and career breaks and growth were also
+likewise highly and positively associated with each other.
+Age of the women professionals surveyed and their utilisation of flexible
+working were moderately and positively associated with each other, while the
+seniority of the women professionals in the organizational hierarchy and their
+utilization of flexible working are moderately and negatively correlated with each
+other. Regression analysis indicated that previously utilised career enablers of
+mentoring, organization led skill building programmes, flexible working
+arrangements, home based non family care giver and home based family member
+care giver, positively influenced the different levels in the organizational hierarchy
+of the women professionals at one per cent level of significance.
+The results showed that the correlation co-efficient of the career strength
+indicators of work-life balance and employee engagement at 0.81 were very highly
+and positively associated with each other, while the career strength indicators of
+work-life balance and growth were also highly and positively correlated with each
+other. Meanwhile, work-life balance and longevity were seen to be highly and
+positively associated with each other, while the career strength indicators of
+employee engagement and growth too were positively and highly associated with
+each other.
+The study revealed that the career strength indicators of employee
+engagement and longevity were highly and positively correlated with each other and
+the indicators of growth and longevity were also likewise highly and positively
+associated with each other. The various career enablers studied such as flexible
+working arrangements, inspiring peer group, mentoring, home-based family member
+care giver, home-based non-family care giver, organization-led skill-building
+programs, self-initiated skill-building programs et al had a positive and high
+association with the career strength indicator of work-life balance, while the career
+strength indicator of employee engagement was moderately and positively correlated
+with the various career enablers.
+Meanwhile, the analysis also revealed that the career strength indicator of
+growth and the various career enablers were moderately and positively associated
+with each other while the career strength indicator of longevity had a moderate and
+positive correlation with the various career enablers.
+Canonical correlation analysis showed that the canonical loadings of career
+enablers associated with the career strength indicators of the women professionals in
+the order of contributions are flexible working arrangements(81.20%) organization
+led skill building programmes(76.40 %), self-initiated skill building
+programmes(71.30%), inspiring peer group(70.60%), mentoring(69.50%), home
+based family member care giver(49.50%), home based non family care giver(47.80
+per cent), day care services(38.70%), organization provided crèche(29.10%) and
+other enablers(19.20%).
+The first perceptual map indicated that flexible working arrangements, selfinitiated
+skill building programmes, inspiring peer group, home based family
+member care giver and mentoring were associated with the work-life balance of
+women professionals. The second perceptual map indicated that organization led
+skill building programmes, flexible working arrangements, inspiring peer group and
+mentoring are associated with the employee engagement of women professionals.
+The third perceptual map indicated that inspiring peer group, organization
+led skill building programmes, flexible working arrangements and self-initiated skill
+building programmes are associated with the growth of the women professionals,
+while the fourth perceptual map indicated that inspiring peer group, organization led
+skill building programmes and flexible working arrangements are associated with
+the longevity of the women professionals. The path analysis indicated that the
+GROWTH and LONGEVITY positively and directly influence WWFP in the order
+of importance.
+The study reveals the fact that the Indian Woman professional requires a
+combination of Career Enablers which will help her demonstrate Career Strength
+and this will enable her to stay engaged to her career and therefore increase her
+participation in the workforce. The demographic profiling indicates that the woman
+requires career enablers at all points of time in her career, but women belonging to
+certain income groups require it more.
+The provisioning of career enablers, particularly FWA (flexible working
+arrangements) ensures that the woman has a positive outlook towards her
+organization, engages in her work with more discretionary effort and also
+demonstrates longevity of career. All of this enables her to grow in her career and
+therefore maintain her continuity in the workforce</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/13827">http://hdl.handle.net/123456789/13827</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/17/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">34.88 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/17/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/16/DECLARATION.pdf">DECLARATION.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">25.86 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/16/DECLARATION.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/15/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">25.38 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/15/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/14/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">37.57 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/14/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/13/ACKNOWLEDGEMENT.pdf">ACKNOWLEDGEMENT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">32.3 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/13/ACKNOWLEDGEMENT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/12/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">48.78 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/12/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/11/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">37.86 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/11/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/10/LIST%20OF%20FIGURES.pdf">LIST OF FIGURES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.21 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/10/LIST%20OF%20FIGURES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/9/LIST%20OF%20ABBREVIATIONS.pdf">LIST OF ABBREVIATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">23.58 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/9/LIST%20OF%20ABBREVIATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/8/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">125.19 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/8/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/7/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">113.14 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/7/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/6/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">58.7 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/6/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/5/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">63.71 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/5/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/4/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">393.77 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/4/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/3/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">167.77 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/3/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13827/1/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">39.78 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13827/1/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/13827">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

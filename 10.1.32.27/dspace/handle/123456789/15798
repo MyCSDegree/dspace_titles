@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Biological Activities of Some Novel Tetrazole Derivatives</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/15798</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Biological Activities of Some Novel Tetrazole Derivatives</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Arulmozhi.R</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Biological Activities<br />Novel Tetrazole Derivatives</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Dec-2013 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0140</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Heterocycles form the largest of classical divisions of organic chemistry
+and are of immense importance biologically and industrially. Heterocycles are
+inextricably woven into the life processes. Synthetic chemistry provides cornucopia
+of heterocyclic systems. The majority of pharmaceutical and biologically active agro
+chemicals are heterocyclic in nature. Countless additives and modifiers used in
+industrial applications ranging from cosmetics, reprography, information storage and
+plastics are all heterocyclic compounds. The striking structural features inherent to
+heterocycles is their ability to manifest substituents around a core scaffold in defined
+three dimensional representations, due to which continue to be exploited to great
+advantage by the drug industry. Among the approximately 20 millions chemical
+compounds identified by the end of the second millennium, more than two-thirds are
+fully or partially aromatic and approximately half are heterocyclic. More than 90%
+of new drugs contain heterocycles. They are known to be antiprotozoals, anticancer
+agents, estrogen receptor modulators, antimalarials, cyclin-dependent kinase
+modulators and antimicrobials.
+1,3,5-Triazines are a class of compounds well known for a long time and
+still continue as the object of considerable interest mainly due to their application as
+antitubercular, diuretic, antiviral, antifungal agents including the production of
+herbicides and polymer photostabilizers. The compounds namely,
+hexamethylmelamine and 2-Amino-4-morphlino-s-triazine are used clinically due to
+their antitumor properties to treat lung, breast and ovarian cancer. Further, a number of derivatives of 2-Aryl amino-4-(4-methoxy anilino)-6-(4-chlorophenyl/phenyl
+hydrazido)-1,3,5-triazine are reported to have antibacterial, anticancer and
+antimalarial activities.
+Quinazoline ring is an aromatic benzopyrimidine system. Compounds
+containing a fused quinazoline ring belong to a broad class of compounds which
+have received considerable attention over the past years due to their wide range of
+biological activities. Several derivatives of quinazoline have been cited as useful
+hypnotics, antimalarial, antitumor, antibacterial, antiHIV, antiinflammatory,
+antifungal, analgesic, anticonvulsant agents etc. Some of the amino quinazoline
+derivatives were found to be cardiac stimulants. They are also found as inhibitors of
+the tyrosine kinase or dihydrofolate reductase enzyme and hence work as potent
+anticancer agents. They are used as workout medicines against hypertension, malaria
+and to fight infections involving AIDS. In addition to their diverse biological
+activity, the quinazoline nucleus is also a key component in a relatively varied range
+of colored products. Since quinazolines have O and N donor atoms, they can act as
+good chelating agents.
+Tetrazoles represent an important class of heterocycles, which exhibit a
+wide range of application in synthetic and medicinal chemistry. This nitrogen-rich
+ring system is used extensively in pharmaceuticals. For example, the 5-oxo and
+5-thio derivatives of tetrazole form an important structural framework of many
+pesticides and herbicides. The ring systems present in drugs are patented for the
+treatment of central nervous system disorders, HIV, sexual dysfunction, asthma
+obesity and diabetes, as well as for injuries caused by exposure of chemical warfare
+agents. Tetrazole-5-one and tetrazole-5-thione rings are also featured in many antiviral, antibacterial, analgesic, anaesthetic, antihistaminic, antimicrobial,
+antiinflammatory and anticancer drugs.
+In addition to their biological applications, they also exhibit several
+non-biological applications. Due to the high enthalpy of formation, tetrazole
+decomposition results in the liberation of two nitrogen molecules and significant
+amount of energy. Therefore, several tetrazole derivatives have been explored as
+explosives, propellant components for missiles and as gas generators for air bags in
+the automobile industry. The four nitrogen electron donating atoms in the tetrazole
+ring allow it to act as mono or bidendate or multidendate ligands. It has been
+reported that the tetrazole ligands are able to participate in atleast seven distinct
+types of co-ordination modes with metal ions in the construction of novel metal
+organic frameworks. The strong electron withdrawing properties of the tetrazole
+make it suitable as derivatising agent for the chemical modification of alcohols.
+Tetrazoles also find important applications in the field of photography and photo
+imaging.
+Inspired by the biological applications of tetrazole and its derivatives,
+schemes (Scheme A and Scheme B) have been designed to synthesize some novel
+tetrazole derivatives from Quinazolinone and 1,3,5-Triazine compounds
+respectively, as these moieties are also reported to have varied biological activities,
+with a view to synthesize compounds with enhanced biological activities. To the
+best of our knowledge, there is no work on record concerning the synthesis of
+tetrazoles from triazine and quinazoline compound, we have selected.
+Eighteen novel tetrazole derivatives were synthesized in the present
+research work. The structures of the synthesized compounds were established by
+FTIR, 1H NMR,13C NMR , Mass and elemental analysis.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/15798">http://hdl.handle.net/123456789/15798</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/19/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">28.47 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/19/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/18/DECLARATION.pdf">DECLARATION.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.37 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/18/DECLARATION.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/17/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">27.2 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/17/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/16/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">40.3 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/16/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/15/ACKNOWLEDGEMENTS.pdf">ACKNOWLEDGEMENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">33.25 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/15/ACKNOWLEDGEMENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/14/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">46.86 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/14/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/13/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">30.1 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/13/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/12/LIST%20OF%20FIGURES.pdf">LIST OF FIGURES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">60.7 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/12/LIST%20OF%20FIGURES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/11/LIST%20OF%20SYMBOLS%20AND%20ABBREVIATIONS.pdf">LIST OF SYMBOLS AND ABBREVIATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">34.4 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/11/LIST%20OF%20SYMBOLS%20AND%20ABBREVIATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/10/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">351.33 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/10/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/9/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">96.17 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/9/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/8/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">920.17 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/8/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/7/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">225.96 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/7/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/6/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">5.04 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/6/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/5/CHAPTER%206.pdf">CHAPTER 6.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">40.57 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/5/CHAPTER%206.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/4/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">153.7 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/4/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/3/LIST%20OF%20PUBLICATIONS.pdf">LIST OF PUBLICATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">30.17 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/3/LIST%20OF%20PUBLICATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/15798/1/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">25.82 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/15798/1/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/15798">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

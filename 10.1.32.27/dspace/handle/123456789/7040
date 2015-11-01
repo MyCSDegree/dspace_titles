@@ -1,0 +1,402 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Relationship Between Use of Computer and Selected Variables Among Higher Secondary Students</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7040</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Relationship Between Use of Computer and Selected Variables Among Higher Secondary Students</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Jomy Johnson</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Relationship<br />Variables Among</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Mar-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0041<br />T0041</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Quality is the heart of education. The development of a country absolutely depends on the quality of its education. What takes place in classrooms and other learning environment is fundamentally important for the future well being of the learner. Innovation is one of the route of changes or else that is our target. Innovative practices are aimed at exposing the teachers to equip themselves to face the vast changes that in the educational scenario. The Innovative practices enhance our student-teachers’ performance. This work shows the innovative practices in use of computer as related with selected variables that have served well in achieving some of the learning outcomes in the higher secondary classroom. Hence the present study is titled as “Relationship between use of computer and selected variables among higher secondary students”. This problem will be to examine the significance of those variables which may affect the successful interaction between computer user and computer. The Computer is causing a change in society that is comparable to the change occasioned by the industrial revolution. This transformation has prompted a concern among researchers about the appearance of computer anxiety, self-efficacy in Computer, Computer attitude, achievement in computer science and internet attitude, in education, in business, in the home and in society in general. The issue of student’s computer anxiety, self-efficacy in computer, computer attitude, achievement in computer science and internet
+vii
+attitude, may have far reaching effects when it comes to decisions as how use of computer is integrated into the classroom.
+The investigator has reviewed about several studies among which’s few are Indian studies and the remaining few are foreign studies. Thus the review of the related studies has given the much needed theoretical background to the investigator to pursue this present investigation. This helps the investigator to plan his course of research, in the formulation of suitable hypotheses for this study, the description of the sample, the tool and the statistical techniques used in the study. The investigator has framed the following major objectives for this present investigation. 1. To find out use of computer and its relationship to computer attitude, computer anxiety, self-efficacy in computer, achievement in computer science and internet attitude among higher secondary students. 2. To study the difference between use of computer with respect to demographic variables namely, gender, location of the school, type of the school, availability of personal computer at home, community and religion among higher secondary students. 3. To identify the levels of use of computer, computer attitude, computer anxiety, self-efficacy in computer, achievement in computer science and internet attitude among higher secondary students. 4. To identify the variables which are contributing to the use of computer?
+The investigator has formulated the following Null-hypotheses: 1. There is no significant relationship between use of computer with selected variables namely, computer attitude, computer anxiety, self-efficacy in
+viii
+computer, achievement in computer science, and internet attitude of higher secondary students. 2. There is no significant difference between use of computer with respect to demographic variables namely, gender , location of the school, type of the school, availability of personal computer at home, community, religion of higher secondary students. 3. The most contributing variable to the use of computer is internet attitude. The investigator used the following tools for data collection purpose, computer attitude scale (developed and validated by Kumaran and Selvaraj (2001)), Use of computer scale, Computer anxiety scale, Self-efficacy in computer scale, and Internet attitude scale (the investigator has developed and validated (2009)) for higher secondary students.
+Random sampling technique has been used in the selection of the sample of as many as 802 students studying in the Higher Secondary Schools situated in the Thrissur district of Kerala, India. In connection with the collection of data, the investigator visited the 25 higher secondary schools and distributed the Use of computer scale, Computer attitude scale, Computer anxiety scale, Self-efficacy in computer scale, Internet attitude scale and were filled in by the students in the presence of the investigator. Descriptive and Inferential statistics are used to analyze the data collected through the tools employed in the investigation. The mean, median, mode and standard deviation of scores of the entire sample were calculated. The following statistical techniques t-test, f-test, Pearson’s product moment correlation and Regression analysis were used by the investigator for this present study.
+ix
+Even though there are some limitations in the present study, it is evident that the significant relationship between use of computer and internet attitude. Also a significant difference is revealed in the use of computer between male and female students. This shows that the use of computer among female students needs to be improved. Also a significant difference is revealed in the use of computer among government, aided and private with respect to use of computer. This shows that the use of computer among aided and private school students needs to be improved. Also a significant difference is revealed in the use of computer between higher secondary students whose have availability of computer at home and those who do not have. The other findings of the study are, 1. Use of computer, computer attitude, computer anxiety, self-efficacy in computer, achievement in computer science among higher secondary is average 2. The variables which are contributing to the use of computer are computer anxiety and internet attitude. The variables which are not contributing to the use of computer are computer attitude, self efficacy in computer and achievement in Computer science. The most contributing variable to the use of computer is internet attitude. It advocates to develop the use of computer, computer attitude, internet attitude, self-efficacy in computer and achievement in computer science of higher Secondary students. Computer anxiety among the selected higher secondary students needs to be reduced. The recommendations given by the investigator may be very helpful for improving the 21st century education, especially at higher secondary level.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7040">http://hdl.handle.net/123456789/7040</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7040/1/T0041.pdf">T0041.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.08 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7040/1/T0041.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7040">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

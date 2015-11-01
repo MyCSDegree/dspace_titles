@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Organizational Culture and Commitment: A Comparative Analysis of It Professionals in Indian and Foreign Managed Firms in Chennai</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7012</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Organizational Culture and Commitment: A Comparative Analysis of It Professionals in Indian and Foreign Managed Firms in Chennai</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Vasanthi Kumari.K</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">ORGANIZATIONAL CULTURE<br />MANAGED FIRMS</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jul-2010 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0012</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Interpreting and understanding organizational culture is an important
+activity for managers, researchers and consultants because it affects strategic
+development, productivity and learning at all levels. Cultural assumptions can
+both enable and constrain what organizations are able to do. Understanding how
+committed employees are within an organization is a valuable tool for managing
+and fostering a successful work environment. A continued appreciation of
+employee commitment is especially beneficial following organizational change
+as it has been shown that change inevitably impacts commitment levels to some
+degree. Viewing this, this study aims in analyzing organisational culture and
+commitment of IT professionals of Indian and foreign managed IT firms in
+Chennai.
+This study was focussed to identify organisational culture and
+commitment dimensions which influenced the IT professionals. It was also aimed
+to investigate the effect of organizational culture dimensions on organisational
+commitment dimensions.
+Among the different IT hubs in Tamil Nadu, Chennai city has been
+selected for the present study. The lists of IT firms are classified into Indian
+managed and Foreign managed IT firms. The foreign managed IT firms namely
+IBM, CTS, Accenture, Oracle, HP, and Polaris and the Indian managed IT
+firms namely Infosys, HCL, Wipro, TCS, Satyam and Saskan are randomly
+selected. 200 employees from Indian managed IT firms and 200 from foreign
+managed IT firms, thus totally 400 employees are selected for the present study
+by adopting convenient sampling technique.
+vii
+The data and information collected through pre-tested, structured, direct
+interview method from respondents pertains to the year April 2009 – Jan 2010.
+To understand the socio-economic factors of employees of IT industries,
+descriptive statistics and frequency distribution are worked out. Simple
+correlation has been used to analyze the relationship between the socio-economic
+factors and organizational cultural and commitment of employees.
+In order to identify the factors affecting organizational culture and
+commitment, factor analysis has been adopted and to understand and elucidate
+the differences in culture and commitment of the employees, Chi-Square Test has
+been employed. In order to discriminate the employees based on the
+organizational culture and organizational commitment, discriminant analysis has
+been employed.
+With a view to examine the effect of organizational cultural dimensions
+on organizational commitment, the multiple-regression model was formulated
+and carried out. Besides, mean score have been worked out for identifying the
+key dimensions of both organizational culture and commitment.
+29 Organisational Cultural dimensions and 15 Organisational
+Commitment dimensions were identified. The study revealed that the cultural
+dimensions of Problem Pass, Truth, Freedom, Discussion, Accountability,
+Appear, Independent Actions, Doing Things, Time, and Organisational Vitality
+were the common dimensions influencing the organizational culture in both the
+Indian and foreign managed IT firms.
+The cultural dimensions of problem pass, concerned, prevention, adoptive,
+doing things, problem, obey, encourage, discussion, mistakes, support, appear,
+truth and trust are the common dimensions forming the factors in both the Indian
+and foreign managed IT firms.
+viii
+The commitment dimensions of self, personally, options, feel, owe,
+career, leave, disturbed, benefit, attached and problems are the common
+dimensions forming the factors in both the Indian and foreign managed IT firms.
+The commitment dimensions of self, personally, options, feel, owe,
+career, leave, disturbed, benefit, attached and problems are the common
+dimensions forming the factors in both the Indian and foreign managed IT firms.
+The results of Chi-Square test show that there is a significant difference in
+perception of the employees on organizational cultural dimensions in both the
+Indian and foreign managed IT firms. The cultural dimensions of support and
+share are the best discriminating variables in both Indian and foreign managed IT
+firms.
+The cultural dimension of independent is the only dimension positively
+influencing the organizational commitment in both the Indian and foreign
+managed IT firms. The cultural dimension of obey is negatively influencing the
+organizational commitment in foreign managed IT firms.
+The present study indicates that there is difference in practicing
+organisational culture in both Indian and foreign managed IT firms. Arising out
+of the present study, suggestions are made for improving organisational culture
+and commitment in Indian and foreign managed IT firms.
+The findings of this study also offer a foundation for considering cultural
+change programs as a means of OD intervention. The foreign managed IT firms
+are characterized by better work group norms. From this point of view, there is a
+greater need to change the working culture of Indian managed IT firms in order
+to achieve better working environment.
+Organizational culture is a manifestation of the collective values,
+principles, interests and actions of people working together. Thus, creating the
+culture of team work and learning are very significant in the face of a complex
+and fast-changing environment. Organizations are beginning to make meaningful
+ix
+advancements towards “growing” loyal employees. There is never an ideal time
+to conduct an investigation on employee commitment within any organization.
+The findings of this research work may have relevance to other types of
+organisations like academics institutions, service organisations, voluntary
+agencies etc. Companies in various industries or countries have divergent
+interpretations in different constructs. It would be very interesting to perform
+comparisons and obtain further findings.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7012">http://hdl.handle.net/123456789/7012</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7012/1/T0012.pdf">T0012.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">921.34 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7012/1/T0012.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7012">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

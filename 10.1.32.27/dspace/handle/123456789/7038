@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Impact of Ace Inhibitors on the Morphological and Biochemical Aspects of Experimental Cataract: An In Vitro and In Vivo Study</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7038</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Impact of Ace Inhibitors on the Morphological and Biochemical Aspects of Experimental Cataract: An In Vitro and In Vivo Study</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Shrinivas Sharma</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Morphological<br />Experimental Cataract</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Nov-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0039<br />T0039</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The thesis deals with the studies carried out to investigate the “Impact of ACE inhibitors on morphological and biochemical aspects of experimental cataract: An in vitro and in vivo study”. To focus image on the retina, the lens of the eye has to be transparent with high refractive index. The opacification of lens leads to blindness in cataract. The antioxidants can attenuate lens opacification and lowers the prevalence of cataract. The aim of the present research was to explore the use of antioxidants for the prevention of experimental cataract in animals. Several previous experimental findings postulated that angiotensin converting enzyme inhibitors (ACEi) may act as a “Magic Bullet” against oxidant stress. The previous reports created confliction regarding the use of ACEi as an antioxidant agents that whether sulfhydryl-containing (i.e., Captopril) drugs can scavenge free radicals more effectively than non-sulfhydryl-containing ACEi (i.e., Lisinopril).
+The first objective of this research was to check this discrepancy between non-thiol ACEi, Lisinopril and thiol ACEi, Captopril by evaluating their anti cataract effect against sodium selenite induced cataract development in both in vitro and in vivo experimental conditions. In both the conditions, sodium selenite was used as a cataract inducing agent which is resemblance to oxidative stress induced cataract in human.
+ix
+The first, in vitro phase of the study was performed on lenses from Wistar rats incubated for 24 h at 370C in Dulbecco‟s Modified Eagle Medium (DMEM) alone (normal) or in DMEM containing 100 μM of selenite (control) or in DMEM containing 100 μM of selenite and either 10 μM Lisinopril or 5 mM Captopril was added (Test). The second, in vivo phase of the study, 9 days old Wistar rat pups divided into control and test groups were injected subcutaneously with 19 μM/kg sodium selenite. One day before the selenite challenge, the pups in the test group were injected intraperitoneally a single dose of either 5 mg/kg of Lisinopril or 50 mg/kg of Captopril and was repeated once daily for five consecutive days thereafter. When the pups first opened their eyes (when the pups were 15 days old), their eyes were examined by slit-lamp biomicroscopy. In the first phase, the mean activities of reduced glutathione, total protein, water soluble protein, Ca2+ ATPase activity and the antioxidant enzymes activity were investigated. Lisinopril had shown a bit of protective response in cultured rat lenses in vitro but failed to show any effectiveness when given to rats pups. Conversely, Captopril was found to be effective in both the experimental settings unlike Lisinopril. The thiol group in the Captopril might be responsible to prove its superiority over Lisinopril.
+The investigation was put forwarded with the modification of Captopril brought to new chemical entity Allylmercaptocaptopril (AMC), a covalent conjugate of Allicin with Captopril. AMC should have a greater impact and therapeutic efficacy in correcting oxidative stress induced cataract in animals than Captopril alone. The investigation of AMC against sodium selenite induced cataractogenesis revealed the consistent anti cataract effect attributed to its antioxidant ability.
+x
+The comparative efficacy of Captopril and AMC in the maintenance of oxidative-antioxidative equilibrium and attenuation of sodium selenite induced cataract in rats were investigated. In this study, Captopril and AMC were given separately to the two treatment groups and they were compared with sodium selenite treated group which was served as a control group. To elucidate their comparative efficacy, total oxidant status (TOS), total antioxidant capacity (TAC), oxidative stress index (OSI) and malondialdehyde (MDA) level were determined in the lenses of the rat pups. Serum paraoxonase-1 (PON1) activity was also determined. The lens malondialdehyde level correlated with serum paraoxonase-1 activity which was the novelty of this study. Interestingly, the negative correlation between them was noticed. The beneficial effect of AMC was more pronounced in the attenuation of selenite induced catarctogenesis in rats compared to Captopril. The second objective of this study was not only to observe the effectiveness of AMC and Captopril in the non rodent cataract model attributed to their antioxidant potential but also to assess their efficacy whether they could attenuate sugar cataract which is resemblance to diabetic cataracts in human. First, the effectiveness of Captopril and AMC on lens transparency was investigated. Later, the lens cell viability against H2O2-induced opacity in cultured sheep lenses was also investigated. The degree of lens transparency and the number of viable cells were found higher in AMC treated group than CAP treated group establishing the superiority of AMC over CAP.
+xi
+Secondly, the protective effect of Allylmercaptocaptopril in both in vitro and in vivo models of galactose-induced cataract in rats was evaluated and the effect was compared with Captopril. The effect of both drugs on the onset and maturation of cataract in galactosemic cataract was investigated. AMC is acted through both the mechanisms i.e., it protects the lens enzymes activity which are responsible for energy metabolism and also by its antioxidant activity. Conversely, Captopril can prevent cataractogenesis only due to its antioxidant potential. In vivo experimental findings revealed that AMC treatment significantly delays the onset and progression of galactose induced cataract in rats as compared to CAP treated group. In conclusion, amongst the three ACE inhibitors, Allylmercatocaptoril was found to be the most promising anti cataract agent which has the ability to protect lens in both the extreme conditions of oxidant stress and sugar cataract.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7038">http://hdl.handle.net/123456789/7038</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7038/1/T0039.pdf">T0039.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">1.99 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7038/1/T0039.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7038">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,455 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Zinc Oxide Nanostructures as Biocides: Mechanistic Investigations on the Role of Defects</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/12054</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Zinc Oxide Nanostructures as Biocides: Mechanistic Investigations on the Role of Defects</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Meghana Ramani</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Zinc Oxide Nanostructures<br />Mechanistic Investigations</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jul-2013 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0115</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Nanostructured materials seize a great potential for numerous
+technological applications due to their small size and enhanced properties than bulk.
+However, the increase in surface area of the bulk, leads to an increased concentration
+of defects due to high surface reactivity and instability. Additionally, vacancies or
+lattice point defects form much more easily in nanomaterials compared to their bulk
+counterparts. The presence of these defects along with some intrinsic defects tends to
+decrease the performance of nanomaterials based devices, especially focussed on
+optical and electronic applications. In spite of being disadvantageous to the
+realization of practical electronic and optical devices, these defects are of utmost
+importance in photocatalytic activities and antibacterial applications. For example,
+the presence of oxygen vacancies in metal oxide nanoparticles, have known to react
+with the water molecules and generate hydroxyl radicals, which degrades organic
+pollutants like methylene blue and have also proven to be terribly harmful to
+microorganisms, making them applicable for antibacterial applications.
+With an explosion in the number of antibiotic resistant bacteria, the
+development of non - conventional antibiotic agents has become a key area of
+research. Inorganic semiconducting nanoparticles are being studied for use as
+biocides due to their high chemical and physical stability over organic counterparts.
+The presence of unintentional defects in metal oxide nanoparticles have permitted
+them to be widely studied for antibacterial applications. Among the others, zinc
+oxide (ZnO) has gained utmost importance due to its enhanced activity even in dark.
+However, the applications of ZnO cannot be restricted and the nanoparticles can be
+tuned for various biological applications.
+The current thesis concerns with the synthesis and characterization of
+ZnO nanostructures with enhanced defect concentration and their applications as
+antimicrobial agents. The thesis starts with a study of hexylamine capped ZnO
+nanoparticles. The synthesized ZnO nanoparticles have been characterized by
+powder X - ray diffraction, Fourier Transform Infrared spectroscopy, Transmission
+Electron Microscopy, Scanning Electron Microscopy, UV - Visible spectroscopy and
+photoluminescence spectroscopy. The nature of defects has been analyzed in detail
+by studying the effect of annealing at different temperatures on the PL spectra. Based
+on the observations from PL and the supporting evidences from FTIR and TEM, it
+has been concluded that the blue - green defect level emission in ZnO is a direct
+consequence of the presence of neutral or double ionized oxygen vacancies. This
+extensive study of the nature of defects in ZnO acts as a framework for the
+antibacterial applications.
+A variation in morphology was obtained by employing certain amines as
+labile ligands: pyridine, 2, 6 - lutidine and tri - n - propylamine at different
+concentrations which tend to promote a variation in the morphology. However, the
+ligands were removed by heating the samples at temperatures just above their
+respective boiling points to avoid the interference of the ligand in the antibacterial
+activity. Physical and chemical characterizations like powder X - ray diffraction,
+Fourier Transform Infrared spectroscopy, Transmission Electron Microscopy,
+Scanning Electron Microscopy and photoluminescence spectroscopy were carried
+out for these samples. High concentrations of defects were observed from
+photoluminescence studies for all the samples. These samples were studied for their
+antibacterial activities against model pathogens and common microorganisms:
+B. subtilis, S. aureus, K. pneumoniae and E. coli. Results have indicated high toxicity
+for samples with large quantity of defects.
+The disadvantage of capping agent removal was avoided by employing
+biocompatible amino acids as capping agents. Amino acids (L - alanine,
+L - threonine and L - glutamine) capped ZnO nanostructures were synthesized and
+characterized. Study of surface defects indicates a dependence of defects on
+concentration of polar facets of ZnO. The antibacterial activities of these
+nanostructures were evaluated and a toxicity index was generated. It was observed
+that samples with large number or surface area of polar facets experienced higher
+toxicity. Flow cytometry studies revealed the generation of reactive oxygen species
+(ROS) to be the major cause of toxicity. However, to some extent, internalization of
+the nanoparticles also contributes. Further evidence was supported by observing the
+growth curves in minimal media for E. coli. Complementation of cysteine at
+5 mg / ml reduce the toxicity of ZnO nanoplatelets by 75 %, indicaing the role of
+ROS in enhancing the toxicity.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/12054">http://hdl.handle.net/123456789/12054</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/20/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">31.16 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/20/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/18/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">33.78 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/18/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/17/ACKNOWLEDGEMENTS.pdf">ACKNOWLEDGEMENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">38.25 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/17/ACKNOWLEDGEMENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/16/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">39.67 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/16/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/15/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">56 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/15/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/14/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">25.07 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/14/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/13/LIST%20OF%20FIGURES.pdf">LIST OF FIGURES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">56.59 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/13/LIST%20OF%20FIGURES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/12/LIST%20OF%20SYMBOLS%20AND%20ABBREVIATIONS.pdf">LIST OF SYMBOLS AND ABBREVIATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">44.36 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/12/LIST%20OF%20SYMBOLS%20AND%20ABBREVIATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/11/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">5.91 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/11/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/10/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">3.41 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/10/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/8/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.14 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/8/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/7/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">1.82 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/7/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/6/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">25.33 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/6/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/5/CHAPTER%206.pdf">CHAPTER 6.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">63.95 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/5/CHAPTER%206.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/4/LIST%20OF%20PUBLICATIONS.pdf">LIST OF PUBLICATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">35.06 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/4/LIST%20OF%20PUBLICATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/3/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">159.59 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/3/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/12054/1/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">30.71 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/12054/1/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/12054">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

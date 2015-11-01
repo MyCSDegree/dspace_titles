@@ -1,0 +1,418 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Compact Model for A Magnetic Tunnel</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/6856</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Compact Model for A Magnetic Tunnel</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Malathi.M</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Compact Model for A Magnetic Tunnel<br />Magnetic Tunnel</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jul-2009 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0004</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Magnetism or electron spin has always been important for information storage. Magnetic
+random access memory, using magnetic tunnel junctions (MTJ), has many advantages
+like non-volatility, unlimited write endurance and zero data retention power. The MTJ is a
+heterostructure consisting of two ferromagnetic layers namely, the pinned layer (PL) and the
+free layer (FL), with an insulating spacer between them.
+In a spin transfer torque RAM (STTRAM), data is written into the FL by a torque produced
+by a current perpendicular to the plane of the structure. In addition, the tunneling
+current also gives rise to an Ampere torque. We have derived an expression for the Ampere
+torque and incorporated the same into the Landau Lifshitz Gilbert equation (LLGE) governing
+the magnetization dynamics of the FL.
+We study the effects of inter layer exchange field between the FL and PL and also the
+spin torque as they are the significant factors in deciding the threshold current density. We
+use SPICE to model a MTJ within a square array of MTJs, making the compact magnetic
+models accessible to circuit design engineers. We study the FL switching currents required
+in the presence of various fields and torques in an STTRAM. We optimize the MTJ structure
+by means of varying the barrier thickness, barrier height and the insulating material using the
+compact SPICE model for the MTJ in an array.
+Tunneling magneto resistance (TMR) is a figure of merit for an MTJ structure. Generally,
+to study tunneling characteristics of a multi layered structure, the transfer matrix (T matrix)
+method is used. Here, we prove that the scattering matrix (S matrix) method is numerically
+more stable for a thicker barrier or for a multibarrier structure. We derive the tunnel coniii
+ductance from the transition probability for a MTJ structure using perturbation theory and
+obtain an analytical expression for TMR by means of scattering matrix formalism. Finally,
+we propose a method for estimation of unoxidized metal layer formed in the growth of an
+MTJ from the experimental data, by means of the S matrix.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/6856">http://hdl.handle.net/123456789/6856</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/24/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">37.77 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/24/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/23/DECLARATION.pdf">DECLARATION.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">25.15 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/23/DECLARATION.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/22/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">27.71 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/22/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/21/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">27.03 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/21/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/20/ACKNOWLEDGEMENTS.pdf">ACKNOWLEDGEMENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">28.13 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/20/ACKNOWLEDGEMENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/19/LIST%20OF%20ABBREVIATIONS.pdf">LIST OF ABBREVIATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">26.58 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/19/LIST%20OF%20ABBREVIATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/18/LIST%20OF%20NOTATIONS.pdf">LIST OF NOTATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">48.59 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/18/LIST%20OF%20NOTATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/17/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">39.38 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/17/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/16/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">21.4 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/16/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/15/LIST%20OF%20FIGURES.pdf">LIST OF FIGURES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">42.92 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/15/LIST%20OF%20FIGURES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/14/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">116.27 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/14/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/13/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">91.5 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/13/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/12/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">124.4 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/12/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/11/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">160.72 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/11/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/10/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">239.88 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/10/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/9/CHAPTER%206.pdf">CHAPTER 6.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">121.19 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/9/CHAPTER%206.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/8/CHAPTER%207.pdf">CHAPTER 7.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">119.3 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/8/CHAPTER%207.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/7/CHAPTER%208.pdf">CHAPTER 8.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">30.78 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/7/CHAPTER%208.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/6/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">44.27 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/6/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/5/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">21.4 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/5/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6856/3/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">26.21 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6856/3/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/6856">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,510 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Synthesis, Biological Activities and Qsar Studies of 3, 6-Disubstituted-1, 2, 4-Triazolo-[3, 4-B]-1, 3, 4 –Thiadiazole Analogues</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/9436</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Synthesis, Biological Activities and Qsar Studies of 3, 6-Disubstituted-1, 2, 4-Triazolo-[3, 4-B]-1, 3, 4 –Thiadiazole Analogues</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Valentina.P</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Biological Activities<br />Thiadiazole Analogues</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Oct-2010 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0017</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The resistance towards available drugs is rapidly becoming a major
+world wide problem. The need to design new compounds to deal with
+resistance has become one of the most important areas of research. A recent
+literature survey reveals that 1, 2, 4-triazole and their fused heterocyclic
+derivatives have received considerable attention due to their synthetic and
+biological importance. Furthermore literature survey revealed that,
+modification of aryl propionic acid derivatives of NSAIDs exhibits various
+biological activities such as anti-inflammatory, antibacterial, antiviral etc.
+Following the biological profile of thiadiazole, triazole and aryl propionic
+acid derivatives it was thought that combining these different pharmacophores
+in a single molecular framework may lead to compound with interesting
+pharmacological profile. Therefore it was considered worthwhile to replace
+the carboxylic acid group of 2-[(2’, 6’-dichloro phenyl) amino acetoxy acetic
+acid (Acelofenac) and 2-[(2’, 6’-dichloro phenyl) amino acetic acid
+(Diclofenac) by a composite system, which combine both the triazole and
+thiadiazole nucleus in the ring to give a compact and planar structure.
+Starting materials 2-[(2', 6'-dichloro phenyl) amino] phenyl acetoxy
+acetic acid and 2-[(2', 6'-dichloro phenyl) amino] phenyl acetic acid on
+esterification in presence of sulphuric acid gives corresponding esters. This on
+further treatment with hydrazine hydrate in absolute ethanol undergoes a
+nucleophilic substitution reaction and results in acid hydrazides, which on
+further stirring with carbon disulphide in presence of potassium hydroxide in
+ethanol afford the corresponding intermediate potassium dithiocarbazinate.
+This salt on a ring closure reaction with excess of hydrazine hydrate gives
+3-aryl substituted-4-amino-5-mercapto-(4H)-1,2,4-triazole derivatives. The
+resulted triazoles on condensation with various aromatic acid in presence of
+vii
+phosphorusoxy chloride forms thirty titled compounds 3, 6-disubstituted-1- 2,
+4-triazolo-[3, 4-b]-1, 3, 4-thiadiazoles derivatives. The structures of the
+synthesized compounds were supported by physico chemicals parameters, IR,
+1H NMR, 13C NMR, MS spectral data and elemental analysis
+The compounds were evaluated for invitro cytotoxic activity
+against four human cancer cell lines: two ovarian (PA-1and OAW-42) and
+two breast (T47 D and MCF-7) cell lines using MTT assay method. The IC50
+values were calculated by dose dependent curve. All the synthesized
+heterocycles exhibited promising cytotoxic activity. The compounds
+substituted with chlorophenyl ring at the 6th position of triazolo-[3, 4-b]-
+thiadiazoles showed comparably good activity with all the human cancer cell
+lines. The presence of bulky substitution is not favorable for cytotoxic
+activity.
+Among them, the most of the compounds exhibited excellent
+cytotoxic activity against PA-1 ovarian cancer cell lines and MCF-7 breast
+cancer cell lines on comparing with the standard. The compounds 3-[2-(2',6'-
+dichlorophenyl)amino phenyl acetoxy methyl]-6-(2-chloro phenyl)-1,2,4 -
+triazolo-[3,4-b]-1, 3, 4-thiadiazole 6, 3-[2-(2',6'-dichlorophenyl) amino
+phenyl acetoxy methyl]-6-(3-chloro phenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-
+thiadiazole 7, 3-[2-(2',6'-dichlorophenyl) amino phenyl acetoxy methyl]-6-(4-
+chloro phenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-thiadiazole 8, 3-[2-(2',6'-
+dichlorophenyl) amino phenyl acetoxy methyl]-6-(3-bromo phenyl)-1,2,4 -
+triazolo-[3,4-b]-1, 3, 4-thiadiazole 14, 3-[2-(2',6'-dichlorophenyl)amino
+phenyl acetoxy methyl]-6-(2,4-dichloro phenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-
+thiadiazole 16 and 3-[2-(2',6'-dichlorophenyl) amino benzyl]-6-(3-bromo
+phenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-thiadiazole 29 with halophenyl ring in
+the 6th position of triazolo-thiadiazole ring displayed higher cytotoxic activity
+against PA-1 human cancer cell line. The presence of bulky group in 3rd
+position of triazolo-thiadiazole ring was favorable towards the cytotoxic
+activity. The compounds 3-[2-(2',6'-dichlorophenyl) amino phenyl acetoxy
+methyl]-6-(3-chloro phenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-thiadiazole 7, 3-[2-
+(2',6'-dichloro phenyl) amino phenyl acetoxy methyl]-6-(2,4-dichloro
+phenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-thiadiazole 16 and 3-[2-(3',5'-
+dichlorophenyl) amino phenyl acetoxy methyl]-6-(2,4-dichloro phenyl)-1,2,4
+-triazolo-[3,4-b]-1, 3, 4-thiadiazole 17 showed higher cytotoxic activity
+against MCF-7 human cancer cell line.
+The antioxidant activity of all these compounds were also evaluated
+by 1, 1-diphenylpicrylhydrazyl (DPPH) and Nitric oxide scavenging activities
+and the IC50 values of the compounds were calculated. All the compounds
+showed significant antioxidant activity by both the methods. The antioxidant
+activity of compounds 3-[2-(2',6'-dichlorophenyl)amino phenyl acetoxy
+methyl]-6-(3-pyridyl)-1,2,4-triazolo-[3,4-b]-1,3,4-thiadiazole 20, 3-[2-(2',6'-
+dichlorophenyl)amino benzyl]-6-(3-hydroxy phenyl)-1,2,4-triazolo-[3,4-b]-1,
+3, 4-thiadiazole 30 and 3-[2-(2',6'-dichlorophenyl)amino benzyl]-6-(3-
+pyridyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-thiadiazole 35 was higher than the
+standard used by DPPH method. Replacement of phenyl ring by pyridyl ring
+at 6th position showed significant activity than the other compounds. The
+compounds with hydroxyl group in the phenyl ring at 6th position also
+displayed better activity. Similarly the disubstituted phenyl compounds at 6th
+position of the lead showed better antioxidant activity at lower concentration.
+In Nitric oxide method the compounds 3-[2-(2',6'-dichlorophenyl)
+amino benzyl ]-6-(3-chlorophenyl)-1,2,4 -triazolo-[3,4-b]-1, 3, 4-thiadiazole
+22 and 3-[2-(2',6'-dichlorophenyl)amino benzyl ]-6-(4-chlorophenyl)-1,2,4-
+triazolo-[3,4-b]-1,3,4-thiadiazole 23 exhibited excellent antioxidant activity.
+The presence of 3-chloro and 4-chloro phenyl ring at 6th position of triazolo
+thiadiazole displayed an active compound. On comparing the 3rd position
+substitution of triazolo thiadiazole derivatives, it’s clear from the data, the
+presence of a bulky group in that position is not favorable for antioxidant
+activity.
+Further these compounds were screened for antifungal activity
+against Candida albicans and Aspergillus niger and MIC values were
+calculated by broth dilution method. Good fungal inhibiting activity was
+displayed by all the synthesized compounds. The 6th position of the triazolo-
+[3, 4-b] thiadiazole containing hydroxy, chloro substituted phenyl ring
+showed better antifungal activity. Two fold better activity is observed with the
+compounds 3-[2-(2',6'-dichlorophenyl) amino phenyl acetoxy methyl]-6-(3-
+hydroxy sulphon-2-yl)-1 phenyl)-1,2,4-triazolo-[3,4-b]-1,3,4-thiadiazole 13,
+3-[2-(2',6'-dichloro phenyl) amino benzyl]-6-(4-chloro phenyl)-1,2,4-triazolo-
+[3,4-b]-1,3,4-thiadiazole 23, 3-[2-(2',6'-dichloro phenyl) amino benzyl]-6-(3-
+hydroxy phenyl)-1,2,4-triazolo-[3,4-b]-1,3,4-thiadiazole 30 and 3-[2-(2',6'-
+dichloro phenyl) amino benzyl]-6-(2,4-dihydroxyphenyl)-1,2,4-triazolo-[3,4-
+b]-1,3,4-thiadiazole 33 against Aspergillus niger strain and 3-[2-(2',6'-
+dichloro phenyl) amino phenyl acetoxymethyl]-6-(3-hydroxyphenyl)-1,2,4-
+triazolo-[3,4-b]-1,3,4-thiadiazole 15, 3-[2-(2',6'-dichloro phenyl) amino
+benzyl]-6-(3-chloro phenyl)-1,2,4-triazolo-[3,4-b]-1,3,4-thiadiazole 22, 3-[2-
+(2',6'-dichloro phenyl) amino benzyl]-6-(3-hydroxy phenyl)-1,2,4-triazolo-
+[3,4-b]-1,3,4-thiadiazole 30 and 3-[2-(2',6'-dichloro phenyl) amino benzyl]-6-
+(3-2,4-dihydroxyphenyl)-1,2,4-triazolo-[3,4-b]-1,3,4-thiadiazole 33 against
+Candida albicans.
+QSAR studies were performed on the synthesized compounds
+against cytotoxic, antioxidant and antifungal activities using ChemOffice12
+version 8.0 Cambridge Software. The descriptor values for all the compounds
+were calculated using “compute properties” modular program. The regression
+analysis was carried out using a computer programme VALSTAT. The best
+model was selected on the basis of various statistical parameters like standard
+deviation, F-value, r2, chance, SPRESS and variance. The robustness and
+applicability of QSAR equation was further performed using the Leave One
+Out (LOO) cross validation method. The parameter which has significant
+correlationship with activity was identified and these studies provide an
+insight to design new molecules.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/9436">http://hdl.handle.net/123456789/9436</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/22/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">41.73 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/22/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/21/DECLARATION.pdf">DECLARATION.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">26.37 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/21/DECLARATION.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/20/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">29.64 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/20/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/19/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">39.06 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/19/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/18/ACKNOWLEDGEMENT.pdf">ACKNOWLEDGEMENT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">31.56 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/18/ACKNOWLEDGEMENT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/17/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">36.53 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/17/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/16/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">30.35 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/16/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/15/LIST%20OF%20FIGURES.pdf">LIST OF FIGURES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">37.56 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/15/LIST%20OF%20FIGURES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/14/LIST%20OF%20SYMBOLS%20AND%20ABBEREVATIONS.pdf">LIST OF SYMBOLS AND ABBEREVATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">27.26 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/14/LIST%20OF%20SYMBOLS%20AND%20ABBEREVATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/13/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">34.19 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/13/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/12/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">30 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/12/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/11/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">70.42 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/11/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/10/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">3.63 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/10/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/9/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">1.26 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/9/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/8/CHAPTER%206.pdf">CHAPTER 6.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">110.47 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/8/CHAPTER%206.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/7/CHAPTER%207.pdf">CHAPTER 7.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">377.67 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/7/CHAPTER%207.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/6/CHAPTER%208.pdf">CHAPTER 8.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">40.75 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/6/CHAPTER%208.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/5/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">60.66 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/5/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/4/LIST%20OF%20PUBLICATIONS.pdf">LIST OF PUBLICATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">26.6 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/4/LIST%20OF%20PUBLICATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9436/3/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">26.57 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9436/3/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/9436">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

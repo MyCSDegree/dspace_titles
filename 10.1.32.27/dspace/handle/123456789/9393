@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Squeeze Film Lubrication of Porous Plates Lubricated With Couple Stress Fluids</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/9393</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Squeeze Film Lubrication of Porous Plates Lubricated With Couple Stress Fluids</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Manimegalai.N</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Squeeze Film Lubrication<br />Plates Lubricated</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Oct-2010 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0059</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Hydrodynamic squeeze films play an important role in engineering
+practice. The discovery of film lubrication had a profound effect on the design
+of bearings. It resulted in a complete reversal and understanding in the
+limitations of bearing design, operation and life expectancy of machinery.
+The squeeze film behaviour arises from the phenomenon of two
+lubricated surfaces approach each other with a normal velocity. Because the
+viscous lubricant contained between these two surfaces cannot be
+instantaneously squeezed out, it takes a certain time for these surfaces to come
+into contact. Hence the viscous lubricant has a resistance to extrusion, a
+positive pressure is built up during that interval and the lubricant film then
+supports the load. No solid surface is perfectly smooth on atomic scale.. In
+other words, all solid surfaces are rough to some extent. The effect of surface
+roughness plays a significant role in the development of science and
+technology of tribology.
+In chapter 1, the main constituencies of Tribology, namely,
+Friction, Wear, Lubrication are discussed. Also, the theory of non-Newtonian
+fluid and its behaviour, fluid film lubrication and its application are accounted.
+The basic equations governing the flow of hydrodynamic lubrication are
+discussed.
+In chapter 2, the basic equations and some basic concepts of
+squeeze film lubrication are discussed. The chapter also includes a literature
+reVIew.
+In chapter 3, the squeeze film lubrication theory between two
+isotropic porous elliptic plates has been analyzed to study the effects of couple
+stresses arising due to the presence of micro - structure additives in the
+lubricant. The squeezing flow of couple - stress fluid between two elliptic
+plates is considered. The upper plate is approaching the lower, stationary
+porous plate. The gap between the plates is filled with a couple stress fluid
+.The most general fonn of the modified Reynolds equation is derived for the
+squeeze film lubrication of the porous elliptic plates and an expression for
+squeeze time is obtained. The important parameters for discussing the
+behaviour of bearing characteristics are the couple stress parameter I, the
+percolation parameter ~ and the slip coefficients s, permeability parameter \II
+and viscosity coefficient A. It is observed that there is significant increase in
+the load carrying capacity and hence delayed squeeze time for fluids with
+couple stress in comparison with Newtonian fluids. According to the results
+evaluated, the presence of micro structures in the t1uid film cause an
+enhancement of squeeze film time compared with the Newtonian case. The
+couple stress effects are more prominent when either the molecular size of the
+polar additives is large or the minimum film thickness is small.
+In chapter 4, the effect of surface roughness on the squeeze film
+behaviour between two elliptic plates, when one plate has a porous facing with
+isotropic permeability has been studied. The stochastic Reynolds equation
+accounting for the couple stress and randomized surface roughness structure is
+mathematically derived. Modified equations for the mean pressure, mean load
+carrying capacity and squeeze film time are obtained by using the Christensen
+stochastic theory for hydrodynamic lubrication of rough surfaces. It is
+observed that the effect of roughness and couple stress fluid is to provide a
+significant load carrying capacity and ensure a delayed squeezing time
+compared to the normal case. On the basis of Christensen stochastic model,
+the effect of surface roughness and couple stress as lubricant on the squeeze
+film between two parallel finite elliptic plates is presented. The Stochastic
+Reynolds equation for the mean film pressure and hence the load carrymg
+capacity are solved numerically. It is found that the effect of roughness along
+with couple stress lubricant is to increase the load carrying capacity.
+In chapter 5, a theoretical analysis of hydrodynamic squeeze film
+behaviour for long partial porous journal bearing lubricated by fluid with
+couple stress is presented. To take into account the couple stress effects, the
+modified Reynolds equation governing the film pressure is obtained from
+Stokes equation of motion. The analysis takes into account the velocity slip at
+the surface of the porous medium by using Beaver-Joseph criterion. The
+dimensionless load carrying capacity W is a function of the eccentricity ratio
+E .Results reveal that the load carrying capacity is higher for couple stress
+fluids than the Newtonian case .Since the couple stress accounts for the higher
+squeeze film pressure the load carrying capacity is also higher. Bearing
+characteristics are then calculated and compared with the Newtonian lubricant
+case. Moreover the quantitative effects are more significant for higher values
+of f.. On the whole the squeeze film characteristics of the system are
+significantly improved.
+In chapter 6, an attempt to study and analyze the performance of a
+couple stress fluid based squeeze film between infinitely long plane porous
+rectangular plates has been made. The associated Reynolds equation is solved
+with suitable boundary conditions to get the pressure distribution which is then
+used to obtain the expression for load carrying capacity leading to the
+calculation of response time. The results are presented graphically. The
+behaviour of bearing characteristics with respect to the couple stress parameter
+f. and the percolation parameter ~ and the slip coefficient s and the
+permeability parameter \[1 are analyzed. The observations show that there is
+significant increase in the load carrying capacity and hence delayed squeeze
+time for fluids with couple stress compared to Newtonian fluids.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/9393">http://hdl.handle.net/123456789/9393</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9393/1/T0059.pdf">T0059.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">38.17 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9393/1/T0059.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/9393">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,464 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Studies on Application of Subsurface Flow Constructed Wetland for Wastewater Treatment</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7032</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Studies on Application of Subsurface Flow Constructed Wetland for Wastewater Treatment</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Baskar.G</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Subsurface Flow<br />Wastewater Treatment</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Mar-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0033</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Constructed wetland is a candidate method due to its cost effective,
+less energy sensitive, simple operation and maintenance, little secondary
+pollution and favorable environmental appearance. Most of the historical
+developments and application of constructed wetlands have occurred in
+America, Europe and Australia, but interest is now rapidly increasing in Asia.
+As a result of fast economic growth in the past several decades, India now
+faces a serious water pollution problem. However, due to lack of awareness,
+constructed wetland systems have not been widely used in India. The
+objective of the present study is to investigate the efficacy of subsurface flow
+constructed wetland system for treatment of domestic wastewater. The
+methodology involved in this study includes design and construction,
+transplantation and start-up, operation and monitoring and sampling and
+analysis. The project site received an average rainfall of 1252 mm during the
+study period. The project site is in tropical region. The temperature ranged
+from 20.7°C to 42.53°C during the study period. The temperature gradually
+increases from January, reaches maximum in May and then follows a
+downward trend.
+In the first phase, the source wastewater was characterized. The TSS,
+COD, BOD, TN, and TP of influent ranged from 14 to 560 mg l-l, 315 to 895
+mg l-1, 94 to 619 mg l-1, 2.28 to 196 mg l-1, and 0.06 to 32.6 mg l-1
+respectively. The source influent is slightly acidic in nature. The BOD to
+COD ratio indicates high presence of biodegradable fraction. The source
+vii
+influent was between medium and strong on the basis of average TN
+concentration.
+In the second phase, a horizontal subsurface flow constructed
+wetland (HSSFCW) designed as per Tennessee Valley Authority (TVA)
+method, (1.5 x 0.6 x 0.3) m size, aspect ratio of 2.5:1, with treatment zone of
+0.27 m3, 0.7% longitudinal bottom slope, was constructed. The HSSFCW was
+operated under batch mode with 6 days hydraulic retention time for one year.
+The target influent was domestic wastewater with pretreatment of
+sedimentation and aeration.
+In the third phase, a vertical subsurface flow constructed wetland
+(VSSFCW) designed as per Plug-flow method, (7.5 x 2 x 1) m size, aspect
+ratio of 3.75:1, with treatment zone of 15 m3, 0.7 % longitudinal bottom
+slope, was constructed. It has an inlet and outlet of each (0.6 x 0.6 x0.9 m)
+size. The VSSFCW was operated under batch mode with 6 days hydraulic
+retention time for one year. The target influent was kitchen wastewater with
+pretreatment of solids and semi-solids separation.
+In the fourth phase, seven horizontal subsurface flow constructed
+wetland units designed as per TVA method, (0.6 x 0.4 x 0.3) m size, aspect
+ratio of 1.5:1, with treatment zone of 0.072 m3, were constructed. The units
+varied either in plant species, provision of baffles or in substrate type. All the
+seven units were operated under batch mode with four different hydraulic
+retention times of 2,4,6,8 days for one year. The target influent was domestic
+wastewater with pretreatment of sedimentation and aeration.
+viii
+The concentrations of TSS, COD, BOD, TN and TP of the source
+influent range 22-572 mg l-l, 249-1946 mg l-l, 99-658 mg l-l, 2.1-138 mg l-l,
+and 1.69-35 mg l-l respectively whereas the treated effluent range 10-348 mg
+l-l, 51-1187 mg l-l, 18-139 mg l-l,0.2-70.2 mg l-l, and 0.24-29.8 mg l-l
+respectively and removal ranges were 33-70%, 24-79%, 70-85%, 3-90% and
+12-87% for HSSFCW. The concentrations of TSS, COD, BOD, TN and TP of
+the source influent range 40-98 mg l-l, 428-1135 mg l-l, 198-924 mg l-l, 0.29-
+0.89 mg l-l, 0.25-0.99 respectively whereas the treated effluent range 15-61
+mg l-l, 124-782 mg l-l, 42-486 mg l-l, 0.04-0.22 mg l-l and 0.05-0.25 mg l-l
+respectively and removal ranges were 6-59%, 14-78%, 47-81%, 27-93%, and
+67-97% for VSSFCW. Annually the HSSFCW removed 49% TSS, 67%
+COD, 77% BOD, 46%TN, 45% TP while the VSSFCW removed 44% TSS,
+46% COD, 67% BOD, 79% TN, 79% TP.
+Target pollutant removal increased with an increase in hydraulic
+residence time (HRT). A 6-day HRT is adequate for an acceptable level of
+treatment in horizontal constructed wetland systems. Phragmites australis
+proves to be a better species in overall treatment. The floating wetland plant
+Myriophyllum spicatum, also exhibited better removal of TSS, COD and TN.
+All wetland units were better than the control unit (no plant) under all
+conditions. The concentration reduction was good in all months of long-dry
+period which ascertained the feasibility of application of subsurface flow
+constructed wetland in tropical climate. The constructed wetland application
+to other types of wastewater, use of various types of substrate with different
+proportions, combined horizontal and vertical flow are the areas suggested for
+future studies.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7032">http://hdl.handle.net/123456789/7032</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7032/1/T0033.pdf">T0033.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">6.31 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7032/1/T0033.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7032">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

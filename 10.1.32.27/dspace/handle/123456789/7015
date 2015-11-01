@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Development and Validation of Analytical Techniques for Quantitative Estimation of Some Antihypertensive Drugs</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7015</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Development and Validation of Analytical Techniques for Quantitative Estimation of Some Antihypertensive Drugs</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Lakshmi Sivasubramanian</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">QUANTITATIVE ESTIMATION<br />ANTIHYPERTENSIVE</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Mar-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0021</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The present study describes the development of a novel analytical
+approach that can reduce by 80-fold the consumption of organic solvents. A
+group of ten antihypertensive drugs were chosen for the study. The
+applicability of H-Point Standard Addition Method (HPSAM) to resolving
+overlapping spectra corresponding to different combinations of
+antihypertensives were verified. The results show that HPSAM is suitable for
+the simultaneous estimation of Irbesartan with Hydrochlorothiazide and
+Valsartan with Hydrochlorothiazide in aqueous media. The proposed method
+has been applied to the simultaneous determination of Hydrochlorothiazide in
+the presence of Irbesartan or Valsartan in some synthetic samples and
+formulations.
+A new HPSAM is proposed for the resolution of ternary mixtures
+which is not reported by earlier workers. The proposed method involves
+identification of three suitable wavelengths and absorption correction steps.
+The method calculates the analyte concentration from spectral data at two
+wavelengths where the two species selected as interferents present the same
+absorbance relationship. The proposed novel method was applied successfully
+to the simultaneous determination of mixtures of Irbesartan,
+Hydrochlorothiazide and Telmisartan, Ramipril, Hydrochlorothiazide and
+v
+telmisartan and the mixture of Losartan potassium, Hydrochlorothiazide and
+Amlodipine besylate. Accuracy and reproducibility of the method on various
+amounts of drugs were evaluated in their ternary mixtures. To investigate the
+selectivity of the method and to ensure that no serious interferences were
+observed, the determination of antihypertensives was studied from the
+formulation. This method utilizes the greatest advantage of HPSAM that it
+can remove the error resulting from the presence of an interferent. So,
+HPSAM can determine two or three drugs simultaneously.
+A new chemometrics assisted spectrophotometric methods for
+simultaneous determination of binary and ternary mixtures were reported. The
+UV absorption spectra of the studied drugs, in the range of 200-350 nm
+showed a considerable degree of spectral overlapping. Resolution of the
+mixture has been accomplished by using Partial Least Squares (PLS) and
+Principal Component Regression (PCR) methods. The proposed methods
+were applied for the determination of two or three drugs in laboratory
+prepared mixtures. Good percentage recoveries and proper statistical data
+obtained with both the laboratory prepared mixtures and commercial tablets
+proved the suitability and efficiency of the proposed procedures for routine
+analysis and quality control purposes with quite satisfactory precision. The
+PLS and PCR methods were extended for first derivative and second
+derivative spectra of the drugs under study.
+vi
+A simple reverse-phased high performance liquid chromatographic
+(RP-HPLC) method has been developed and validated for simultaneous
+determination of Irbesartan, Losartan, Valsartan, Telmisartan and
+Hydrochlorothiazide in synthetic samples, formulations and biological
+samples. The compounds were separated on ODS analytical column with a
+mixture of acetonitrile and water in the ratio 70:30 v/v. UV detection was
+performed at 210 nm. The drugs were resolved with gradient elution system
+with the run time of 20 min. The method was validated for accuracy,
+precision, specificity, linearity and sensitivity. The developed and validated
+method was successfully applied for quantitative analysis of studied drugs
+from formulations. Total chromatographic analysis time was 20 min with
+Telmisartan, Hydrochlorothiazide, Losartan, Irbesartan and Valsartan eluting
+with retention times 4.71, 5.68, 7.06, 9.56 and 15.39 min respectively.
+Calibration plots were linear over the range of 50-250 μg/ml for
+Hydrochlorothiazide and 25-125 μg/ml for other drugs. Recovery was in the
+range of 97-103% with the relative standard deviation of less than 2% for all
+the drugs. The high percentage recovery and low coefficient of variation
+confirm the suitability of the method for simultaneous analysis of all five
+antihypertensives.
+A new simple, accurate and precise high performance thin layer
+chromatographic (HPTLC) method has been established for simultaneous
+analysis of Irbesartan, Telmisartan, Hydrochlorothiazide and Ramipril in
+synthetic samples and formulations. Standard and sample solutions of the
+vii
+studied drugs were applied to precoated silica gel G 60 F254 HPTLC plates
+and the plates were developed with acetonitrile:toluene:methanol:formic acid
+in the ratio 8:10:2:0.6 v/v/v/v as mobile phase. Detection and evaluation of
+chromatograms was performed densitometrically at 210 nm. The retention
+factors were 0.35, 0.42, 0.54 and 0.60 for Ramipril, Telmisartan,
+Hydrochlorothiazide and Irbesartan respectively. The linear range was 500-
+2500 ng/spot for Hydrochlorothiazide and 250-1250 ng/spot for other drugs
+with the correlation coefficient greater than 0.9990. The method was validated
+and successfully used for the analysis of drugs in tablets.
+The approach described herein is of great practical value in
+pharmaceutical analysis as it reduces the exposure of analysts to toxic effects
+of organic solvents, lowers the cost by 50-fold, and it has a high throughput
+property. Although the approach is validated for few antihypertensives, the
+same methodology can be used for any other drugs possessing the ideal
+properties.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7015">http://hdl.handle.net/123456789/7015</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7015/1/T0021.pdf">T0021.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.03 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7015/1/T0021.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7015">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

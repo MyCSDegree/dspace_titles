@@ -1,0 +1,409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: EXPRESSION AND PURIFICATION OF A SYNTHETIC RECOMBINANT PROTEIN HAVING THE SAME APPLICATION WITH TWO DIFFERENT CLONES</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1">Students Project</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1685">Biotechnology</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/2250">2008</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/2251">Biotech-2008</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/2326</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">EXPRESSION AND PURIFICATION OF A SYNTHETIC RECOMBINANT PROTEIN HAVING THE SAME APPLICATION WITH TWO DIFFERENT CLONES</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">SENTHIL KUMARAN V</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">SYNTHETIC RECOMBINANT PROTEIN, EXPRESSION AND PURIFICATION, CLONES</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">1-Apr-2008 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM UNIVERSITY</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">4088</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Protein was known to science before the DNA and for long time was assumed that they are the genetic code carrier. Proteins are a group of organic molecule combinations. Proteins are the most important of all the materials that compose all living organisms. Proteins are in each living cell of all organisms without exceptions and in the cells, the proteins are abundant in variety or types. All the characteristics of the organisms are determined by protein activity (such as eye color, immune system operation). Proteins are,
+1. Macromolecules / polymers
+2. Workhorses of the cell
+3. Made up of various L-amino acids, totaling 20 in number, connected by peptide bonds
+4. Linear chains (unbranched)
+5. Protein molecule that consists of a single polypeptide chain is said to be monomeric
+6. Proteins made up of more than one polypeptide chain are called oligomeric
+7. Interact with other proteins, nucleic acids, small molecules, ions, etc.
+Proteins can be classified in many ways. Based on the chemical composition they can be classified into simple proteins (homoproteins) and conjugated proteins (heteroproteins); there are different types of conjugated proteins classified according to the conjugating group such as glycoprotein (saccharide group), lipoprotein (lipid group), hemoprotein (heme group), metalloprotein (metal ion), nucleoprotein (nucleic acid) and phosphoprotein (phosphate ester). Based on the functionality proteins can be classified as those which help in binding (e.g. antibodies), cellular structure formation (e.g. collagen, keratin), enzymatic catalysis (e.g. trypsin, chymotrypsin), mechanical support (e.g. actin, myosin), regulatory function (e.g. insulin), storage (e.g. ferritin, stores iron) and transport of molecules and substances (e.g. hemoglobin, myoglobin).
+Proteins have four different types of structures. The Primary structure deals with the order of polypeptide sequence and linear covalently linked amino acid sequence (peptide bonds) and any other covalent linkages between residues in the protein chain (disulfide bridges). The Secondary structure deals with 3D arrangement of only the polypeptide main chain, determined by hydrogen bond interactions between adjacent amino acid residues in the polypeptide chain; polypeptide chain can arrange itself into characteristic repeating patterns such as helices, or pleated sheets, two basic secondary structures that are stabilized by hydrogen bonds (α-helix and ß-pleated sheet) and other important structures include ß-turns and ß-bulges. The Tertiary structure deals with 3D arrangement of the amino acid side chains with each other and the main chain; polypeptide chains bend and fold in order to assume a more compact, specific three dimensional shape, unique, reproducible 3D structure (for instance, many proteins adopt a globular shape because that gives the lowest surface-to-volume ratio), overall 3-D arrangement of the protein; considers how the various parts of secondary structure are oriented, stabilized by the complete set of interactions including the flexibility and rotation of the protein backbone and steric hindrance and hydrogen bonding, salt bridges between opposite charges (electrostatic interactions), hydrophobic interactions and disulfide bonds. The Quaternary structure deals with 3D assembly of individual protein subunits to form a multimeric protein, only exists for proteins, that function as multichain units (such as hemoglobin consists of two or more interacting polypeptide chains assemble to form larger protein molecules), depends on the association of multiple protein chains, known as subunits (such as how many of each and how they interact with each other); this structure is determined by electrostatic interactions, hydrogen bonding, hydrophobic interactions and disulfide bonds between the `R’ groups of amino acids that are in contact on the surfaces of the associating protein chains.
+The proteins are created in the cells by the ribosome by a process called “Translation” in which a mRNA molecule (that was the transcript of the DNA inside the nucleus) comes out of the nucleus to the Cytoplasm; this mRNA molecule carry the genetic code of the DNA and proteins are translated in the cytoplasm. In this process another protein molecule called `Ribosome’ is involved.
+In the normal biologically active form of a protein (hereinafter referred to as the native form) the chain is folded into a thermodynamically preferred three dimensional structure. Covalent bonds between sulphur atoms may form intramolecular disulphide bridges in the polypeptide chain, as well as intermolecular disulphide bridges between separate polypeptide chains of multisubunit proteins, e.g. insulin. The insoluble proteins produced in some instances do not exhibit the functional activity of their natural counterparts and are therefore in general of little use as commercial products. The lack of functional activity may be due to a number of factors but it is likely that such proteins produced by transformed host organisms are formed in a conformation which differs from that of their native form. They may also possess unwanted intermolecular disulphide bonds not required for functional activity of the native protein in addition to intramolecular disulphide bonds. The altered three dimensional structures of such proteins not only lead to insolubility but also diminish or abolish the biological activity of the protein. It is not possible to predict whether a given protein expressed by a given host organism will be soluble or insoluble.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/2326">http://hdl.handle.net/123456789/2326</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/2251">Biotech-2008</a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/2326/1/4088.pdf">4088.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">1.44 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/2326/1/4088.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/2326">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

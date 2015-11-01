@@ -1,0 +1,410 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Behaviour of Normal and Fly Ash Based Concrete Infilled Steel Tubular Short Columns under Axial Compression</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/9279</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Behaviour of Normal and Fly Ash Based Concrete Infilled Steel Tubular Short Columns under Axial Compression</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Umamaheswari.N</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Fly Ash Based Concrete<br />Tubular Short</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Sep-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0043</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The overall objective of the present study is to investigate the behaviour of cold-formed steel columns with and without concrete infill with respect to strength, cross-sectional shape, slenderness ratio, flat width/diameter to thickness ratio and concrete core strength. The present study is divided into three distinct phases of experimental investigation. In each of them, axial capacities with respect to various International codes of practice and available design methods are compared with experimental results. A total of sixty results of current tests and a total of twenty six results of experiments conducted by previous researchers, available in the literature have been considered.
+In the first phase, the behaviour of cold-formed steel circular and square columns with and without concrete infill was studied. Experiments were conducted on thirty six numbers of cold-formed steel columns. Twenty four of which with concrete infill were tested and compared with identical bare steel columns. The columns have been tested under axial compression till failure. The parameters considered were slenderness ratio of column and concrete core strength. The slenderness ratio was varied as 2, 4, 6, 8, 10, and 12. M30 and M60 grade concrete were used as infill. The flat width/diameter to thickness ratio was kept as 45. The load versus axial strain behaviour was studied. The failure modes were also observed. The effect of slenderness ratio, concrete filling and concrete confinement on strength of columns was studied.
+The ultimate strength of Concrete filled tubes (CFTs) decreases with increase in slenderness ratio for both circular and square CFTs whereas hollow columns show marginal variation only. The rate of increase in strength of CFTs compared to identical hollow columns is found to be high for circular sections due to confinement effect. The increase in strength of M60 grade
+vii
+concrete infilled circular CFTs is 2.44 times that of identical hollow column of L/D = 2 whereas for square CFTs, it is 2.18 only.
+In the second phase, twelve experiments were conducted on cold-formed steel circular hollow and filled columns to test their axial compressive strength. Circular columns have been chosen to give greater emphasis on the effect of concrete confinement. The parameters considered were slenderness ratio (L/D) of columns, diameter to thickness ratio (D/t) and type of concrete-infill. The slenderness ratio was varied as 4 and 6 while the diameter to thickness ratio was kept ranging from 38 to 45. Two types of concrete of grade M60, prepared as normal and fly ash based concrete were used as infill. The load versus axial strain behaviour and failure modes was observed.
+The effect of slenderness ratio and different concrete-infill with due consideration on confinement of concrete was analysed. The ultimate strength increases with decrease in diameter to thickness ratio for both type of circular CFTs filled with normal and flyash based concrete. There is no significant difference in ultimate strength when normal and fly ash based concrete are used as infill.
+In the third phase, twelve numbers of cold-formed steel circular sections with varying tube thickness have been tested as hollow and filled columns. The slenderness ratio (L/D) was kept as 4. The parameters varied were diameter to thickness ratio (D/t) and type of concrete-infill. The diameter to thickness ratio was kept as 50, 60, 75 and 96 and normal and fly ash based concrete were used as infill. The failure modes and load versus axial deformation behaviour were observed. The effect of concrete infill and diameter to thickness ratio on strength of columns was studied. The effect of confinement of concrete was also studied.
+The load versus axial strain relationships was non-linear for both square and circular columns and yield strain occurred at loads closer to failure
+viii
+loads. The circular sections have undergone larger strains compared to square sections exhibiting better ductile performance. Circular filled columns of lesser D/t ratio (=50 and 60) found to possess enhanced strength as well as ductility compared to column of larger D/t ratio (=75 and 96). Circular filled columns of lesser D/t ratio have undergone larger axial deformation in the order of 6-8mm at peak loads, whereas for columns of larger D/t ratio, a drop in load-deformation curve occurs which indicates strain softening behaviour. Filled columns found to possess better initial axial stiffness compared to hollow columns, about 1.5 to 4 times more, of the same slenderness. The initial axial stiffness of filled circular column specimens with normal and fly ash based concrete have been found out to be almost the same.CFT columns of lesser D/t found to possess better initial axial stiffness.
+The failure modes observed during experimental investigation on square and circular infilled and hollow columns showed that failure was by local buckling of steel sections for most of the specimens of L/D lesser than or equal to 8 and for other specimens, it was by overall buckling. Filled sections exhibited bulging of steel tubes near top for most of the specimens and at centre for few specimens. For hollow sections of L/D greater than 8, local buckling occurred first and it was followed by overall buckling and showed inward and outward buckling on two opposite faces near top of the square columns and ring type buckling for circular columns. The failure due to concrete crushing occurred for CFT specimens of larger D/t ratio.
+The axial strength values were predicted based on the provisions available in international codes such as Eurocode 4-1994, American Standards AISC 2005, AISC-LRFD-1999, ACI-318-1999, Australian Standards AS 3600-1994, AS 4100-1998 and the design methods suggested by previous researchers and compared with the experimental values. Twenty six test results available in the literature were also considered.
+The axial strength predictions as per AISC 2005 provisions for square and circular hollow columns are closer to experimental axial strength
+ix
+values for lesser size (50mm) only whereas for circular columns of larger diameter (75-150mm) the predicted strength values are highly conservative.From the existing approaches, it can be concluded that Eurocode4-1994 provisions and the equation suggested by Muhammad et al. gives the most acceptable results for square CFTs under consideration. For circular CFTs, the provision for confinement effect considered in Eurocode4, AISC 2005 and the equation suggested by Giakoumelis and Lam is not found to be adequate and hence needs revision. The Concrete Enhancement Factor (CEF) as per Eurocode 4-1994 provisions decreases with increase in L/D ratio, D/t ratio and concrete core strength. Eurocode 4-1994 predictions of CEF are conservative.
+From the experimental investigations and comparison with predictions using codal provisions and design methods suggested by previous researchers, a modified equation for the design of circular CFTs has been proposed to cover wider variation of slenderness and diameter to thickness ratio and concrete and steel strengths. The proposed equation with modification for strength enhancement due to concrete confinement provides better results for circular CFTs of slenderness ratio varying from 2 to 12 and diameter to thickness ratio ranging from 20 to 96, concrete core strength ranging from 23 to 83 N/mm2 and steel yield strength ranging from 255 to 537 N/mm2, with mean and standard deviation 1.00 and 14% respectively. It was concluded that the proposed equation for the design of circular CFTs is found to be providing closer results for wider variation of slenderness and diameter to thickness ratio and concrete and steel strengths, 98.4% of predicted strength values are in good agreement with the observed strengths. A Safety Index of 1.05 as applicable to circular CFT columns was also suggested.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/9279">http://hdl.handle.net/123456789/9279</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9279/1/T0043.pdf">T0043.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.05 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9279/1/T0043.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/9279">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

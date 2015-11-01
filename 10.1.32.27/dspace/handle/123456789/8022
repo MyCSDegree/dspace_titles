@@ -1,0 +1,498 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Investigation on the Modeling and Optimization in Machining Characteristics of CFRP Composites</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/8022</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Investigation on the Modeling and Optimization in Machining Characteristics of CFRP Composites</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Rajasekaran.T</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Investigation on the Modeling<br />Optimization in Machining</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jul-2012 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0072</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Carbon fiber reinforced polymeric (CFRP) composite materials possess
+their own unique mechanical as well as functional properties, which is attributed to
+the combination of their constituent materials that has desirable properties. The
+above said constituents are generally available as carbon fiber reinforcement
+positioned in the polymer resin. The salient properties such as high strength-toweight
+ratio, wear resistance, corrosion resistance makes CFRP composite materials
+highly suitable for various key applications namely aerospace, automobiles, sporting
+goods, biomedical, to name a few. Though composite materials are manufactured to
+near net shape, often subsequent machining is found necessary to achieve desired
+dimensional accuracy and tolerance.
+Machining is a broad term used to describe removal of material from a
+workpiece in the form of chips of various types such as continuous, discontinuous,
+etc., Traditional materials such as steel, aluminum and their alloys are isotropic,
+because they have same properties irrespective of the direction of measurement. But
+in the case of CFRP materials, the properties vary with respect to the direction. Also
+properties of material vary layer by layer. This is because the way in which these
+materials are reinforced. Thus they are considered to be anisotropic and
+heterogeneous. Machining of composites has been undertaken to a large extent
+because of its increasing use in replacing conventional materials for various
+applications and even to transform the raw material from one shape to another shape
+of interest. But due to the excellent mechanical properties, their heterogeneity,
+sensitivity to heat, and the extremely abrasive nature of fibers, machining of fiber
+reinforced composite materials is perceived as a highly difficult task.
+v
+Once material is machined, then it is the concern of how good its surface
+would be. CFRP is also not exceptional to this criterion. Surface roughness of CFRP
+composites requires more and more analysis due to the presence of abrasive nature
+of fibers. Surface roughness is one of the important parameters in the evaluation of
+accuracy in machined components. Though, various factors such as work material,
+cutting tool material, machine tool condition, cutting fluid, etc., affect the surface
+roughness of any machined component, machining parameters such as cutting speed,
+feed and depth of cut have great influence. Also during the process of turning,
+composite material induces various damages such as fiber pull-out, fiber bending,
+matrix cracking, spalling and fuzzing.
+Investigation on CFRP composite materials, particularly on turning
+process is not reported much. Further, the quality of turned surfaces could be
+evaluate in terms of performance factors such as surface roughness, machining
+force, power consumption and specific cutting pressure. In addition, there is no
+sufficient modeling and optimization on composite materials carried out in turning
+CFRP composite materials. Therefore, this research work focuses on the
+experimental work in turning of CFRP composite materials using three cutting tool
+materials such as Polycrystalline diamond (PCD), Cubic boron nitride (CBN) and
+Cemented Carbide (K15) considering four different response parameters. Modeling
+and optimization of process parameters also is carried out and presented in this
+research work.
+CFRP composite materials are prepared in the form of tube using
+filament winding method. The resin used is of unsaturated isophthalic polyester
+resin mixed with the 2% of hardener hard cobalt napthanate and accelerator methane
+ethane ketone peroxide. Turning operation is carried out on Lathe (NAGMATI
+make) using different single point cutting tools such as by varying various
+machining parameters. The machining parameters used for machining are cutting
+speed, feed and depth of cut.
+vi
+The experiments are carried out using full factorial design of Taguchi’s
+L27 orthogonal array meaning 27 experiments. The machining parameters used are
+of three levels in each cutting speed, feed and depth of cut. They are three levels of
+cutting speed 75 m/min, 100 m/min and 125 m/min; feed of 0.1 mm/rev, 0.15
+mm/rev and 0.2 mm/rev; and depth of cut of 0.5 mm, 1 mm and 1.5 mm. In this
+research work, four different response parameters are studied such as machining
+force, surface roughness, machining power and specific cutting pressure in turning
+of CFRP composite materials. Among the cutting tools used, PCD tool offered better
+performance.
+Forces are measured during turning operation. Surface roughness of
+machined composite is measured using Taylor-Hobson surface roughness measuring
+equipment after turning process is completed. Subsequently machining power and
+specific cutting pressure were determined. Then analysis was carried out on the
+surface roughness and machining force to find the significance of machining
+parameters that could yield a better surface roughness and machining force,
+machining power and specific cutting pressure.
+Modeling was developed to predict response parameters using Response
+Surface Methodology. The empirical equations are developed for each response
+using regression modeling techniques for determination of non linear relationship
+between the chosen responses and the turning parameters. The R-sq value, which is
+the coefficient of correlation, is used for checking the regression models and it is
+more or less equal to unity pointing out that the developed model is good in
+agreement with the experimental values.
+Another methodology Fuzzy logic is used for developing models using
+different membership functions. The results predicted by these methodologies are
+compared with that of the experimental values. Correlation between the results was
+analyzed using the average checking error. Optimal membership function was
+chosen based on the minimum error occurred against experimental value.
+vii
+Machining parameters were optimized using Grey Relational Analysis
+for a suitable combination of turning parameters for machining CFRP composites to
+obtain better result.
+The turned surface of CFRP composite materials are observed using
+macro photographs taken with 4X magnification for reviewing the damages due to
+the turning operation. The machined surface are analysed using SEM images
+revealed the damages encountered due to turning process. The major issues
+identified are fiber pullout, matrix cracking, uncut fibers found on the surface of the
+machined workpiece to name a few. Surface roughness and machining force
+increases with the increase of feed, but decreases with the increase of cutting speed.
+Machining power increases with the increase of any machining parameter. Specific
+cutting pressure decreased when increasing the feed but increasing if cutting speed
+and depth of cut are increased. Among the methodologies used for developing
+models for prediction of response variables, fuzzy logic offers the best result closer
+to the experimental one than the response regression technique. Further, among the
+membership functions used, bell shaped membership function was the closer
+agreement with the experimental results. Grey relational analysis also offered
+desired results to coincide with the experimentation. In addition, ANOVA tables are
+also developed to find out the most influential machining parameter and the
+percentage of contributions. It is observed from the ANOVA tables that the feed is
+the most influential factor subsequently followed by cutting speed and depth of cut.
+Similarly, parametric influence on each four response also is studied and the
+interaction plots are analysed and presented.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/8022">http://hdl.handle.net/123456789/8022</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/8022/1/T0072.pdf">T0072.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">8.21 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/8022/1/T0072.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/8022">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

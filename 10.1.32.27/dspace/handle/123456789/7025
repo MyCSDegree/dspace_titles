@@ -1,0 +1,482 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Pharmacognostical, Phytochemical and Pharmacological Evaluation of the Leaves of Symplocos Cochinchinensis (Lour.) S.Moore Ssp.Laurina (Retz.) Nooteb. (Symplocaceae)</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7025</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Pharmacognostical, Phytochemical and Pharmacological Evaluation of the Leaves of Symplocos Cochinchinensis (Lour.) S.Moore Ssp.Laurina (Retz.) Nooteb. (Symplocaceae)</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Vadivu.R</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">PHARMACOGNOSTICAL<br />PHARMACOLOGICAL EVALUATION</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Mar-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0029</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Plants are considered to be promising source of medicine in the
+traditional health care system. They have stood the test of time for their
+safety, efficacy, cultural acceptability and lesser side effects. The chemical
+constituents present in them are responsible for the physiological functions of
+living flora and hence they are believed to have better compatibility with the
+human body. Keeping therefore in view, the growing interest of the use of
+herbal drugs the present study was undertaken with a view to evaluate the
+pharmacognostical, phytochemical and pharmacological activities of the
+leaves of Symplocos cochinchinensis (Lour.).
+Pharmacognostical standardization has emerged as one of the
+fundamental necessity aimed at the confirmation of the origin of the herbal
+drugs to safely include them as certified raw material in requisite
+formulations. Pharmacognostical standardization seems therefore of prime
+importance and can be assessed by the following perspectives like
+macroscopy, microscopy and physico-chemical constants.
+In the present study macroscopy, microscopy of the leaves, stem,
+petiole and bark, physico-chemical constants, histochemical analysis,
+fluorescence analysis and inorganic mineral analysis of the leaves were
+carried out. These standards are used to ensure the identification and
+authentication of the plant in crude and fragmentary form for industrial and
+v
+further research purpose. Any significant deviation in the percentage of any
+parameters reported in this work may indicate adulteration or substitution in
+the drug.
+The shade dried powdered plant material was subjected to
+successive soxhlet extraction with n-hexane, chloroform, ethyl acetate and
+methanol. The various extracts were then subjected to preliminary
+phytochemical analysis which revealed the presence of steroids,
+carbohydrates, phenols, flavanoids, glycosides, proteins, saponins and
+alkaloids.
+Qualitative chromatographic analysis of these extracts using thin
+layer chromatography was performed to separate and identify the single or
+mixture of components present in each extract. High performance thin layer
+chromatography (HPTLC) fingerprint profiles of the extracts were also
+carried out. HPTLC fingerprint is one of the versatile tool for qualitative and
+quantitative analysis of active constituents. It is also a diagnostic method to
+find out the adulterants and to check the purity.
+All the extracts were subjected to in-vitro pharmacological studies
+to select the best therapeutically active extract for in-vivo pharmacological
+activity. In-vitro cytotoxic activity was carried out using human cancer cell
+lines namely Human breast cancer- MDA-MB-231, Colon cancer-SW 620
+and Liver cancer - Hep G 2. Anti-inflammatory activity was carried out by
+human red blood cell (HRBC) membrane stabilization method and anti-snake
+venom activity was carried out by inhibition of HRBC lysis method. Among
+vi
+the four extracts methanol extract showed significant in-vitro pharmacological
+activity and it was selected for the in-vivo pharmacological activity.
+In-vivo pharmacological activity like hepatoprotective,
+anti-inflammatory, anti-snake venom and anti-cancer activities were carried
+out for methanolic extract. Acute toxicity study was carried out for methanol
+extract using Acute Toxic Class Method as described in OECD Guidelines
+No. 423 (Organization of Economic Co-Operation and Development). The
+methanolic extract was safe up to a dose of 2000 mg/kg body weight and the
+dose levels were fixed as 200 and 400mg/kg of body weight.
+Hepatoprotective activity was carried out using carbon tetrachloride
+(CCl4) induced hepatotoxicity in rats. The serum hepatic marker enzyme
+levels were significantly increased in the CCl4 treated group as a result of
+hepatic damage which was significantly retrieved to normal level by treatment
+with the extract. The extract treatment also restored the altered antioxidant
+enzyme levels towards normal in a dose dependant manner in CCl4 induced
+hepatic damage. All the results were comparable with that of standard
+Silymarin treated groups.
+The in-vivo anti-inflammatory activity was evaluated by
+carrageenan induced paw oedema model in rats. The methanolic extract at
+400 mg/kg showed significant reduction in the oedema which was comparable
+with that of the standard drug Diclofenac. In in-vivo anti-snake venom activity
+it was observed that the percentage survival of the mice increased
+significantly in extract treated groups in a dose dependant manner when
+compared to control group.
+vii
+Anti-cancer activity was carried out using Dalton’s ascitic
+lymphoma (DAL) cell lines. Treatment with methanolic extract at 200mg and
+400mg/kg reduced the tumor volume, packed cell volume (PCV) and viable
+tumor cell count in dose dependent manner as compared to DAL control
+group of animals. The non-viable tumor cell counts, mean survival time were
+increased in extract treated groups. Extract treatment retrieved all the
+haematological parameters to normal level.
+The methanolic extract was column chromatographed to isolate
+the individual compounds. Three compounds were isolated from the extract
+and their structures were elucidated by spectral studies. The oleanolic acid
+derivative isolated from the extract was studied for in-vivo anti-cancer
+activity. It showed potent anti-cancer activity by increasing the life span of
+animals and retrieving all the haematological parameters to normal level.
+The present investigation is aimed on the evaluation of
+Pharmacognosy, Phytochemistry and Pharmacological activities of the leaves
+of Symplocos cochinchinensis (Lour.) will fill up the lacuna in our
+knowledge of the plant. The scope of this research work is to provide
+scientific evaluation of an important plant with promising therapeutic activity.
+The study aims to add a new plant to Indian medicinal plant armory and
+Indian System of Medicine.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7025">http://hdl.handle.net/123456789/7025</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7025/1/T0029.pdf">T0029.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">11.56 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7025/1/T0029.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7025">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Crystal Structure and Conformational Studies of Some Biologically Important Organic Compounds</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7011</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Crystal Structure and Conformational Studies of Some Biologically Important Organic Compounds</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Nirmala.S</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Biologically<br />ORGANIC COMPOUNDS</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Apr-2010 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0008</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The objective of the thesis is to determine the crystal structure of the
+biologically important organic compounds by X-ray diffraction methods and
+analyse the conformational features which have applications in medicinal,
+biological and pharmaceutical fields. Out of the sixteen compounds studied, five
+of them belong to chromenopyrroles, two indoles, three pyrrolidines, one
+pyrrolopyrrole, three pyrrolizines, one piperazine and a furan compound. The
+antibacterial activities of six compounds are studied and the screening results
+are presented. The docking studies of four compounds are carried out and the
+results are analysed. The work reported in this thesis is divided into seven
+chapters with the addition of two appendices. Chapter 1 presents a brief
+summary of the crystal structure determination methods and the importance of
+heterocyclic compounds. The five- and six-membered heterocyclic ring
+compounds occupy a prominent place among various classes of organic
+compounds for their diverse biological activities.
+The three-dimensional structure details of the compounds are given in
+Chapters 2 to 7. Chapter 2 describes the crystal structure analysis of five
+chromenopyrrole derivatives, namely (3aS,9bR)-Methyl 1-methyl-3-phenyl-
+1,2,3,3a,4, 9b-hexahydrochromeno[4,3-b] pyrrole-3a-carboxylate [CP1],
+Methyl 3-(4-chlorophenyl)-1,2,3,3a,4,9b-hexahydro-1-chromeno[4,3-b]pyrrole-
+3a-carboxylate [CP2], (3aRS,9bSR)-3-(4-Chlorophenyl)-1-methyl-1,2,3,3a, 4,
+9b- hexahydrochromeno[4,3-b]pyrrole-3a-carbonitrile [CP3], Methyl 1-methyl-
+3-p-tolyl-1, 2, 3, 3a, 4,11c-hexahydrobenzo[f]chromeno[4,3-b]- pyrrole-3acarboxylate
+[CP4] and Methyl 3-(4-bromophenyl)-1-methyl-1, 2, 3, 3a, 4, 9bvii
+hexahydrobenzo[f]-chromeno [4,3-b] pyrrole-3a-carboxylate [CP5]. The
+compounds CP1 and CP2 crystallize in triclinic system with space group P1,
+whereas CP3 and CP5 in monoclinic space group P21/c and CP4 in space group
+P21/n. All the structures are solved by direct methods and refined by full-matrix
+least-squares procedures. The final R-values are 0.046, 0.040, 0.046, 0.047 and
+0.038 for CP1, CP2, CP3, CP4 and CP5, respectively. The six-membered
+heterocyclic ring adopts a half-chair conformation in all the molecules (except
+CP2, in which the ring is twisted). The pyrrolidine ring adopts an envelope
+conformation in CP1, CP3 and CP5; half-chair conformation in CP2 and a twist
+conformation in CP4. The compounds are stabilized by intra and intermolecular
+C−H…O and C-H…Br hydrogen bonds in addition to van der Waals forces.
+Weak intermolecular C-H…π, C-Cl…π and π…π interactions are also useful in
+stabilizing the molecular structures.
+Chapter 3 of the thesis reports the crystal structure of two indole
+compounds, namely 1-Allyl-3,3-diphenylindolin-2-one [ID1] and 1-Allyl-3,3-
+di-p-tolylindolin-2-one [ID2]. The compound ID1 crystallizes in orthorhombic
+space group P212121 and ID2 in triclinic space group P1. The final R-values are
+0.050 and 0.051 for ID1 and ID2, respectively. In both the compounds, the
+oxindole ring system has variation in endocyclic angles which is due to fusion
+of five- and six-membered rings. The crystal packing of the molecules are based
+on C-H…O and C-H…π interactions.
+In Chapter 4, structural and conformational analysis of three indole based
+pyrrolidine derivatives and a pyrrolopyrrole derivative, namely Methyl 3-(4-
+bromophenyl)-2- (1H-indol-3-ylmethyl) -5-[1-(4-methoxyphenyl)-4-oxo-2-
+phenylazetidin-2-yl]-4-nitropyrrolidine-2-carboxylate [PD1], Methyl 3-(2-
+chlorophenyl)-2- (1H-indol-3-ylmethyl)-5- [1-(4-methoxyphenyl)-4-oxo-3-
+phenylazetidin-2-yl]-4-nitropyrrolidine -2-carboxylate [PD2], 4'-(4-
+viii
+Methoxyphenyl)-1,1',1'' -trimethyldispiro [indoline-3,2'-pyrrolidine-3',3''-
+pyrrolidine]- 2,2'',5''-trione [PD3] and cis-1-(4-Bromophenyl)-6-ethyl-5-
+(phenylsulfonyl)perhydropyrrolo[3,4-b]pyrrole [PP1] are described. The
+compounds PD1, PD2, PD3 and PP1 crystallize in Cc, P1, Pbca and Pna21
+space groups, respectively. The final R-values are 0.040, 0.067, 0.049 and 0.035
+for PD1, PD2, PD3 and PP1, respectively. The pyrrolidine ring adopts an
+envelope conformation in PD1 and a twist conformation in PD2. In PD3, one of
+the pyrrolidine rings adopts an envelope conformation while the other has a
+twist conformation. Both the pyrrolidine rings have twist conformations in PP1.
+The molecular packing is controlled by N-H…O, C-H…O, C-H…π and π…π
+intermolecular interactions in addition to van der Waals forces.
+Chapter 5 deals with the three dimensional structures of three pyrrolizine
+derivatives, namely 1-[2-Oxo-1'-phenyl-2',3',5',6',7',7a'-hexahydroindoline-3-
+spiro-3'-1'H- pyrrolizine-2'-yl]-3- phenylprop-2-en-1-one [PZ1], 3-(4-
+Flourophenyl)-1-[1'-(4-flourophenyl)- 2-oxo-5',6',7',7a'-tetrahydro-1H-indole-
+(2H)-spiro-3'(2'H)-1H'-pyrrolizine-2'-yl]prop-2-en-1-one [PZ2] and Methyl 4-
+(4-methoxyphenyl)-1,2,3,3a,4,4a,5, 12c-octahydrobenzo[f] chromeno[3,4-b]
+pyrrolizine-4a-carboxylate [PZ3]. The three compounds PZ1, PZ2 and PZ3
+crystallize in triclinic system with space group P1. The final R-values are 0.058,
+0.049 and 0.046 for PZ1, PZ2 and PZ3, respectively. In PZ1 and PZ2, one of
+the pyrrolidine rings adopts a twist conformation and the other disordered
+pyrrolidine ring adopts an envelope conformation in both major and minor
+conformers. In PZ3, the six-membered heterocyclic ring has a half-chair
+conformation, whereas both the pyrrolidine rings have envelope conformations.
+The crystal structures of PZ1 and PZ2 are stabilized by intermolecular N-H…O
+and C-H…F hydrogen bonds in addition to C-H…π interactions. The crystal
+structure of PZ3 is stabilized by weak intermolecular C-H…π interactions and
+van der Waals forces.
+ix
+Chapter 6 describes the crystal structure analysis of a piperazine
+derivative, namely 1,4-Dimethyl 2.5[2'-dispiroindane-1,3-dione]piperazine
+[PN1]. The compound PN1 crystallizes in monoclinic space group P21/n with
+one-half molecule in the asymmetric unit. The complete molecule is generated
+by inversion symmetry. The final R-value is 0.046. The cyclo-pentane ring
+adopts an envelope conformation and the piperazine ring is in chair
+conformation. The crystal packing is stabilized by weak intermolecular π…π
+interactions in addition to van der Waals forces.
+Chapter 7 deals with the crystallographic study of a furan derivative,
+namely, Ethyl 2-[4-(benzyloxy)anilino]-4-oxo-4,5-dihydrofuran-3-carboxylate.
+The compound FN1 crystallizes in triclinic system with space group P1. The
+final R-value is 0.051. The dihydrofuran ring is planar. The crystal structure is
+stabilized by intermolecular C-H…O interactions.
+The crystallographic packages SHELX, SIR and WINGX suite are used
+to solve and refine the structures. ORTEP and PLATON are used to draw the
+thermal ellipsoid plots and packing diagrams. The crystallographic program
+PARST is used for plane calculation. The commercial software Schrodinger
+USA is used for docking studies.
+The thesis is concluded with two Appendices. The Appendix 1 deals on
+the antibacterial activity study of six compounds screened against various
+human pathogenic bacteria. All the compounds showed appreciable inhibitory
+activities at higher concentration against the ATCC human pathogenic bacterial
+species and the results are presented. The Appendix 2 deals on the docking
+studies of four compounds, namely two chromenopyrrole derivatives and two
+pyrrolizine derivatives with the target protein, penicillin-binding protein 2x and
+the results are analysed. All the four compounds may be proposed as bacterial
+inhibitors.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7011">http://hdl.handle.net/123456789/7011</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/19/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.57 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/19/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/18/DECLARATION.pdf">DECLARATION.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">16.49 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/18/DECLARATION.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/17/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">19.95 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/17/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/16/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">34.63 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/16/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/15/ACKNOWLEDGEMENT.pdf">ACKNOWLEDGEMENT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.26 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/15/ACKNOWLEDGEMENT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/14/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">29.27 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/14/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/13/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">43.4 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/13/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/12/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">118.59 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/12/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/11/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">597.31 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/11/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/10/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">252.92 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/10/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/9/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">569.17 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/9/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/8/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">426.41 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/8/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/7/CHAPTER%206.pdf">CHAPTER 6.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">131.95 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/7/CHAPTER%206.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/6/CHAPTER%207.pdf">CHAPTER 7.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">141.13 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/6/CHAPTER%207.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/5/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">70.09 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/5/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/4/LIST%20OF%20PUBLICATIONS.pdf">LIST OF PUBLICATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.03 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/4/LIST%20OF%20PUBLICATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7011/3/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">18.48 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7011/3/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7011">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

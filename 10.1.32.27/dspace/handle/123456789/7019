@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Study on Two Phase Fluid Flows Involving Porous Medium, Stagnation Point  and MHD</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7019</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Study on Two Phase Fluid Flows Involving Porous Medium, Stagnation Point  and MHD</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Mageswari.M</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Fluid Flows<br />Stagnation Point</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Oct-2010 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0026</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The presence of contaminating dust particles in fluids can occur naturally or deliberately. These problems associated with the flow characteristics and their properties are of fundamental interest in the field of fluid mechanics, in a number of processes in the automotive, chemical and coating industries and in environmental applications such as the disposal of wastewater borne particulate in the coastal zone and the prediction of particulate deposition from urban atmospheric gas emissions. Of all multiphase fluid systems observed in nature, blood flow in arteries, flows in rocket tubes, dust in gas cooling systems to enhance heat transfer processes, movement of inert solid particles in atmosphere are the most common examples. Naturally, the studies of these systems are mathematically interesting and physically useful for various reasons.
+The presence of dust particles in a homogeneous fluid makes the dynamical study of flow problems quite complicated. The presence of dust particles and an external magnetic field render these problems much more complex.
+The objective of the present study is to investigate theoretically some flow problems of practical importance. In Chapter-I, the basic assumptions and equations concerning the flow of dusty fluids and the available literature connected with the present study are given.
+vii
+Chapter-II deals with three dimensional flow and heat transfer through a porous medium bounded by a porous vertical surface with variable permeability and heat source. The governing equations are the Navier-Stokes’ equations for the flow of dusty fluid, the equation of energy and continuity for both the fluid phase and the particle phase. The surface is lying vertically on the x*z* - plane with x* - axis taken along the surface in the upward direction. The y* - axis is taken normal to the plane surface. These equations are solved by the perturbation technique, obtaining analytical solutions for the velocity and temperature of both fluid and particle. Then the velocity and temperature distributions are obtained for different parameters and are discussed graphically. It is observed that the temperature of the fluid phase increases with increase in the Prandtl Number Pr, Reynolds Number Re, mass concentration parameter f, and time relaxation parameter′τ. It is interesting to note that the particle phase shows a similar trend for the effect of the above mentioned parameters. It is also observed that the velocity profiles of the fluid phase increase with increase in Prandtl Number Pr, Reynolds Number Re, mass concentration parameter f,γ and time relaxation parameter′τ.
+Chapter-III investigates the stagnation point flow of a dusty fluid for the effect of magnetic parameter, mixed convection and mass transfer. The governing equations are transformed into coupled differential equations and are solved by perturbation technique. The X-axis is taken along the plate and the Y-axis normal to it. A uniform magnetic field is applied normal to the plate, i.e., along the Y-axis. The velocity profile of both the fluid phase and the particle
+viii
+phase increase with increase in the values of the mass concentration parameter. As η increases, the velocity of the fluid phase is lower for air (Pr = 0.71) than for water (Pr = 7) up to 1=η and then the trend gets reversed.
+Chapter-IV discusses the heat transfer effect on the flow of dusty fluid past an impulsively started vertical plate. The governing momentum and energy equations are solved analytically by using Laplace transform techniques. We take x-axis along the plane in the vertically upward direction and y-axis normal to the plane. At time t=0, the plate and the fluid are at the same temperature. As t increases the plate is assumed to start impulsively in its own plane and the plate temperature starts oscillating. The effect of frequency of the oscillating temperature on the temperature of both the fluid and the dust particles and the effect of time on the velocity of the fluid and the dust particles are discussed. The length of the plate is assumed to be finite but lengthy enough to be treated as an infinite plate. For all permissible values of δγβαand,, the convergence is obtained from b=20 onwards. The profiles of the fluid and the dust do not vary when the values of b are increased beyond 20. This has been confirmed with a matlab program. The dust particles behave in the same manner as the fluid. Dust velocity shows no significant difference near the plate even with increase in time. When the dust parameters are absent, the dusty fluid behaves as a clean fluid. It is observed that, as the Prandtl Number of the fluid increases (Pr=0.71 for air, Pr=7 for water) the temperature of the fluid decreases. The temperature profiles are symmetric about the y-axis.
+ix
+Chapter-V aims at explaining the problem of unsteady free convective flow of a dusty fluid for the effect of magnetic field through a porous medium bounded by an infinite vertical porous plate. The governing equations are the Navier-Stokes’ equations for the momentum, Energy equations and Continuity equations for the fluid phase and the particle phase. These equations are solved by multi parameter perturbation technique. It is observed that the mean velocity profile of the fluid phase and the particle phase increase with increase in the permeability parameter k. But they decrease with increase in the Hartmann Number. The transient temperature of the fluid phase and the particle phase decrease with increase in the Sink strength S and mass concentration parameter f.
+In Chapter-VI, the laminar free convection flow of an electrically conducting dusty fluid from a vertical plate with uniform surface heat flux and variable wall temperature in the presence of a magnetic field is considered. The origin is taken at the lowest end of the plate, the x-axis along the plate and the y-axis parallel to the magnetic field. The constituent equations are solved analytically using integral method. The expressions for the velocity and the temperature for both the fluid and the dust particles have been obtained and they are compared graphically. Also the boundary layer thickness has been obtained with the assumption of varying wall temperature. As increases, the temperature profiles of the fluid and the dust phases increase with increase in the values of t and the profiles of the velocity of fluid and dust particles decrease. λ</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7019">http://hdl.handle.net/123456789/7019</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7019/1/T0026.pdf">T0026.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">1.01 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7019/1/T0026.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7019">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

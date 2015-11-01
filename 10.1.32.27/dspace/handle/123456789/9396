@@ -1,0 +1,472 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Experimental Investigations to Improve the Performance of Cotton Seed Oil Fuelled Diesel Engine</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/9396</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Experimental Investigations to Improve the Performance of Cotton Seed Oil Fuelled Diesel Engine</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Leenus Jesu Martin.M</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Cotton Seed Oil<br />Fuelled Diesel Engine</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Jan-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0066</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Bio diesel, Renewable fuels
+Vegetable oils are attractive as alternative fuels for diesel engines,
+since they are renewable in nature and can be directly used as fuels in diesel
+engines. However, their high viscosity and poor volatility lead to reduced
+brake thermal efficiency and increased hydrocarbon, carbon monoxide and
+smoke emissions. In the present work, different methods to improve the
+performance of a cotton seed oil fuelled diesel engine were investigated.
+A single cylinder water-cooled, direct injection diesel engme
+developing a power output of 5.2 kW at 1500 rpm was used for conducting the
+experiments. Tests were conducted at a constant speed of 1500 rpm with
+variable load conditions. Base data was generated with diesel and neat cotton
+seed oil. Subsequently, cotton seed oil was converted into its ethyl ester by
+transesterification process. Cotton seed oil was also blended with diesel or
+orange oil in different proportions and tested. Further, cotton seed oil or its
+blend with diesel was preheated at different temperatures and performance
+improvement was found out at various loads. In the next phase of the work,
+experiments were conducted using oxygenates like diethyl ether. In the last
+phase, the engine was converted into a semi adiabatic engine and experiments
+were conducted using cotton seed oil as fuel.
+Use of neat cotton seed oil in a diesel engine results in reduced
+brake thermal efficiency, higher smoke, hydrocarbon and carbon monoxide
+emissions. Brake thermal efficiency is 28% with neat cotton seed oil and
+32.3% with diesel at full load. It improves to 30.4% with the ethyl ester of
+cotton seed oil. Smoke level for neat cotton seed oil is 3.9 BSU and 3.7 BSU
+for its ester at full load. In the case of diesel, it is 3.4 BSU. NO emission with
+ethyl ester of cotton seed oil increases from 703 ppm to 765 ppm at full load
+due to higher combustion temperature. Due to poor mixture formation
+tendency of cotton seed oil, the premixed heat release rate is low but it
+improves with its ester operation, thereby improves the combustion
+characteristics such as peak pressure, maximum rate of pressure rise, ignition
+delay and combustion duration.
+Blending of cotton seed oil with either orange oil or diesel improves
+the engine performance and emissions. With an optimum blend of 15% orange
+oil by volume with cotton seed oil, brake thermal efficiency is 30.4% whereas
+with 40% of diesel blend, it is 30.5%. Brake thermal efficiency of neat cotton
+seed oil is 28%. Smoke level, HC and CO decreases with blending of orange
+oil or diesel. Ignition delay and combustion duration are lower than neat
+cotton seed oil for its blends with orange oil or diesel. At full load, the ignition
+delay and combustion duration are 9°CA and 41°CA respectively for the
+optimum blend of 15% orange oil compared to 12°CA and 44°CA for neat
+cotton seed oil. Same combustion parameters for 40% diesel blend are 9°CA
+and 38°CA respectively. These improvements in combustion parameters by
+blending orange oil or diesel with cotton seed oil are due to improved
+premixed combustion rate.
+Preheating neat cotton seed oil or its blends with diesel significantly
+lowers the viscosity, improves mixture formation and combustion, resulting in
+better brake thermal efficiency and lower emissions. Over all engme
+performance is far better for the preheated cotton seed oil-diesel blends
+compared to preheated neat cotton seed oil. Brake thermal efficiency for 40%
+diesel blend preheated to 90°C is 30.5% where as it is 28.8% for preheated
+cotton seed oil at 11 O°e. Higher reduction in HC, CO and smoke emission is
+observed with preheating of blends compared to preheating neat cotton seed
+oil only. However, NO emission is 741 ppm for 40% diesel blend at 90°C
+which is higher than preheating cotton seed oil only (712 ppm). Higher
+cylinder peak pressure and maximum rate of pressure rise are observed with
+preheating the 40% diesel blend at 90°C. Ignition delay and combustion
+duration for 40% diesel blend with cotton seed oil preheated to 90°C are the
+same as that of diesel values (9°CA and 38°CA respectively)
+Blending oxygenate (diethyl ether) with cotton seed oil increases the
+brake thermal efficiency at all loads due to enhanced combustion rate. At full
+load, with an optimum blend of 30% diethyl ether, the brake thermal
+VII
+efficiency increases to 29.5% from 28% for neat cotton seed oil. There is a
+reduction in the HC, CO and smoke level at all loads with diethyl ether
+blending. However, NO emission increases from 703 ppm for neat cotton seed
+oil to 737 ppm for the optimum blend due to higher combustion temperature.
+Premixed combustion rate and hence the heat release rate in the initial stages
+of combustion increases by blending diethyl ether with cotton seed oil
+Use of neat cotton seed oil in a semi-adiabatic diesel engine
+improves the brake thermal efficiency up to 60% of load after which it tends to
+fall. At higher loads, of all the methods tested, exhaust temperature is the
+highest in cotton seed oil fuelled semi-adiabatic diesel engine. This exhaust
+gas retained in the cylinder reduces the volumetric efficiency considerably.
+Hence, poor availability of oxygen impairs the combustion leading to lower
+brake thermal efficiency and higher exhaust emissions.
+Among the methods investigated, 15% orange oil blend with cotton
+seed oil is the best method to use cotton seed oil in a diesel engine with respect
+to performance, fuel economy, emissions, combustion characteristics and
+simplicity in using the cotton seed oil-orange oil blend.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/9396">http://hdl.handle.net/123456789/9396</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9396/1/T0066.pdf">T0066.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">36.19 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9396/1/T0066.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/9396">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

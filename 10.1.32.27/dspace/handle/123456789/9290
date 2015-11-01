@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Impact of It Governance Factors On Business – It Alignment</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/9290</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Impact of It Governance Factors On Business – It Alignment</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Lakshmi Vishnu Murthy Tunuguntla</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Impact of It Governance<br />Business</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Apr-2013 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0087</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">IT Governance has become very critical now a days as the need for automation is increasing in the current business scenario. The research conducted in this area indicates issues with respect to IT governance practices starting from initial Business Strategy understanding , Translation of this understanding into IT requirements and be able to support the Strategy . The IT failures are very high and their magnitude is about 600 billions of dollars.
+India is playing a major role in providing the IT services to the major continents like North America and Europe and very limited/no research was done in India so far.
+In the previous research, it is observed that the researchers were not providing end-end IT governance practices impacting the business-IT alignment or confined to a specific sector or just describe the IT governance factors but not showing the interrelationship among them.
+This study focuses on the identification of the IT governance practices (Business strategy understanding to benefit quantification) that impact the business-IT alignment in the Indian context with different types of organizations like system integrators, product development, and captive IT organizations. So contribution is made to the previous
+research by bringing in the end-end perspective, interrelationships of IT governance factors in different types of IT organizations (System Integration, Product Development and Captive IT organizations) in a framework.
+This is a cross sectional research conducted with focus on System Integration, Product Development and Captive IT organizations across five major cities in India with the target population being the Senior and Middle level Management from these organizations. Stratified Random Sampling technique is used for selecting the respondents. A questionnaire was designed using Likert scale and content validity was established after consulting the subject matter experts. The questionnaire was piloted, and with the pilot data, the construct validity was established using different techniques like Reliability (Chronbach Alpha), Convergent Validity, Confirmatory Factor Analysis, and Discriminant Validity. The inputs were obtained through the emails or telephonic calls from the target population. Structured Equation Modeling has been used to model the framework. The relationships among the IT governance factors were obtained using the Multiple Regression Models which were a by product of Structured Equation Modeling (SEM). The results are interpreted in the context of Statistics, Business and finally linked to the literature. Also the direct and indirect effects of IT governance factors on Business-IT Alignment are explained using Structured Equation Modeling (SEM) on Business-IT Alignment and the results are linked to literature.
+It is observed that “Build Partnership” affects the “Business – IT Alignment” through the other endogenous variables like “Develop Scope and Implement architecture”, “Vision for Information Technology”, “Business Value Planning”, “Develop and Implement IT (Project) Investment management” and “Develop and Implement IT
+(Project) Investment management”. The direct effect of “Build Partnership” on “Business – IT Alignment” is zero. The total indirect effect of “Build Partnership” on “Business – IT Alignment” is 0.243 and it is statistically significant at 1% level.
+BCS affects the BIA through the other endogenous variables DSA, VIT, BVP, of BCS on BIA is 0.322 and it is statistically significant at 1% level.
+BHR affects the BIA through the other endogenous variables DSA, VIT, BVP, DPM and DIM. The direct effect of BHR on BIA is zero. The total indirect effect of BHR on BIA is 0.059 and it is statistically significant at 1% level.
+It is observed that ET affects the BIA through the other endogenous variables DSA, VIT, BVP, DPM and DIM. The direct effect of ET on BIA is 0.138. The total indirect effect of ET on BIA is 0.174 and both are statistically significant at 1% level.
+DSA affects the BIA through the other endogenous variables VIT, BVP, DPM and DIM. The direct effect of DSA on BIA is 0.32. The total indirect effect of DSA on BIA is 0.048 and both are statistically significant at 1% level
+It is observed that VIT affects the BIA through the other endogenous variables BVP, DPM and DIM. The direct effect of VIT on BIA is zero. The total indirect effect of VIT on BIA is 0.023 and it is statistically significant at 1% level
+BVP affects the BIA through the other endogenous variables DPM and DIM. The direct effect of BVP on BIA is 0.378 The total indirect effect of BVP on BIA is 0.002 and it is statistically significant at 1% level
+DPM affects the BIA through the other endogenous variable DIM. The direct effect of DPM on BIA is zero. The total indirect effect of DPM on BIA is 0.039 and it is statistically significant at 1% level.
+DIM has only direct effect on BIA. So the total effect of DIM on BIA is 0.154.
+BVP has got the highest total effect (0.379) on the Business-IT alignment (BIA) followed by DSA (0.369), BCS (0.322), ET (0.312), BP (0.243), DIM (0.154), BHR (0.059), DPM (0.039) and VIT (0.023). So we could infer that understanding of Business Strategy, critical business process identification and understanding of the value indicators is playing the critical role. The Technical Architecture mapping with Business Architecture plays a vital role in bringing in the business-IT alignment. Another important inference is the importance of the automation and process frameworks (ET) at the organization level. These will bring in the required discipline and enforce process culture leading to consistency and institutionalization of the practices. Similarly the enabling factors like BCS are bringing in the importance of communication strategy that is in line with the business strategy leading to business – IT alignment. The close model fit which indicates the relationships among the IT governance factors are supported statistically and organizations could plan the governance activities using the model as a base.
+This study provides the top IT Governance factors that are impacting Business-IT alignment and the inter-relationships (ranging from Business strategy Understanding and finally connecting Business expectations with benefit realization from IT thus contributing to the Business Strategy and improving the Bottom or top line).among them through the tested framework. This is helpful in planning the road map for the Process journey of implementing the IT Governance in any organization.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/9290">http://hdl.handle.net/123456789/9290</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/9290/1/T0087.pdf">T0087.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.27 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/9290/1/T0087.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/9290">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

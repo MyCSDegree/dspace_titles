@@ -1,0 +1,530 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Growth, Characterization and the Study of Nonlinear Optical Properties of Single Crystals of Some Organic Tartrates and Heterocycles</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/13831</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Growth, Characterization and the Study of Nonlinear Optical Properties of Single Crystals of Some Organic Tartrates and Heterocycles</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Subhashini.V</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Nonlinear Optical Properties<br />Organic Tartrates</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Sep-2013 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0125</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Materials that possess nonlinear optical (NLO) properties have been
+investigated extensively for their potential applications in optical fibers, data
+storage, optical computing, optical switching and optical limiting. Molecules with
+large optical nonlinearities are required for photonic applications, including optical
+switching and data processing. The nonlinear optical processes are governed by
+nonlinear susceptibilities of materials. Depending on the number of applied electric
+fields, the nonlinear susceptibilities are classified into second order, third order and
+so on. In the case of conventional laser intensity, the nonlinear polarization and
+hence, the size of the nonlinear effect decreases with increase in the order of the
+susceptibility. Therefore, the nonlinearity upto the third order is used in practical
+applications. In recent years, there has been much activities and progress in the
+development of nonlinear photonic crystals for potential application in Second
+Harmonic Generation (SHG) and Third Harmonic Generation (THG) processes,
+respectively.
+In order to identify suitable materials for nonlinear optical
+applications, organic compounds have a tremendous impact due to their protonation,
+as the synthesis is usually performed in acidic solution. Organic molecules
+containing   electron conjugation systems asymmetries by the electron donor and
+acceptor groups are highly polarizable entities for NLO applications. The donor or
+acceptor of amine derivatives can produce high molecular nonlinearity. Amines are
+used as intermediates for ion exchange resins, pharmaceuticals, rubber chemicals
+and cross linking agent. Amines take part in many kinds of chemical reactions and
+offer many industrial applications. Amines react with acids to give salts and with
+acid anhydrides to form amides. Several hydrogen bonded tartaric - amine salts
+exhibit a second harmonic generation (SHG) properties.
+Thus, the present thesis is aimed towards the growth and characterization
+nonlinear optical properties of tartrates and hertrocycle crystals like pure
+Ethylenediamine ditartrate dihydrate (EDADTDH), Potassium dihydrogen
+phosphate (KDP) and Ammonium dihydrogen phosphate (ADP) doped Ethylene
+diamine ditartrate dihydrate, Anilinium D - tartrate (ADT), Piperzinium
+meso - tartrate (PZ.meso - T), and Piperazinium 4 - nitrophenolate monohydrate
+(PNP). The grown NLO crystals have been identified as potential candidates for
+NLO applications due to their high nonlinearity, low UV cut - off, extended thermal
+and mechanical stabilities.
+This thesis consists of seven chapters. The first chapter presents a brief
+introduction to crystal growth techniques and in particular, growth from solution. It
+gives an overview of the various methods of crystal growth and in particular, the
+growth of nonlinear optical crystals from organic materials and their application is
+also included. Theoretical aspects of nonlinear optics are also discussed in this
+chapter. Detailed literature survey has been made on the organic nonlinear optical
+crystals. To end with, the outline of the work undertaken is also discussed.
+The second chapter itemizes the various techniques, instrumentation and
+applications of spectroscopy to crystals. An elaborate discussion of single crystal
+X - ray diffraction, which is used to determine the structures for the grown crystals,
+is presented along with instrumentation. The basic principle and instrumentation of
+powder X - ray diffraction is also included in this chapter. The spectroscopic
+analysis like Fourier Transform Infrared Spectroscopy (FTIR), Fourier Transform
+Raman (FTRaman) and Fourier transform Nuclear magnetic resonance (FTNMR)
+are incorporated along with their basic principles and instrumentation which are
+used to identify the functional groups. The principles of UV - Vis analysis and
+Kurtz powder SHG studies are also discussed. Thermal analyses such as Thermo
+gravimetric Analysis (TG), Differential Thermal Analysis (DTA) and Differential
+Scanning Calorimetry (DSC), dielectric and hardness studies are also included along
+with instrumental techniques. Finally, the Z - scan technique is also discussed to
+assess the perfection and THG study of the grown crystal. These techniques have
+been employed for characterizing the NLO active crystals grown in the present
+work.
+The third chapter is devoted to the growth and characterizations of
+pure Ethylenediamine ditartrate dihydrate (EDADTDH), Potassium dihydrogen
+phosphate (KDP) and Ammonium dihydrogen phosphate (ADP) doped Ethylene
+diamine ditartrate dihydrate single crystals. From the single crystal analysis, it was
+observed that the pure EDADTDH crystal belongs to non - centrosymmetry
+tetragonal system with space group P41212. The lattice parameters have been
+identified by using powder X - Ray diffraction studies for pure EDADTDH, KDP
+and ADP doped EDADTDH. The obtained cell parmeters of the pure, KDP and
+ADP doped EDADTDH single crystals are in consistence with the single crystal
+XRD analyses. The functional groups of the grown pure EDADTDH, KDP and ADP
+doped EDADTDH single crystals have been identified by FTIR and FTRaman
+analyses. The presence of carbon and proton is confirmed by 1H NMR and 13C NMR
+spectral analyses. The optical absorption spectra for pure EDADTDH, KDP and
+ADP doped EDADTDH single crystals has been carried out using UV - Vis
+spectroscopy. The percentages of dopants were confirmed by the ICP analysis. The
+thermal analyses tested the stability of the crystal and melting point of the pure
+EDADTDH, KDP and ADP doped EDADTDH crystals. The maximum dielectric
+x
+constant and low dielectric loss with frequencies of field at various temperatures
+indicates that the pure and doped EDADTDH single crystals were free from defects.
+The hardness test reveals that the crystal develops crack for load above 50 g. The
+piezoelectric coefficients and ferroelectric nature for pure, KDP and ADP doped
+EDADTDH crystals were discussed.
+The fourth chapter presents the details of single crystal growth and
+characterization of novel organic optical crystal: Anilinium D - Tartrate (ADT).
+Transparent crystals of dimensions 4 × 2 × 1 mm3 were grown by using solution
+growth technique at room temperature. The grown crystals are characterized by
+single crystal and powder X - ray diffraction analysis. From the single crystal
+analysis, it was observed that the ADT crystal belongs to non - centrosymmetry
+triclinic crystal system having P1 space group. The modes of vibrations of different
+molecular groups present in ADT were identified by FTIR and FTRaman analyses.
+The range of optical absorption was ascertained by recorded UV - Vis spectrum.
+Also, the presence of hydrogen and carbon atoms in the grown crystal was
+confirmed using proton and carbon NMR analyses. The assignment of each signal to
+a unique carbon environment molecule is also indicated. The SHG efficiency has
+also been determined. The dielectric behavior of the crystal has been studied at
+various temperatures in frequency range from 50 Hz to 5 MHz. Vickers hardness of
+ADT crystals has been studied. The photoluminescence spectrum of ADT shows
+violet emission. The DSC trace of ADT reveals the melting point of the sample and
+it correlates with TG observations.
+The fifth chapter deals with synthesis of a new organic nonlinear optical
+material piperazinium meso - tartrate (PZ.meso - T). Good quality PZ.meso - T
+single crystal of dimension 5.8 × 3 × 2 mm3 was grown by the solvent evaporation
+method from triple distilled water at room temperature. Single crystal X - ray
+diffraction study confirms that piperazinium meso - tartrate belongs to monoclinic
+crystal system with centrosymmetric space group C2/c. These calculated lattice
+parameters values from the powder XRD analysis are in good agreement with single
+XRD analysis. The grown crystals were subjected to FTIR, FTRaman, 1H NMR and
+13C NMR analyses to confirm the synthesized compound. The optical behavior of
+the crystal is studied form UV - Visible spectroscopy. Further, PZ.meso - T
+exhibits violet emission. The thermal stability and decomposition of the crystal are
+studied by TG, DTA and DSC. Micro hardness studies have been carried out for the
+grown crystal. The dielectric constant and loss decrease with increasing frequency at
+different temperatures. The relative third order nonlinear optical absorption
+coefficient, nonlinear optical refractive index and optical susceptibility were
+calculated by the Z - scan technique, reveal the suitability of the materials to be
+utilized in generating third order harmonics.
+The sixth chapter is devoted to an organic material Piperazinium
+4 - nitrophenol, belonging to amine group family which is grown from ethanol by
+employing slow evaporation method at room temperature. Crystal of size
+6 × 3 × 2 mm3 was obtained at room temperature. The single crystal X - ray
+diffraction confirms that the grown crystal belongs to the monoclinic crystal system
+with the space group P21/c. The calculated lattice parameters from the powder XRD
+analysis are in agreement with the single X - ray analysis. From the FTIR and
+FTRaman spectra, the presence of functional groups of the material was confirmed.
+The presence of carbon and proton is confirmed by 1H NMR and 13C NMR spectral
+analyses. The lower cut off wavelength through UV - Vis spectrum is 292 nm. The
+fluorescence spectrum discovered that PNP crystal has the violet emission and is a
+potential candidate for optical devices. The mechanical strength of the grown
+crystal has been determined with the aid of Vickers microhardness test. The thermal
+xii
+stability of the crystal is analyzed with the aid of TG, DTA and DSC. The dielectric
+study at different temperature with varying frequency revealed that the low dielectric
+constant and dielectric loss of crystal in the high frequency region. By using Z - scan
+technique, the nonlinear optical refractive index and susceptibility were calculated.
+Chapter Seven summarizes the results of the studies undertaken with
+respect to the various NLO active crystals dealt with in the present research work
+and goes a step further by listing out the possible extensions of this study.
+The results of the above investigations have been published in
+International/ National Journals and also presented in various national conferences</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/13831">http://hdl.handle.net/123456789/13831</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/20/TITLE.pdf">TITLE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">49.92 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/20/TITLE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/19/DECLARATION.pdf">DECLARATION.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.21 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/19/DECLARATION.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/18/BONAFIDE%20CERTIFICATE.pdf">BONAFIDE CERTIFICATE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">27.05 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/18/BONAFIDE%20CERTIFICATE.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/17/ABSTRACT.pdf">ABSTRACT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">48.04 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/17/ABSTRACT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/16/ACKNOWLEDGEMENT.pdf">ACKNOWLEDGEMENT.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">36.74 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/16/ACKNOWLEDGEMENT.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/15/TABLE%20OF%20CONTENTS.pdf">TABLE OF CONTENTS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">41.19 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/15/TABLE%20OF%20CONTENTS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/14/LIST%20OF%20TABLES.pdf">LIST OF TABLES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">28.49 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/14/LIST%20OF%20TABLES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/13/LIST%20OF%20FIGURES.pdf">LIST OF FIGURES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">38.47 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/13/LIST%20OF%20FIGURES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/12/LIST%20OF%20SYMBOLS%20AND%20ABBREVIATIONS.pdf">LIST OF SYMBOLS AND ABBREVIATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">34.91 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/12/LIST%20OF%20SYMBOLS%20AND%20ABBREVIATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/11/CHAPTER%201.pdf">CHAPTER 1.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">161.44 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/11/CHAPTER%201.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/10/CHAPTER%202.pdf">CHAPTER 2.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">582.68 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/10/CHAPTER%202.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/9/CHAPTER%203.pdf">CHAPTER 3.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">665.06 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/9/CHAPTER%203.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/8/CHAPTER%204.pdf">CHAPTER 4.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">529.13 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/8/CHAPTER%204.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/7/CHAPTER%205.pdf">CHAPTER 5.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">512.3 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/7/CHAPTER%205.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/6/CHAPTER%206.pdf">CHAPTER 6.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">453.79 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/6/CHAPTER%206.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/5/CHAPTER%207.pdf">CHAPTER 7.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">65.9 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/5/CHAPTER%207.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/4/REFERENCES.pdf">REFERENCES.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">201.27 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/4/REFERENCES.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/3/LIST%20OF%20PUBLICATIONS.pdf">LIST OF PUBLICATIONS.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">44.27 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/3/LIST%20OF%20PUBLICATIONS.pdf">View/Open</a></td></tr><tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/13831/1/VITAE.pdf">VITAE.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">24.78 kB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/13831/1/VITAE.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/13831">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

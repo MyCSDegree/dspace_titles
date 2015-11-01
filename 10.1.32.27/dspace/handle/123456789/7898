@@ -1,0 +1,510 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Studies on Callus Induction, Cell Suspension Culture and Characterization Culture and Characterization of Saponin from Memecylon edule Roxb.</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7898</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Studies on Callus Induction, Cell Suspension Culture and Characterization Culture and Characterization of Saponin from Memecylon edule Roxb.</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Tamizhamudu.E</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Callus Induction<br />Cell Suspension Culture</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Nov-2010 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0020</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Saponins are important bioactive steroidal compounds utilized in the
+pharmaceutical industries. They are found in many plant species and have a wide
+range of biological properties which makes them an interesting research subject.
+The small shrubs or tree Memecylon edule is used in traditional medicine against
+various diseases. The first part of the present research study was aimed at the
+production and enhancement of saponin by means of in vitro culture; isolation of
+saponin from M.edule leaves in vivo. The other part of this study covered two
+aspects. The first aspect related to results of experiments on the possible
+pharmacological uses of M.edule saponin from haemolytic, pisicidal, insecticidal,
+anticancer, antioxidant and antimicrobial angles. The second aspect touched a new
+field namely that M.edule extract is a good source for the green synthesis of gold
+and silver nanoparticles. A detailed narrative follows.
+The aim of the study was focused on in vitro culture of Memecylon edule
+for producing saponin and to study the cell growth rate. Leaf and nodal segments of
+Memecylon edule were cultured on half and full strength Murashige and skoog
+(MS) medium and Woody plant medium (WPM) which also contained different
+concentrations of growth regulators and antioxidants. For the first time, this study
+has standardized the medium and hormone combination to initiate callus from
+M.edule. The green and brown friable callus and brown compact callus were
+induced from nodal segments and white compact callus was induced from leaf of
+M.edule. The callus growth was higher when grown in half strength MS medium
+supplemented with NAA 1mg/l + BAP 1mg/l + GA3 2.5 mg/l + KN 1mg/l
+compared to WPM supplemented with BAP 1mg/l + KN 1mg/l + 2,4,D 0.5mg/l
+viii
++NAA 1.5mg/l +IAA 1mg/l. The callus growth from nodal segments in half
+strength MS medium and WPM with above hormone concentrations was obtained
+on 26th and 37th day respectively.
+Accumulation of saponin and the growth rate of cells in suspension
+culture of M.edule during a period of 30 days were tested using various calli
+obtained from leaf and nodal segments. The cells exhibited a slower growth rate
+during the first 5-7 days of culture, and thereafter, a rapid growth rate was observed
+upto day 20. On day 20 the fresh and dry weights of cells in suspension were 8.02,
+0.58 g/l and the saponin yield was 70.06 mg/l in half strength MS medium
+containing similar hormone combinations used in callus culture. Above cells of
+suspension culture transferred into high saponin production medium with NAA
+1mg/l + 2,4,D 1mg/l + BAP 0.5 mg/l + IBA 1mg/l over a growth period of 30 days
+indicated dynamic changes during the day 15 to 20 . The cells were tested in light
+and dark conditions with different inoculum levels for establishing the suspension
+culture for high saponin production. The results indicated that the highest content of
+saponin, i.e., 82.36 mg/l was observed in dark condition with 15% inoculum and a
+lesser yield was obtained in light condition. After 10 days of incubation, the protein
+and glucose contents gradually increased in suspension culture of M.edule. Callus
+and suspension culture of M.edule was extracted for saponin. Further saponin
+content in crude extract of callus and in cells of suspension culture was determined
+by using high performance liquid chromatography (HPLC) and high performance
+thin layer chromatographic method. The results indicated that the saponin was
+eluted in C18 column under specified conditions with retention time of 3.516 min
+in HPLC chromatogram for M.edule saponin and retention time of 3.572 min for
+standard saponin. The total saponin increased two fold after transfer to the half
+strength MS medium containing fungal elicitor in various concentrations and
+precursor. The optimal concentration of sucrose, nitrogen, phosphate, ammonia
+enhanc ed the saponin production. The results showed that fungal homogenates
+increased the saponin content on 20th day. Further saponin content was determined
+by high performance liquid chromatographic method. The results indicated that the
+ix
+highest content of saponin was obtained in cell suspension culture on (half or full
+strength) MS medium supplemented with NAA 1mg/l, KN 0.2mg/l, 2,4,D 1.5mg/l.
+As regards to deriving saponin in vivo from Memecylon edule, its leaf,
+stem and root were subjected to hot extraction (soxhlet apparatus) using petroleum
+ether, chloroform, ethyl acetate, absolute ethanol, 70% ethanol and water to
+determine the effect of extraction solvent and saponin recovery. Only the leaf and
+stem yielded significant traces of saponin, and that too only when 70 % ethanol or
+water used. The results indicated that high yield was obtainable when water was
+used. The water extract of leaf was further purified by using various solvents
+including diethyl ether, cholesterol and pyridine and the obtained saponin was
+hygroscopic in nature. Identity of saponin was confirmed by using HPLC and its
+purity was confirmed by inductively coupled plasma mass spectrometric method.
+This HPLC assay performed on a reversed phase C18 column with gradient elution
+of acetonitrile and 0.01% formic acid in 30 minutes. Standard saponin purchased
+from Hi Media showed the retention time of 3.572 min and the M.edule saponin in
+this study showed similar peak at retention time of 3.502 min. The results of
+ICPMS method showed the presence of potassium and calcium in the purified
+saponin of M.edule and the same metals were present at a lower detection level in
+standard saponin. The saponin characterization was done in the M.edule extract by
+using spectrophotometric methods including liquid chromatography, mass
+spectrometry, Fourier transform infra red spectrometry, Nuclear magnetic resonance
+spectrometry. Saponin related to the peak area of 1373.9 exhibited protonated,
+ammoniated and sodiated adducts. FTIR spectrum exhibited peak at 1631.61 in
+standard saponin and at 1609.62 in M.edule saponin. The results for nuclear
+magnetic resonance showed saponin in the sugar proton signals in the region
+between 3.0 -5.5 ppm. The figures were in accordance with the norms.
+The aqueous extract of saponin was tested for its various
+pharmacological properties. Haemolytic activity was strong in 0.5 and 1mg/ml
+concentration with the diffusion range of 5.5 and 9 mm respectively. The pisicidal
+activity was observed at a higher concentration level 1mg /ml and there was low
+x
+xi
+mortality in 48 h. Insecticidal activity against maggots of musca domestica was
+observed at higher concentrations of saponin of M.edule. Anticancer activity was
+observed against breast cancer cells (MCF 7) at a concentration of 1mg/ml. The
+result of anti oxidant activity tested by DPPH and reducing power method, showed
+a strong scavenging activity at concentrations of 0.1 and 0.2 mg/ml. Antimicrobial
+activity was tested in respect of 10 bacteria and at a concentration of 50 mg/ml, the
+activity was found against three bacteria namely Staphylococcus aureus,
+Escherichia coli and Bacillus subtilis.
+That Memecylon edule leaf extract was found to be a good source for the
+green synthesis of gold and silver nanoparticles. The aqueous leaf extract of
+M.edule reacted with aqueous solution of silver and chloroauric acid and rapid
+formation of stable gold and silver nanoparticles at different time intervels has been
+established for the first time in this study. TEM analysis showed that the gold
+nanoparticles were produced within 2 h of adding the leaf extract to 1mM silver
+nitrate solution and these particles were triangular, circular and hexagonal in shape
+and their size range was 10-40 nm. EDAX showed the presence of gold in the
+adsorption peak of 2.30 Kev.
+SEM analysis covered the gold and silver. The gold particles were found in
+higher range than silver; nanotriangular shape with the irregular edges were
+measured in the range of 20 to 50 nm. SEM analysis of silver nanioparticles showed
+that the shape was hexagonal and triangular in the dimension range of 45-60 nm.
+The EDAX pattern of gold and silver nanoparticles in SEM analysis showed that the
+presence of gold /silver in the adsorption peak of 2.30 Kev/ 3.1 Kev. Further FTIR
+analysis was also done for identifying the functional groups in gold and silver
+nanoparticles of M.edule.
+The investigations in this study established (i) In vitro culture of
+M.edule by evolving suitable procedures for such culture; (ii) Saponin production
+from M.edule which is a pioneer aspect (iii) The pharmaceutical effects of
+M.edule saponin (iiii) The use of the extract of M.edule in green synthesis of gold
+and silver nanoparticles which is also new.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7898">http://hdl.handle.net/123456789/7898</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7898/1/T0020.pdf">T0020.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">21.44 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7898/1/T0020.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7898">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

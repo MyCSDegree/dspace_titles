@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: NEW POTASSIUM SOLUBLIZING BIO-INOCULANT FOR BALANCED AND SUSTAINABLE SOIL FERTILITY</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1">Students Project</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1685">Biotechnology</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/2250">2008</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/2251">Biotech-2008</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/2296</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">NEW POTASSIUM SOLUBLIZING BIO-INOCULANT FOR BALANCED AND SUSTAINABLE SOIL FERTILITY</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">INDIRA PRIYADARSHINI B</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">POTASSIUM SOLUBLIZING, BIO-INOCULANT, SOIL FERTILITY</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">1-Apr-2008 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM UNIVERSITY</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">4052</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">India being basically an agricultural country; one third population depends on agriculture sector directly or indirectly. Agriculture continues to be the main stray of the Indian economy. Indian agriculture contributes to the national Gross Domestic Product about 25 per cent. With food being the crowning need of the mankind, much emphasis has been on commercialising agricultural production. Hence, adequate production and even distribution of food has lately become a high priority global concern. With the changing agricultural scenario and global competition, there is a need of exploiting the available resources at maximum level.
+In the new millennium, the challenges in Indian agricultural sector are quite different from those met in the previous decades. The enormous pressure to produce more food from less land with shrinking natural resources is a tough task for the farmers. To keep up the momentum of growth a careful economic evaluation of inputs like seeds, fertilisers, irrigation sources etc are of considerable importance.
+In Indian agriculture, the factors like high soil productivity, supply of balanced crop nutrients, efficient water management, improved crops, better plant protection, post-production management for value-addition and marketing, are responsible for higher yield as compared to most of the other countries. Increasing agricultural production in India by area increasing process is no longer possible as cultivable land left over is only marginal. Further a considerable cultivable land is being diverted year after year for industrial purpose, housing etc. Hence self sufficiency in food lies in increasing the yield per unit area per unit time through adoption of modern agricultural technology.
+Plants require 16 essential elements for their normal growth and development among which Nitrogen, Phosphorus and Potassium are the three major or primary nutrients which are to be made available in large quantities.
+Potassium has two roles in the functioning of plant cells. It’s found to have an inevitable role in the activation of enzymes which are fundamental to metabolic processes, especially the production of proteins and sugars. (A.E.Johnston, 1997)
+Balanced fertilisation ensures that the plant has access to an adequate amount of each nutrient and is essential to optimise yields and minimise environmental risk.
+Sufficient potassium also ensures that other inputs required to achieve optimum economic yields are used efficiently.
+Potassium plays an important role in the growth and development of plants. In addition to plant metabolism, potassium improves crop quality because it extends the grain filling period, helps with grain filling and kernel weight, strengthens straw, increases disease resistance, and helps the plant better withstand stress. Potassium is critical to not only getting the crop off to a good start, but to supporting maturity. Plants short of potassium have poorly developed roots, grow slowly, lodge easily, produce small seed, and have lower yields. They also use water inefficiently, are less winter hardy, and are more susceptible to disease infection. While phosphorus is well known for promoting early root formation and growth, potassium may have an even greater effect on root development.
+Potassium is present in relatively large quantities in soils, ranging between 0.5 and 2.5%. However, in most cases only a small fraction of it is available to plants being the most abundant element on earth’s crust, potassium exists in three forms in the soil namely dissolved K+ ions, exchangeable and non exchangeable K, and mineral K. As the name indicates plants can uptake only dissolved forms and exchangeable forms. But 90-98%is constituted by the unavailable forms (Rehanulhasan, 1980). And plants cannot use the K present in the crystalline insoluble form. As these minerals take long time to break down before K gets released.
+Global population is expected to reach 7.5 billion by 2020 and the need for better and more food arises from the necessity to alleviate poverty and malnutrition. Agriculture will only be able to feed the increasing world population by promoting sustainable food production (Singh, 2001). Along with N and P, Potassium is one of the three main pillars of balanced 3 fertilizer use. Except for nitrogen, plants require more K than any other nutrient and in some plants such as sugar beets and potatoes, K greatly exceeds N in plant uptake (CFA, 1985). Though the importance of balanced fertilizer use in sustainable agriculture is greatly recognized now-a-days, its actual practice over much of the agricultural area in India continues to be neglected. Today, potassium deficiency is recognized as an important limiting factor in crop production (Sopib, 2001). In spite of India being the third largest user of fertilizers with the current annual consumption at
+around 18 Mt of N + P2O5 + K2O, potash constitutes only 9% or one-seventh of this. Lower potash application in the context of unbalanced fertilization results in a significant depletion of soil potash reserves, yield loss and higher economic risk for farmers.
+The need for dependency on fertilisers arises from the geographical distribution of potassium across Indian agricultural soils. As for as potassium fertilizer is concerned, India depends entirely upon imports from foreign countries and the demand for potassium fertilizer is increasing about 8.5% per annum. In the year 2006, India will have to spend about 40,480 cores of rupees for importing estimated demand of four million tonnes of potash. Indian soils have sufficient quantity of potassium to support crops raised in it, but ironically, this potassium content in soil is in unavailable form to plants. Identifying a suitable solution to convert this unavailable form of potassium (accounts for 90 to 98% of total potassium in all soils) in to available form can resolve this problem and will promote balanced nutrition and sustainable soil health. Potassium solublizing bacteria would be a novel solution to convert insoluble form of soil potassium in to soluble (available to plant) form. While China is already exploiting the potentials of potassium solubilizing bacteria as biofertilizer, in our country no such efforts are taken. This project proposal aims to explore our own soils for identifying potassium solublizing bacteria suitable for different soil types. This proposal aims to develop a microbial inoculant to use as potassium solubilizing bacteria that is practically feasible and commercially viable. Out come of this project can be expected to identify potassium solubilizing bacteria with biochemical and molecular characterization details (including 16s rDNA sequencing results) best suited for different soil types (different strains or species suited for major soil types: Alluvial soil, Black soil, Red soil, Laterite soils and Sandy soil).
+While potassium solubilizing bacteria is used as bio-inoculant (Bacillus mucilaginosus AS1.153) in China (Xiufang Hu et al., 2006) no such efforts were made in our country. About 72% of soils cultivated in India come under medium and low availability status category of potassium. Thus 72% of soils cultivated in India definitely require external potassium fertilizer supplementation (Rehanul Hasan 2002; Ramamurthy and Bajaj, 1969). While soils in India contain about 90 to 98 % of total potassium in insoluble forms, short fall in soluble forms of potassium application makes poor yield, decrease in quality of the products and deterioration of soil fertility due
+to lack of balanced fertilizer application (N:P:K application). Unavailable form of potassium can be converted to available form by utilizing the potential of “Potassium Solublizing Bacteria”. As parent material for soils are different from each other, hence, potassium solubilizing bacteria may also differ based upon parent materials of soils. Thus it becomes absolute necessary to screen different soil types for potassium solublizing bacteria. This project will emphasize on finding out a suitable potassium solublizing bacteria that could alleviate potassium deficiency by transforming insoluble forms of potassium in to soluble forms (plant available forms).</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/2296">http://hdl.handle.net/123456789/2296</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/2251">Biotech-2008</a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/2296/1/4052.pdf">4052.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">3.54 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/2296/1/4052.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/2296">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,459 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Synthesis and Surface Coating/Functionalization of Iron Oxide Nanoparticles and Study of Their Properties</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7042</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Synthesis and Surface Coating/Functionalization of Iron Oxide Nanoparticles and Study of Their Properties</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Ramesh.R</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Coating/ Functionalzation<br />Nanoparticles</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Feb-2012 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0047</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">Magnetic iron oxide nanoparticles have drawn tremendous attraction from
+both fundamental aspect as well as applications in biomedicine such as magnetic
+bio-separation, detection of biological entities, magnetic resonance imaging,
+magnetic fluid hyperthermia and targeted drug delivery due to their fascinating
+magnetic properties. These properties of iron oxide nanoparticles can be tuned by
+modifying their phase, size, shape and surface coating of the nanoparticles. In the
+present thesis, synthesis of iron oxide nanoparticles with different morphology and
+their surface coating/functionalization were carried out. The structural,
+morphological, vibrational, magnetic and optical properties of these synthesized
+products were characterized by using X-ray diffraction (XRD), field emission
+scanning electron microscopy (FESEM), high-resolution transmission electron
+microscopy (HRTEM), microRaman spectroscopy, Fourier transform infrared
+spectroscopy (FTIR), vibrating sample magnetometer (VSM), ultraviolet-visible
+spectroscopy (UV-Vis) and photoluminescence spectroscopy (PL).
+In the first part of the thesis deals with synthesis and characterization of
+iron oxide (hematite and magnetite) nanoparticles with different morphology.
+Hematite nanorods were synthesized by reverse micelles method using
+cetyltrimethyl ammonium bromide (CTAB) as a surfactant and calcined at 300 °C.
+Nanorods have hexagonal crystal structure with diameter of 30-50 nm and length
+120-150 nm. A weak ferromagnetic behavior was observed with saturation
+magnetization (Ms) of 0.6 emu g-1 and coercive force (Hc) of 25 Oe. Ferromagnetic
+α-Fe2O3 nanoparticles were synthesized by gel evaporation method in air at
+300 ⁰C. The average size of the as synthesized α-Fe2O3 nanoparticle was estimated
+to be 30 nm and the particles were of good crystalline nature. The ferromagnetic
+vii
+properties of the nanoparticles are due to the existence of γ-Fe2O3 phase along
+with α-Fe2O3. Hydrothermal method is an effective method to control the shape
+and crystalline quality of the nanoparticles than other methods. In this work,
+ferromagnetic single-crystalline rice shaped Fe3O4 nanoparticles were synthesized
+by a one-pot surfactant-assisted hydrothermal method using dodecyltrimethyl
+ammonium bromide (DTAB) as a surfactant. The as synthesized products have a
+regular rice-like shape with an average diameter of 150 nm and length of 500 nm
+and are monodisperse. Shape evolution from cauliflower-to rice-like morphology
+has been controlled by varying the DTAB concentration. The possible formation
+mechanism of nanorice is the selective adsorption of surfactant on crystallographic
+facet. Further, superparamagnetic Fe3O4 nanoflowers were synthesized by
+surfactant assisted hydrothermal method using tetraethylene tetramine (TETA) as
+a surfactant. The evolution of the morphology from polyhedron to flower was
+obtained by varying the amount of TETA.
+Second part of the thesis focuses on surface coating and functionalization
+of iron oxide nanoparticles. In order to enhance the heating characteristic and
+stability of the Fe3O4 nanoparticles, bovine serum albumin (BSA) was coated by
+co-precipitation technique. The size of nanoparticles was 10 nm with good
+crystalline quality. The magnetic nanoparticles show the superparamagnetism with
+saturation magnetization of 33.7 emu g-1. The maximum SAR of 96.5 W g-1 was
+obtained at magnetic field amplitude of 3.5 kA m-1 and frequency of 300 kHz.
+Polyethyleneimine (PEI) capped Fe3O4 nanoparticles were synthesized by
+precipitation of Fe2+ and Fe3+ in the presence of PEI. Nanoparticles show room
+temperature superparamagnetism with saturation magnetization of 34 emu g-1 and
+negligible remanence or coercivity. The adsorption of the BSA with PEI capped
+Fe3O4 nanoparticles were investigated. The electrostatic interaction was found to
+viii
+take place between negatively charged BSA and positively charged PEI capped
+Fe3O4 nanoparticles.
+The self-assembled Fe3O4/Ag core/shell (Fe3O4@Ag) nanocomposites were
+synthesized using microemulsion method. The XRD pattern shows only cubic
+phase of Ag for Fe3O4@Ag nanocomposites. TEM results show the average size
+of nanoparticles to be 10-15 nm. These nanoparticles were self-assembled with a
+branch like morphology. The self-assembly process was formed due to the
+oriented aggregation of nanoparticles. The optical properties of Fe3O4
+nanoparticles were modified by surface plasmon resonance (SPR) of silver shell.
+The saturation magnetization of superparamagnetic Fe3O4@Ag nanoparticles was
+40 emu g-1. Magnetic and fluorescence silica nanospheres were synthesized by
+attachment of Fe3O4 nanoparticles and fluorescent carbon nanodots onto a silica
+shell through electrostatic interaction. The obtained nanocomposites exhibit
+superparamagnetic and fluorescence behavior, which can be used for targeting and
+fluorescent imaging applications.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7042">http://hdl.handle.net/123456789/7042</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7042/1/T0047.pdf">T0047.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">4.59 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7042/1/T0047.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7042">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

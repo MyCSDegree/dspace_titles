@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Organic Ligand Assisted Chemical Synthesis of Znse Nanostructures and Their Functional Properties</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/6862</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Organic Ligand Assisted Chemical Synthesis of Znse Nanostructures and Their Functional Properties</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Archana.J</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">ORGANIC LIGAND ASSISTED CHEMICAL SYNTHESIS<br />ORGANIC LIGAND ASSISTED CHEMICAL SYNTHESIS OF ZnSe NANOSTRUCTURES AND THEIR FUNCTIONAL PROPERTIES</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Dec-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0046</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">ABSTRACT
+Nanotechnology (NT) is the production and use of materials with purposely engineered features close to the atomic or molecular scale. NT deals with putting things together atom by atom and with tiny structures that are invisible to the naked eye. It provides the ability to create materials, devices and systems with fundamentally new functions and properties. The promise of NT is enormous. It has implications for almost every type of manufacturing process and product. Potential NT applications in the next few decades could produce huge increases in computer speed and storage capacity, therapies for several different types of cancer, much more efficient lighting and battery storage, a major reduction in the cost of desalinating water, clothes that never stain and glass that never needs cleaning. While the benefits are almost limitless, they will be realized only if the potential adverse effects of NT are examined and managed.
+Nanomaterials are generally considered to be number of atoms or molecules bonded together with a radius of less than or equal to 100 nm (1 nm = 10–9 m or 10 Å). Nanoparticles are an aggregate of atoms between 1 – 100 nm. The nanomaterials are neither molecules nor bulk materials. Nanoparticles are of great interest as they are effectively a bridge between molecules and bulk materials having 106 atoms or less, because of which their properties changes. Nanoparticles play a vital role in high performance materials in advanced technology industries. The studies of nanoparticles
+viii
+started in the early 1980's and have now become one of the growing worldwide research fields. There are two main approaches in the preparation of nanomaterials such as bottom - up approach and top - down approach. In the top - down approach, bulk materials are reduced into smaller materials forming nanomaterials (i.e.) a large piece of material is cut down to small pieces through different means such as lithography and electrophoresis. In the bottom - up approach, the atoms are combined to form nanomaterials. Most of the synthesis techniques are based on bottom - up approach.
+Semiconductor nanoparticles have been an active area of nanoscience research. If the semiconductor particles are made small enough, quantum effects come into play, which limit the energies at which electrons and holes (the absence of an electron) can exist in the particles. As energy is related to wavelength (or colour), this means that the optical properties of the particle can be finely tuned depending on its size. Semiconductor nanoparticles exhibit size dependent properties, when their size is comparable to the size of Bohr diameter for exciton. Size-related property change includes quantum confinement in semiconductor particles. At nanoscale, semiconductor materials that are not optoelectronic materials due to indirect band gap have showed strong luminescence in visible range. Moreover, they exhibit emission which is size dependent luminescence. Some groups have showed, for II – VI and III – V semiconductors, the change in band gap with particle size. In recent years, the surface passivation of the semiconductor has played a vital role in the enhanced luminance properties, because of its non - radiative recombination of
+ix
+electron - hole pair. Thiols, phosphine and amines were used as capping ligands to passivate the surface of the semiconductors.
+Chapter 1 deals with the general introduction of nanoscience and technology. The basic concepts of semiconducting nanomaterials and the size dependent properties have been illustrated. Various methods involves in the preparation of semiconducting nanomaterials have been briefly discussed. It consists of the problem statement and objective of the present work.
+Chapter 2 covers the instrumentation techniques and their working principles. In the research work X-Ray Diffractometry (XRD), Transmission Electron Microscopy (TEM)¸ Scanning Electron Microscopy (SEM), Atomic Force Microscopy (AFM), Ultraviolet spectroscopy (UV), Photoluminescence spectroscopy (PL) and Fourier Transform Infrared spectroscopy (FTIR) have been used to characterize the synthesized products.
+Chapter 3 explains the synthesis and characterization of ZnSe nanostructures by various surface passivating organic ligands like Ethylenediamine (EDA), N-Methylaniline (NMA), Hexamethylenetetramine (HMTA), Octadecylamine (ODA), Tripropylamine (TPA), Triethylamine (TEA), Thioglycerol (TGL). Further, the synthesized ZnSe nanostructures have been subjected to UV-Visible absorption spectra, photoluminescence, powder X-Ray Diffraction, Transmission Electron Microscopy, Scanning Electron Microscopy, Fourier Transform Infrared and elemental analysis.
+x
+Chapter 4 describes the synthesis and characteriztion of transition metal and alkaline metal doped ZnSe quantum dots and nanoparticles, respectively. The experimental techniques such as UV-Visible absorption spectra, photoluminescence, powder X-Ray Diffraction, Transmission Electron Microscopy, Scanning Electron Microscopy, Fourier transform Infrared and elemental analysis have been employed for the determination of optical, structural, morphological, functional groups and elemental analysis.
+Chapter 5 summarizes the structural, optical and the morphological properties of obtained ZnSe nanostructures using the various capping agents</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/6862">http://hdl.handle.net/123456789/6862</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6862/1/T0046.pdf">T0046.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">8.45 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6862/1/T0046.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/6862">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

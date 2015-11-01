@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: THE EFFECT OF MOBILE PHONE EMISSIVITY ON BACTERIAL CELL CULTURES</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1">Students Project</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/1685">Biotechnology</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/2250">2008</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/2251">Biotech-2008</a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/2290</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">THE EFFECT OF MOBILE PHONE EMISSIVITY ON BACTERIAL CELL CULTURES</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">MANU RAVISHANKAR</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">MOBILE PHONE EMISSIVITY, BACTERIAL CELL CULTURES</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">1-Apr-2008 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM UNIVERSITY</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">4044</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">The Cellular phone or cell phone as it is commonly called is a long range portable electronic device used for mobile communication that uses a network of specialized base stations known as cell sites. In addition to the standard voice function of a telephone, current mobile phones may support many additional services, and accessories, such as SMS for text messaging, email, packet switching for access to the Internet, and MMS for sending and receiving photos and video. Most current mobile phones connect to a cellular network of base stations (cell sites), which is in turn interconnected to the public switched telephone network (PSTN) (the exception is satellite phones).
+In some developing countries with little telephone infrastructure, the mobile phone is the technology giving poor people access to medical and legal services. Mobile phone use in developing countries has quadrupled in the last decade. The rise of mobile phone technology in developing countries is often cited as an example of the leapfrog effect. In many remote regions in the third world went literally from having no telecommunications infrastructure to having satellite based communications systems.
+1.1.5 Cell Phone Radiation and Health
+Mobile phone radiation and health concerns have been raised, especially following the enormous increase in the use of wireless mobile telephony throughout the world (as of August 2005, there were more than 2 billion users worldwide). This is because mobile phones use electromagnetic radiation in the microwave range. These concerns have induced a large body of research (both epidemiological and experimental, in non-human animals as well as in humans). Concerns about effects on health have also been raised regarding other digital wireless systems, such as data communication networks.
+The World Health Organization has concluded, based upon the consensus view of the scientific and medical communities, that serious health effects (e.g. cancer) are very unlikely to be caused by cellular phones or their base stations, and expects to make recommendations about mobile phones in 2007–08.
+However, some national radiation advisory authorities, including those of Austria, France Germany, and Sweden recommend to their citizens measures to minimize exposure. Examples of the recommendations are:
+* Use hands-free to decrease the radiation to the head.
+* Keep the mobile phone away from the body.
+* Do not telephone in a car without an external antenna.
+However, the use of &quot;hands-free&quot; was not recommended by the British Consumers' Association in a statement in November 2000.
+Part of the radio waves emitted by a mobile telephone handset is absorbed by the human head. The radio waves emitted by a GSM handset, can have a peak power of 2 watts, and 8
+a US analogue phone had a maximum transmit power of 3.6 watts. Other digital mobile technologies, such as CDMA and TDMA, use lower output power, typically below 1 watt. The maximum power output from a mobile phone is regulated by the mobile phone standard it is following and by the regulatory agencies in each country. In most systems the cell phone an00d/ the base station check reception quality and signal strength and the power level is increased or decreased automatically, within a certain span, to accommodate for different situations such as inside or outside of buildings and vehicles.
+The rate at which radiation is absorbed by the human body is measured by the Specific Absorption Rate (SAR), and its maximum levels for modern handsets have been set by governmental regulating agencies in many countries. In the USA, the FCC has set a SAR limit of 1.6 W/kg, averaged over a volume of 1 gram of tissue, for the head. In Europe, the limit is 2 W/kg, averaged over a volume of 10 grams of tissue. SAR values are heavily dependent on the size of the averaging volume. Without information about the averaging volume used comparisons between different measurements cannot be made. Thus, the European 10-gram ratings should be compared among themselves, and the American 1-gram ratings should only be compared among themselves. SAR data for specific mobile phones, along with other useful information, can be found directly on manufacturers' websites, as well as on third party web sites.
+1.1.5.1 Thermal effects
+One well-understood effect of microwave radiation is dielectric heating, in which any dielectric material (such as living tissue) is heated by rotations of polar molecules induced by10 the electromagnetic field. In the case of a person using a cell phone, most of the heating effect will occur at the surface of the head, causing its temperature to increase by a fraction of a degree. In this case, the level of temperature increase is an order of magnitude less than that obtained during the exposure of the head to direct sunlight. The brain's blood circulation is capable of disposing of excess heat by increasing local blood flow. However, the cornea of the eye does not have this
+9
+temperature regulation mechanism. Premature cataracts have not been linked with cell phone use, possibly because of the lower power output of mobile phones.
+Fig. 1.2 Effect of microwave radiation on Bovine lens sutures.
+Microscope photographs of lenses incubated in organ culture conditions for 12 days. Right frame shows Control lens with no damage. Bottom frame demonstrates the effect of microwave radiation on bovine lens sutures for a total exposure of 192 cycles (1.1GHz, 2.22mW).Each cycle lasts 50min followed by 10 min pause. In the absence of microwave radiation, the bubbles are generated by temperature increase to 39.5 8C during 4 h; see left frame
+1.1.5.2 Non-thermal effects
+The communications protocols used by mobile phones often result in low-frequency pulsing of the carrier signal.
+Some researchers have argued that so-called &quot;non-thermal effects&quot; could be reinterpreted as a normal cellular response to an increase in temperature. The German biophysicist Roland Glaser, for example, has argued that there are several thermoreceptor molecules in cells, and that they activate a cascade of second and third messenger systems, gene expression mechanisms and production of heat shock proteins in order to defend the cell
+10
+against metabolic cell stress caused by heat. The increases in temperature that cause these changes are too small to be detected by studies such as REFLEX, which base their whole argument on the apparent stability of thermal equilibrium in their cell cultures
+1.1.5.3 Blood Brain Barrier effects
+Swedish researchers from the University Lund, Salford, Brun, Perrson, Eberhardt and Malmgren, have studied the effects of microwave radiation on the rat brain. They found a leakage of albumin into brain via a permeated blood-brain barrier.
+1.1.5.4 Health hazards of base stations
+Another area of worry about effects on the population's health have been the radiation emitted by base stations (the antennas on the surface which communicate with the phones), because, in contrast to mobile handsets, it is emitted continuously and is more powerful at close quarters. On the other hand due to the attenuation of power with the square of distance, field intensities drop rapidly with distance away from the base of the antenna. Base station emissions must comply with ICNIRP guidelines of a maximum power density of 4.5 W/m² for 900 MHz and 9 W/m² for 1800 MHz.
+These guidelines are set for short term heating, which is the only understood mechanism of electromagnetic fields on biological tissue. The ICNIRP guidelines are distrusted by some scientists, such as the BioInitiative group, who report that the existing standards for public safety are inadequate to protect public health.
+1.2 Escherichia coli
+Escherichia coli (E. coli), is a bacterium that is commonly found in the lower intestine of warm-blooded animals. Most E. coli strains are harmless, but some, such as serotype O157:H7, can cause serious food poisoning in humans, and are occasionally responsible for costly product recalls. The harmless strains are part of the normal flora of the gut, and can benefit their hosts by producing vitamin K2, or by preventing the establishment of pathogenic bacteria within the intestine.
+E. coli are not always confined to the intestine, and their ability to survive for brief periods outside the body makes them an ideal indicator organism to test environmental samples for fecal contamination. The bacteria can also be grown easily and its genetics are comparatively simple and easily-manipulated, making it one of the best-studied prokaryotic model organisms, and an important species in biotechnology. E. coli was discovered by German pediatrician and bacteriologist Theodor Escherich in 1885, and is now classified as part of the Enterobacteriaceae family of gamma-proteobacteria.
+Domain:
+Bacteria
+Phylum:
+Proteobacteria
+Class:
+Gamma Proteobacteria
+Order:
+Enterobacteriales
+Family:
+Enterabacterceae
+13
+Fig. 1.3 Escherichia coli.
+Genus:
+Escherichia
+Species:
+E. coli
+Biological Name: Escherichia coli (Migula 1895) Castellani and Chalmers 1919
+A strain of E. coli is a sub-group within the species that has unique characteristics that distinguish it from other E. coli strains. These differences are often detectable only on the molecular level; however, they may result in changes to the physiology or lifecycle of the bacterium. For example, a strain may gain pathogenic capacity, the ability to use a unique carbon source, the ability to inhabit a particular ecological niche or the ability to resist antimicrobial agents. Different strains of E. coli are often host-specific, making it possible to determine the source of fecal contamination in environmental samples. Depending on which E. coli strains are present in a water sample, for example, assumptions can be made about whether the contamination originated from a human, other mammal or bird source.
+New strains of E. coli evolve through the natural biological process of mutation, and some strains develop traits that can be harmful to a host animal. Although virulent strains typically cause no more than a bout of diarrhea in healthy adult humans, particularly virulent strains, such as O157:H7 or O111:B4 can cause serious illness or death in the elderly, the very young or the immunocompromised.
+Enteric E. coli (EC) are classified on the basis of serological characteristics and virulence properties. Virotypes include:
+Enterotoxigenic E. coli (ETEC) – causative agent of diarrhea (without fever) in humans, pigs, sheep, goats, cattle, dogs, and horses. ETEC uses fimbrial adhesins (projections from the bacterial cell surface) to bind enterocyte cells in the small intestine. ETEC can
+15
+produce two proteinaceous enterotoxins: the larger of the two proteins, LT enterotoxin, is similar to cholera toxin in structure and function, while the smaller protein, ST enterotoxin causes cGMP accumulation in the target cells and a subsequent secretion of fluid and electrolytes into the intestinal lumen. ETEC strains are non-invasive, and they do not leave the intestinal lumen.
+Enteropathogenic E. coli (EPEC) – causative agent of diarrhea in humans, rabbits, dogs, cats and horses. Like ETEC, EPEC also causes diarrhea, but the molecular mechanisms of colonization and etiology are different. EPEC lack fimbriae, ST and LT toxins, but they utilize an adhesin known as intimin to bind host intestinal cells. This virotype has an array of virulence factors that are similar to those found in Shigella, and may posses a shiga toxin. Adherence to the intestinal mucosa causes a rearrangement of actin in the host cell, causing significant deformation. EPEC cells are moderately-invasive (i.e. they enter host cells) and elicit an inflammatory response. Changes in intestinal cell ultrastructure due to “attachment and effacement” are likely the prime cause of diarrhea in those afflicted with EPEC.
+Enteroinvasive E. coli (EIEC) – found only in humans. EIEC infection causes a syndrome that is identical to Shigellosis, with profuse diarrhea and high fever. EIEC are highly invasive, and they utilize adhesin proteins to bind to and enter intestinal cells. They produce no toxins, but severely damage the intestinal wall through mechanical cell destruction.
+Enterohemorrhagic E. coli (EHEC) – found in humans, cattle, and goats. The sole member of this virotype is strain O157:H7, which causes bloody diarrhea and no fever. EHEC can cause hemolytic uremic syndrome and sudden kidney failure. It uses bacterial fimbriae for attachment, is moderately-invasive and possesses a phage-encoded Shiga toxin that can elicit an intense inflammatory response.
+Enteroaggregative E. coli (EAggEC) – found only in humans. So named because they have fimbriae which aggregate tissue culture cells, EAggEC bind to the intestinal mucosa to cause watery diarrhea without fever. EAggEC are non-invasive. They produce a hemolysin and an ST enterotoxin similar to that of ETEC.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/2290">http://hdl.handle.net/123456789/2290</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/2251">Biotech-2008</a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/2290/1/4044.pdf">4044.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">2.16 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/2290/1/4044.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/2290">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

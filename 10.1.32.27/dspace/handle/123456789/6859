@@ -1,0 +1,399 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Isolation, Identification and Characterization of Bioactive Peptides from Fermented Milk, Determination of Its Gastroprotective, Immunomodulatory and Anti-Genotoxic Activities</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/6859</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Isolation, Identification and Characterization of Bioactive Peptides from Fermented Milk, Determination of Its Gastroprotective, Immunomodulatory and Anti-Genotoxic Activities</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Balaji Raja.R</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Isolation, Identification and Characterization of Bioactive Peptides from Fermented Milk, Determination of Its Gastroprotective, Immunomodulatory and Anti-Genotoxic Activities<br />Isolation, Identification and Characterization of Bioactive Peptides from Fermented Milk, Determination of Its Gastroprotective, Immunomodulatory and Anti-Genotoxic Activities</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">May-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Publisher:&nbsp;</td><td class="metadataFieldValue">SRM University</td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0025</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">ABSTRACT
+Milk is a unique food comprising of proteins, carbohydrates, fats, vitamins and minerals. The average pH of the fermented milk by Lactobacillus acidophilus was 5.3 ± 0.091, commercial curd Aavin was 5.3 ± 0.185, commercial curd Dodla was 5.3 ± 0.126 and Lactobacillus bulgaricus 5.16 ± 0.095. The pH of the control sample, i.e. non-fermented milk was found to be 7.05. The mean titratable acidity of the fermented milk by commercial curd Dodla was 91.49º T (Toerner’s degree), commercial curd Aavin was 91.27º T, Lactobacillus acidophilus was 92.11º T and Lactobacillus bulgaricus was 93.52º T. The titratable acidity of the control sample, i.e. non-fermented milk was 50.78º T. The mean viscosity of the milk fermented by commercial curd Dodla was 7.72 mPas (Milli Pascal), commercial curd Aavin was 8.01 mPas, Lactobacillus acidophilus was 7.12 mPas and Lactobacillus bulgaricus was 7.13 mPas. SEM analysis of fermented milk was carried out to confirm the presence of Lactobacillus species in the fermented milk. After the fermentation process was complete in the milk, Isolation of CPP (Casein Phospho Peptides) was done from fermented milk based on enzymatic hydrolysis method. Antimicrobial activity of CPP was tested against two common clinical pathogens Escherichia coli (MTCC Number 443) and Pseudomonas sp (MTCC Number 1194) using zone of inhibition method. AAVIN CPP produced 14 and 16 mm of zone of inhibition with Escherichia coli and Pseudomonas species respectively whereas DODLA CPP produced 13 and 15 mm, L. acido. CPP produced 16 and 15 mm, L. bulg. CPP produced 12 and 15 mm zone of inhibition with Escherichia coli and Pseudomonas
+vii
+species respectively. HPLC and FTIR Analysis of four CPPs isolated from fermented milk by two bacterial cultures and two commercial curd inoculums was performed using milk as the control and they gave characteristic peaks for CPP. Molecular weight of the Casein Phospho Peptide isolated from the fermented milk was determined by SDS- PAGE (Sodium Dodecyl Sulphate – Poly Acrylamide Gel Electrophoresis) and it was found to be 3.5 - 4.0 KD (Kilo Daltons). Animal studies were done to study the positive effect of CPP on weight loss and mortality rate in mice challenged with GUT Pathogens. Three common GUT tract pathogens, Escherichia coli, Salmonella sp. and Shigella sp. were used to challenge the mice. DODLA CPP produced the highest percentage increase in weight of mice as 7.22% fed with it for 10 days. All the four test batches of fermented milk CPPs produced substantial increase in the weight of albino mice in a feeding period of 10 days. As far as the weight increase over the 15 days feeding period, DODLA CPP produced the highest percentage increase in weight of mice as 12.06%. Results indicated that continuous intake of fermented milk products contribute to uniform increase in body weight. The mice mortality rate during post infection state indicated the gastroprotective effect of CPP against the GUT pathogens. Immunomodulatory effect of CPP was evaluated using immunofluorescence assay in which IgA secreting B-Lymphocyte were quantitatively computed. In L. acido. CPP 10 days fed mice infected with E. coli showed the highest number of secretary IgA cells in the intestine and least was observed in L. bulg. CPP 10 days fed mice. For 15 days feeding period of test batches, highest number of secretary IgA cells was produced by L. bulg. CPP and least being produced by L. acido. CPP. In Salmonella and Shigella sp. infected mice the highest number of secretary
+viii
+IgA cells was produced by L. bulg. CPP after 10 and 15 days feeding period. CPP was able to bring down the pathogen count in the visceral organs of albino mice compared to the control. Histopathological studies showed the cell protective potential of CPP in intestinal tissues of mice infected with GUT pathogens. The anti-genotoxic role of CPP was tested in albino mice using micronucleus assay where the number of micronuclei, binucleated and multi-nucleated erythrocytes formed was higher in the unfed control mice than the CPP fed test mice cells. CPP was proved of its immunomodulatory activity and anti-genotoxic nature. This potential can be harnessed to produce formulations of CPP based medications which can be used in GUT ailments replacing the conventional antibiotics and to develop a new class of nutraceutical anti-genotoxic which could be of immense help to workers exposed to low background radiation.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/6859">http://hdl.handle.net/123456789/6859</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/6859/1/T0025.pdf">T0025.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">6.72 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/6859/1/T0025.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/6859">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>

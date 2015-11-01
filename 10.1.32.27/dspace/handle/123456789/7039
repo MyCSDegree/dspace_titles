@@ -1,0 +1,407 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <title>DSpace at SRM University: Systematic Investigation on Electrospun Nanofibrous Composite Membrane of ZNO/Polymer for UV Sensor, Superhydrophobic and Antibacterial Applications</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <link rel="stylesheet" href="/dspace/styles.css.jsp" type="text/css" />
+        <link rel="stylesheet" href="/dspace/print.css" media="print" type="text/css" />
+        <link rel="shortcut icon" href="/dspace/favicon.ico" type="image/x-icon"/>
+
+	<script type="text/javascript" src="/dspace/utils.js"></script>
+    </head>
+
+    
+    
+    <body>
+
+        
+        
+        <table class="pageBanner" width="100%" border="0" cellpadding="0" cellspacing="0">
+
+            
+            <tr>
+                <td>
+                    <a href="/dspace/"><img src="/dspace/image/header_digital.png" alt="DSpace" width="1000" height="80" border="0"/></a></td>
+                   <td class="tagLine" width="99%"> 
+                
+                </td> 
+                <td nowrap="nowrap" valign="middle">
+                </td>
+            </tr>
+            <tr class="stripe"> 
+                <td colspan="3">&nbsp;</td>
+            </tr>
+        </table>
+
+        
+
+
+
+
+
+        
+
+        
+        <table class="centralPane" width="100%" border="0" cellpadding="3" cellspacing="1">
+
+            
+            <tr valign="top">
+
+            
+
+            <td class="navigationBar">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form method="get" action="/dspace/simple-search">
+
+
+  <table width="100%" class="searchBox">
+    <tr>
+      <td>
+        <table width="100%" border="0" cellspacing="0" >
+          <tr>
+            <td class="searchBoxLabel"><label for="tequery">Search&nbsp;DSpace</label></td>
+          </tr>
+          <tr>
+            <td class="searchBoxLabelSmall" valign="middle" nowrap="nowrap">
+              
+              <input type="text" name="query" id="tequery" size="8"/><input type="submit" name="submit" value="Go" />
+              <br/><a href="/dspace/advanced-search">Advanced Search</a>
+
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</form>
+
+
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/">Home</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Browse</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/community-list">Communities<br/>&amp;&nbsp;Collections</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-title">Titles</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-author">Authors</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16" />
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-subject">Subjects</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/browse-date">By Date</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td nowrap="nowrap" colspan="2" class="navigationBarSublabel">Sign on to:</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/subscribe">Receive email<br/>updates</a>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/mydspace">My DSpace</a><br/>
+      <small>authorized users</small>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="/dspace/profile">Edit Profile</a>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td colspan="2">&nbsp;</td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/dspace/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Help<\/a>');
+// -->
+</script><noscript><a href="/dspace/help/index.html" target="dspacepopup">Help</a></noscript>
+    </td>
+  </tr>
+
+  <tr class="navigationBarItem">
+    <td>
+      <img alt="" src="/dspace/image/arrow.gif" width="16" height="16"/>
+    </td>
+    <td nowrap="nowrap" class="navigationBarItem">
+      <a href="http://www.dspace.org/">About DSpace</a>
+    </td>
+  </tr>
+</table>
+
+            </td>
+
+            
+
+            
+            
+            
+            <td class="pageContents" width="100%">
+
+                
+
+                
+
+
+
+
+  
+
+
+<p class="locationBar">
+
+<a href="/dspace/">DSpace at SRM University</a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6134">Thesis and Dissertations </a>&nbsp;&gt;
+<br/>
+<a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a>&nbsp;&gt;
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <table align="center" class="miscTable">
+        <tr>
+            <td class="evenRowEvenCol" align="center">
+                
+                <strong>Please use this identifier to cite or link to this item:
+                <code>http://hdl.handle.net/123456789/7039</code></strong>
+            </td>
+
+        </tr>
+    </table>
+    <br />
+
+    
+    <center><table class="itemDisplayTable">
+<tr><td class="metadataFieldLabel">Title:&nbsp;</td><td class="metadataFieldValue">Systematic Investigation on Electrospun Nanofibrous Composite Membrane of ZNO/Polymer for UV Sensor, Superhydrophobic and Antibacterial Applications</td></tr>
+<tr><td class="metadataFieldLabel">Authors:&nbsp;</td><td class="metadataFieldValue">Anitha.S</td></tr>
+<tr><td class="metadataFieldLabel">Keywords:&nbsp;</td><td class="metadataFieldValue">Systematic Investigation<br />Superhyrophobic</td></tr>
+<tr><td class="metadataFieldLabel">Issue Date:&nbsp;</td><td class="metadataFieldValue">Sep-2011 </td></tr>
+<tr><td class="metadataFieldLabel">Series/Report no.:&nbsp;</td><td class="metadataFieldValue">T0040</td></tr>
+<tr><td class="metadataFieldLabel">Abstract:&nbsp;</td><td class="metadataFieldValue">One dimensional nanofibers have attracted considerable attention due to their remarkable properties such as high surface area to volume ratio, extremely long length, small fiber diameters and pore size as well as their potential technological applications in many areas including optoelectronic devices, solar cells, sensors and in biomedical applications etc. Electrospinning technique has been widely recognized as a simple and versatile method for the preparation of one-dimensional nanofibers. The morphology and properties of the nanofibers prepared by electrospinning depend on the processing parameters such as viscosity, strength of electric field, the distance between the spinneret and the collector and feeding rate of the solution. Over the past few decades, Zinc Oxide (ZnO) has been recognized as one of the most important functional materials because of its wide band gap of 3.37 eV and high exciton binding energy at room temperature.
+Recent years have turned much attention on the preparation of composites of nanoparticles and polymers with excellent luminescent and electrical properties. Dispersing nanoparticles in polymer matrices has one of the notable techniques to stabilize the nanoparticles and further adjoin the fruitful properties and functionalities of the nanoparticles &amp; the polymers. Diverse approaches such as spin coating, film casting, etc., have been employed to obtain films of nano composites. However, hindrances related to these methods include aggregation and random distribution of agglomerated nanoparticles in polymer matrix. The efficient control of the morphology and the
+vii
+dispersion of particles inhibiting their agglomeration have led to enhanced properties improving the performance of such devices.
+In this present work, we have maintained our focus on the uniform dispersion of Nanocrystalline zinc oxide (ZnO) in fibrous polymer matrix through electrospinning. Two different approaches, In situ sol gel (ISM) and Direct dispersion method (DDM) have been employed. The performance of these composites with respect to their optical, wetting and bactericidal properties have been studied and analyzed.
+ZnO nanofibers have been produced by subjecting the PVA composites fibers formed by electro spinning to heat treatment. However, it is difficult to obtaining the ultra fine fibers of inorganic materials having lengths in the order of millimeter have been strenuous as they have a tendency to break during formation appertaining to thermal and other mechanical stresses. We have investigated the mechanism for the prevention of such defects and also the breakage of ZnO nanofibers by using optimized heat flow rates. The causation for the formation of these defects, their means of reduction and the observed structural changes of ZnO nanofibers during heat treatment have also been discussed.
+Fabrication of ultraviolet light emitting devices using ZnO nanostructures has still been arduous due to its exorbitant synthesis techniques in order to obtain high quality ZnO. It has been important to suppress the visible emission. Here, we have described an effective low cost in-situ preparation of high quality monodispersed and non-agglomerate ZnO nanoparticles in nanofibrous PVA matrix derived from electrospinning method. The photoluminescence study has revealed the dependence of the dispersion efficiency and
+viii
+suppression of aggregation of nanoparticles on the efficacy of UV emission in addition to the size effect.
+In the recent past, development of low cost and high performance UV filters has proved essential to prevent mankind from toxic effects of UV-radiation. According to experts, a sunscreen with good UV shielding property should be able to protect users from both UVA and UVB rays. Inorganic-polymer nanocomposites, which exhibit an ensemble of properties of both inorganic nanoparticles and polymers, have emerged as successful candidates for UV-shielding applications. The appealing shielding properties of the composites imply a good dispersion of the ZnO nanocrystals in the PVA matrix. The transmittance results symbolize a significant improvement in the UV absorbing property.
+Though polymer/ZnO composite has received considerable attention, its application in the field of microbial protection has not been explored in detail. Hence bactericidal tests of FS-FCM have been investigated. Evaluation of antibacterial properties of the fibrous composite membrane (ZnO/Polymer) against both Gram-positive and Gram- negative bacteria, showed the effectiveness of the prepared sample for Methicillin-resistant Staphylococcus aureus. The mechanism responsible for the bactericidal effect of ZnO has been paraphrased. The unique properties of the fibrous composite membrane would be highly significant for applications in antimicrobial coatings.
+Motivated by this natural phenomena, considerable efforts have been extended to fabricate artificial superhydrophobic surfaces. These artificial superhydrophobic surfaces
+ix
+have been fabricated presumably by tailoring surface topography. However, all these methods have been subjected to certain limitations mainly including tedious fabrication, severe conditions, expensive materials and poor durability, etc. By the detailed investigation of the water contact angle, we have been able to foresee the different morphologies corresponding to different contact angles, which indicate exuberant wettability of the surface. Concluding, an extensive influence of the surface morphology has been corporatized by the wettability of a solid surface.
+In composite nanofibers, invariable confinement of the particles inside the polymer fibers has found to reduce the efficiency in enhancing the properties of the membranes. As a means to overcome this limitation, abounding nanostructures of the inorganic compounds on the surface of the fiber either by coating directly or allowing them to grow on the outer surface of the polymer has turned out to be an eminent phase. One must also make sure that the growth turns out to be uniform throughout the fiber surface without much agglomeration. A facile way for obtaining a monodispersed growth of ZnO nanoparticles on the fiber surface has been construed. Importantly, the morphology of the ZnO nanostructures has been under effective control by varying the process of preparation, concentration of precursor and also by controlling the thermal treatment. As a result, the homogeneous shape and uniform distribution of ZnO coated fiber surface have been obtained.</td></tr>
+<tr><td class="metadataFieldLabel">URI:&nbsp;</td><td class="metadataFieldValue"><a href="http://hdl.handle.net/123456789/7039">http://hdl.handle.net/123456789/7039</a></td></tr>
+<tr><td class="metadataFieldLabel">Appears in Collections:</td><td class="metadataFieldValue"><a href="/dspace/handle/123456789/6855">Ph.D - Thesis  </a><br/></td></tr>
+</table></center><br/>
+<table align="center" class="miscTable"><tr><td class="evenRowEvenCol"><p><strong>Files in This Item:</strong></p>
+<table cellpadding="6"><tr><th id="t1" class="standard">File</th>
+<th id="t2" class="standard">Description</th>
+<th id="t3" class="standard">Size</th><th id="t4" class="standard">Format</th></tr>
+<tr><td headers="t1" class="standard"><a target="_blank" href="/dspace/bitstream/123456789/7039/1/T0040.pdf">T0040.pdf</a></td><td headers="t2" class="standard"></td><td headers="t3" class="standard">15.63 MB</td><td headers="t4" class="standard">Adobe PDF</td><td class="standard" align="center"><a target="_blank" href="/dspace/bitstream/123456789/7039/1/T0040.pdf">View/Open</a></td></tr></table>
+</td></tr></table>
+
+
+
+    <div align="center">
+
+    <form method="get" action="/dspace/handle/123456789/7039">
+        <input type="hidden" name="mode" value="full"/>
+        <input type="submit" name="submit_simple" value="Show full item record" />
+    </form>
+
+    </div>
+
+
+
+
+    
+
+    
+
+    <p class="submitFormHelp">Items in DSpace are protected by copyright, with all rights reserved, unless otherwise indicated.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+                    <p>&nbsp;</p>
+                </td>
+
+            
+
+            </tr>
+
+            
+             <tr class="pageFooterBar">
+                <td colspan="2" class="pageFootnote">
+                    <table class="pageFooterBar" width="1000%"> 
+                        <tr>
+                            <td>
+                              
+                               
+                              
+                            </td>
+                            <td class="pageFootnote">
+                          
+                       
+                            </td>
+                            <td nowrap="nowrap" valign="middle"> 
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
