@@ -38,9 +38,9 @@ for myfile in glob.iglob(DSPACE_BASE + "*"):
       if url in data['urlhref']:
         continue
       data['urlhref'].append(url)
-      pdf = my_dir + url.split("/" + filenam,1)[1] 
+      pdf = re.sub('/dspace/bitstream/', 'DATA/', url)
       os.system("/bin/bash -c 'curl --progress-bar http://10.1.32.27" + url + " --create-dirs -o " + pdf + "'")
       os.system("/bin/bash -c 'touch " + json_file + "'")
-  with open(json_file, 'w') as fp:
-    json.dump(data, fp)
-  time.sleep(1)
+      with open(json_file, 'w') as fp:
+        json.dump(data, fp)
+  #time.sleep(1)
